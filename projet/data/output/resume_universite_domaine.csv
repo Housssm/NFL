@@ -1,0 +1,127 @@
+universite,domaine_professionnel,n_diplomes,score_moyen,score_ecart_type,salaire_median,salaire_moyen,niveau_moyen,taux_top25_salaire,taux_senior
+Sorbonne Université,Banque,17,64.02,14.28,127000.0,123294.12,5.12,35.3,100.0
+Sorbonne Université,Conseil,10,70.08,8.34,117500.0,118100.0,5.5,30.0,100.0
+Sorbonne Université,Industrie,15,58.21,16.53,86500.0,90420.83,4.8,26.7,93.3
+Sorbonne Université,Juridique,10,60.07,17.59,97500.0,97350.0,4.6,30.0,100.0
+Sorbonne Université,Marketing,21,60.36,13.54,78000.0,83666.67,4.86,19.0,100.0
+Sorbonne Université,Santé,17,67.11,14.62,109000.0,107823.53,5.47,47.1,100.0
+Sorbonne Université,Tech,18,63.81,13.03,114250.0,106527.78,5.06,33.3,94.4
+Université Côte d'Azur,Banque,6,65.82,17.45,136500.0,123666.67,5.33,66.7,100.0
+Université Côte d'Azur,Conseil,15,60.76,10.5,113000.0,111366.67,5.07,6.7,100.0
+Université Côte d'Azur,Industrie,12,59.21,14.45,96250.0,95041.67,4.83,25.0,100.0
+Université Côte d'Azur,Juridique,16,56.45,18.08,94250.0,93593.75,4.69,18.8,87.5
+Université Côte d'Azur,Marketing,8,52.84,20.33,77500.0,81000.0,4.5,25.0,87.5
+Université Côte d'Azur,Santé,6,60.59,19.18,95250.0,88333.33,5.0,0.0,83.3
+Université Côte d'Azur,Tech,11,54.89,10.04,98000.0,98545.45,4.82,18.2,100.0
+Université Grenoble Alpes,Banque,9,60.29,10.6,121500.0,119055.56,4.67,11.1,100.0
+Université Grenoble Alpes,Conseil,13,59.71,9.84,108500.0,110500.0,5.15,15.4,100.0
+Université Grenoble Alpes,Industrie,5,64.62,13.7,94000.0,91200.0,5.4,20.0,100.0
+Université Grenoble Alpes,Juridique,12,62.89,18.61,107250.0,102500.0,4.75,41.7,100.0
+Université Grenoble Alpes,Marketing,15,59.24,17.22,84000.0,82833.33,4.67,20.0,80.0
+Université Grenoble Alpes,Santé,12,60.89,14.61,94750.0,93458.33,5.0,25.0,100.0
+Université Grenoble Alpes,Tech,13,67.49,16.15,118500.0,109461.54,5.38,53.8,92.3
+Université PSL,Banque,19,63.66,16.89,117000.0,118710.53,5.0,31.6,100.0
+Université PSL,Conseil,13,65.54,14.0,114500.0,116038.46,5.31,30.8,100.0
+Université PSL,Industrie,23,65.86,14.57,100500.0,96347.83,5.3,39.1,100.0
+Université PSL,Juridique,14,62.49,13.06,96750.0,97821.43,5.0,21.4,100.0
+Université PSL,Marketing,14,79.61,9.41,102750.0,99071.43,5.64,64.3,100.0
+Université PSL,Santé,12,68.09,12.91,102250.0,100958.33,5.33,25.0,100.0
+Université PSL,Tech,11,69.42,11.35,109000.0,114000.0,5.45,36.4,100.0
+Université Paris Cité,Banque,5,68.08,11.9,124500.0,125400.0,5.6,40.0,100.0
+Université Paris Cité,Conseil,11,67.24,16.36,117500.0,114818.18,5.27,18.2,100.0
+Université Paris Cité,Industrie,23,63.34,16.75,93500.0,93817.93,5.04,17.4,95.7
+Université Paris Cité,Juridique,11,65.2,9.68,97000.0,103659.09,5.09,27.3,100.0
+Université Paris Cité,Marketing,15,62.58,16.8,83000.0,85966.67,5.13,26.7,100.0
+Université Paris Cité,Santé,14,60.64,16.3,99250.0,97535.71,4.64,28.6,100.0
+Université Paris Cité,Tech,8,67.42,12.45,110500.0,108875.0,5.25,25.0,100.0
+Université Paris-Saclay,Banque,23,72.54,11.3,132500.0,134391.3,5.57,52.2,100.0
+Université Paris-Saclay,Conseil,18,62.65,16.43,110250.0,112972.22,4.83,33.3,100.0
+Université Paris-Saclay,Industrie,19,70.98,10.77,97000.0,99263.16,5.68,31.6,100.0
+Université Paris-Saclay,Juridique,15,65.46,14.9,96500.0,100700.0,4.93,20.0,100.0
+Université Paris-Saclay,Marketing,15,71.94,14.79,99000.0,96533.33,5.33,66.7,100.0
+Université Paris-Saclay,Santé,15,68.35,15.89,107500.0,103700.0,5.07,33.3,93.3
+Université Paris-Saclay,Tech,15,65.51,10.1,105000.0,106400.0,5.13,26.7,100.0
+Université Toulouse Capitole,Banque,11,61.33,14.82,121000.0,117181.82,4.82,36.4,100.0
+Université Toulouse Capitole,Conseil,13,62.35,16.95,123000.0,114500.0,5.0,38.5,92.3
+Université Toulouse Capitole,Industrie,13,56.95,18.03,93000.0,91562.5,5.0,30.8,84.6
+Université Toulouse Capitole,Juridique,10,62.62,13.86,102875.0,99925.0,5.1,40.0,100.0
+Université Toulouse Capitole,Marketing,13,54.08,15.14,78000.0,79269.23,4.69,23.1,100.0
+Université Toulouse Capitole,Santé,15,64.47,13.02,99500.0,101166.67,5.53,40.0,100.0
+Université Toulouse Capitole,Tech,7,62.63,19.05,108500.0,104642.86,5.14,28.6,85.7
+Université d'Aix-Marseille,Banque,13,55.49,15.77,119000.0,110000.0,4.69,7.7,100.0
+Université d'Aix-Marseille,Conseil,8,62.29,17.42,127250.0,117312.5,5.12,62.5,100.0
+Université d'Aix-Marseille,Industrie,11,55.15,16.28,89500.0,86909.09,5.0,27.3,90.9
+Université d'Aix-Marseille,Juridique,5,60.63,8.62,98500.0,101800.0,5.2,20.0,100.0
+Université d'Aix-Marseille,Marketing,12,56.37,18.94,87500.0,80500.0,4.92,16.7,91.7
+Université d'Aix-Marseille,Santé,12,63.63,15.19,101500.0,99125.0,5.17,41.7,91.7
+Université d'Aix-Marseille,Tech,10,49.66,16.68,78250.0,88900.0,3.9,20.0,90.0
+Université de Bordeaux,Banque,15,59.69,16.75,117000.0,115533.33,4.93,13.3,100.0
+Université de Bordeaux,Conseil,9,60.2,17.85,114500.0,109500.0,4.78,33.3,100.0
+Université de Bordeaux,Industrie,10,60.36,14.51,98000.0,90550.0,5.3,10.0,100.0
+Université de Bordeaux,Juridique,13,57.4,16.13,96750.0,97673.08,4.92,23.1,92.3
+Université de Bordeaux,Marketing,12,59.32,18.96,85250.0,82791.67,5.25,25.0,100.0
+Université de Bordeaux,Santé,13,54.26,14.13,86000.0,92307.69,5.0,23.1,100.0
+Université de Bordeaux,Tech,16,60.14,11.06,101500.0,103843.75,5.19,12.5,100.0
+Université de Bourgogne,Banque,8,44.57,11.41,98250.0,97125.0,4.5,0.0,87.5
+Université de Bourgogne,Conseil,6,55.32,16.74,104500.0,103416.67,4.83,0.0,100.0
+Université de Bourgogne,Industrie,9,51.53,12.77,83500.0,82388.89,4.78,0.0,88.9
+Université de Bourgogne,Juridique,10,48.55,23.47,87500.0,84093.75,4.1,20.0,80.0
+Université de Bourgogne,Marketing,6,52.13,21.1,80750.0,78250.0,4.67,16.7,83.3
+Université de Bourgogne,Santé,12,54.84,12.53,92500.0,87666.67,5.0,8.3,100.0
+Université de Bourgogne,Tech,12,51.16,13.31,96750.0,93458.33,4.58,8.3,91.7
+Université de Lille,Banque,8,55.87,24.65,119250.0,111937.5,4.62,25.0,87.5
+Université de Lille,Conseil,18,55.26,12.29,103500.0,101166.67,5.0,11.1,100.0
+Université de Lille,Industrie,8,50.12,18.87,88750.0,87250.0,4.75,12.5,75.0
+Université de Lille,Juridique,6,57.16,19.85,92000.0,96916.67,5.0,16.7,100.0
+Université de Lille,Marketing,13,55.07,16.87,79500.0,80307.69,4.46,30.8,92.3
+Université de Lille,Santé,14,50.46,12.05,89250.0,87142.86,4.36,7.1,92.9
+Université de Lille,Tech,11,64.52,13.65,116500.0,112090.91,5.55,45.5,100.0
+Université de Lorraine,Banque,8,56.74,13.26,101000.0,108875.0,5.25,25.0,100.0
+Université de Lorraine,Conseil,11,57.89,17.49,111500.0,110136.36,5.09,27.3,100.0
+Université de Lorraine,Industrie,10,61.03,17.06,98250.0,91500.0,5.1,20.0,90.0
+Université de Lorraine,Juridique,7,45.97,26.87,70000.0,80714.29,3.86,28.6,57.1
+Université de Lorraine,Marketing,13,52.24,14.43,79000.0,75961.54,4.54,7.7,100.0
+Université de Lorraine,Santé,9,54.92,16.15,91500.0,88888.89,4.78,11.1,88.9
+Université de Lorraine,Tech,8,56.18,18.38,104250.0,95687.5,4.62,12.5,87.5
+Université de Lyon,Banque,8,59.02,13.25,109500.0,116312.5,4.75,37.5,100.0
+Université de Lyon,Conseil,9,60.77,18.38,112000.0,113166.67,5.0,22.2,100.0
+Université de Lyon,Industrie,14,68.43,12.74,99500.0,100357.14,5.57,42.9,100.0
+Université de Lyon,Juridique,5,67.47,10.85,104000.0,105400.0,5.2,20.0,100.0
+Université de Lyon,Marketing,16,58.31,14.41,83500.0,82875.0,4.62,25.0,100.0
+Université de Lyon,Santé,7,56.35,11.26,78000.0,84857.14,4.71,0.0,100.0
+Université de Lyon,Tech,9,61.88,15.61,99500.0,102833.33,5.0,33.3,100.0
+Université de Montpellier,Banque,15,52.64,13.6,110500.0,103433.33,4.87,0.0,93.3
+Université de Montpellier,Conseil,8,57.48,15.8,102750.0,102875.0,5.0,12.5,100.0
+Université de Montpellier,Industrie,9,50.24,7.64,84000.0,82611.11,4.78,0.0,100.0
+Université de Montpellier,Juridique,9,43.6,17.11,82500.0,82611.11,4.11,0.0,77.8
+Université de Montpellier,Marketing,11,49.89,11.79,76000.0,74000.0,4.18,0.0,100.0
+Université de Montpellier,Santé,17,55.13,19.75,98500.0,93617.65,4.59,17.6,94.1
+Université de Montpellier,Tech,8,57.71,20.59,109250.0,98687.5,5.0,0.0,87.5
+Université de Nantes,Banque,12,53.19,16.34,114000.0,106041.67,4.5,8.3,83.3
+Université de Nantes,Conseil,12,58.21,17.83,110500.0,107375.0,4.83,16.7,91.7
+Université de Nantes,Industrie,12,56.44,14.21,87500.0,87583.33,4.75,8.3,91.7
+Université de Nantes,Juridique,7,59.31,17.03,96000.0,94000.0,4.43,14.3,100.0
+Université de Nantes,Marketing,11,54.23,14.67,75500.0,74818.18,4.73,9.1,90.9
+Université de Nantes,Santé,4,65.07,20.92,115750.0,109375.0,5.5,75.0,100.0
+Université de Nantes,Tech,11,54.87,20.21,107500.0,99090.91,4.91,27.3,100.0
+Université de Rennes,Banque,8,57.67,17.39,105750.0,108312.5,4.88,12.5,100.0
+Université de Rennes,Conseil,9,50.73,17.16,94500.0,93888.89,4.56,0.0,88.9
+Université de Rennes,Industrie,12,55.03,15.42,88500.0,85041.67,4.92,25.0,91.7
+Université de Rennes,Juridique,10,56.98,12.95,95125.0,97575.0,5.1,20.0,100.0
+Université de Rennes,Marketing,12,51.28,19.44,67750.0,72958.33,4.25,8.3,91.7
+Université de Rennes,Santé,9,57.41,10.95,88500.0,89277.78,5.0,0.0,100.0
+Université de Rennes,Tech,5,35.68,12.64,80000.0,79000.0,3.4,0.0,80.0
+Université de Strasbourg,Banque,12,54.33,14.57,109250.0,106333.33,5.08,8.3,100.0
+Université de Strasbourg,Conseil,15,60.54,19.71,112000.0,114200.0,4.93,33.3,100.0
+Université de Strasbourg,Industrie,11,55.74,12.64,91500.0,86590.91,4.64,9.1,90.9
+Université de Strasbourg,Juridique,12,53.82,15.48,97250.0,92333.33,4.25,16.7,83.3
+Université de Strasbourg,Marketing,15,57.61,15.16,77500.0,80766.67,4.93,13.3,100.0
+Université de Strasbourg,Santé,9,58.15,18.7,98500.0,93333.33,4.33,44.4,77.8
+Université de Strasbourg,Tech,11,56.02,10.56,97000.0,97590.91,4.64,9.1,100.0
+École Polytechnique,Banque,20,68.44,14.48,126750.0,124725.0,5.35,45.0,95.0
+École Polytechnique,Conseil,11,70.57,11.06,130000.0,126318.18,5.82,63.6,100.0
+École Polytechnique,Industrie,24,71.12,9.88,103000.0,101867.19,5.33,45.8,100.0
+École Polytechnique,Juridique,12,72.71,11.64,114750.0,111291.67,5.67,66.7,100.0
+École Polytechnique,Marketing,12,71.25,16.82,92500.0,98765.62,5.25,41.7,100.0
+École Polytechnique,Santé,20,63.98,17.77,101500.0,100775.0,5.1,30.0,95.0
+École Polytechnique,Tech,15,67.1,16.0,113000.0,109900.0,5.0,40.0,86.7

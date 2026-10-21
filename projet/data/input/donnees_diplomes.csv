@@ -1,0 +1,1516 @@
+id,nom,universite,annee_diplome,domaine_formation,poste_actuel,domaine_professionnel,annees_experience,salaire_annuel,niveau_poste,taille_entreprise,satisfaction_carriere
+1,Personne_00001,Université Toulouse Capitole,2012,Santé,Directeur Général,Santé,11,83500.0,6,30,7.0
+2,Personne_00002,Université Toulouse Capitole,2007,Industrie,CEO,Industrie,15,112500.0,6,271,9.0
+3,Personne_00003,Université de Lyon,2009,Industrie,CFO,Industrie,15,114500.0,6,225,7.0
+4,Personne_00004,Université de Strasbourg,2022,Tech,Consultant Senior,Tech,1,72000.0,3,573,8.0
+5,Personne_00005,Sorbonne Université,2017,Marketing,Chef de projet,Marketing,5,70000.0,4,66,8.0
+6,Personne_00006,sorbonne universite,2007,Industrie,CEO,Industrie,15,115000.0,6,803,8.0
+7,Personne_00007,Université Côte d'Azur,2019,Industrie,Manager,Industrie,3,,4,349,8.0
+8,Personne_00008,Université Paris-Saclay,2019,Marketing,Expert,Marketing,3,64000.0,3,115,6.0
+9,Personne_00009,École Polytechnique,2007,Banque,CFO,Banque,16,118000.0,6,143,8.0
+10,Personne_00010,Université de Bordeaux,2015,Tech,Manager,Tech,7,85000.0,4,965,7.0
+11,Personne_00011,Université de Lorraine,2009,Tech,CTO,Tech,13,115000.0,6,738,6.0
+12,Personne_00012,Université Toulouse Capitole,2016,Juridique,Directeur,Juridique,7,89500.0,5,136,6.0
+13,Personne_00013,Université de Rennes,2013,Santé,Directeur Technique,Santé,9,97000.0,5,499,8.0
+14,Personne_00014,Université de Strasbourg,2010,Banque,Chef de projet,Banque,12,89500.0,4,29,5.0
+15,Personne_00015,Université Paris Cité,2017,Industrie,CEO,Industrie,6,93500.0,6,796,6.0
+16,Personne_00016,Université PSL,2006,Tech,Directeur Général,Tech,17,105000.0,6,490,8.0
+17,Personne_00017,Sorbonne Université,2020,Industrie,Team Lead,Industrie,4,80500.0,4,253,10.0
+18,Personne_00018,Université de Montpellier,2006,Santé,CEO,Santé,16,125500.0,6,930,8.0
+19,Personne_00019,École Polytechnique,2015,Banque,Directeur Technique,Banque,7,115000.0,5,27,9.0
+20,Personne_00020,UNIVERSITÉ PARIS-SACLAY,2022,Banque,Manager,Banque,1,110000.0,4,5971,10.0
+21,,Université Paris Cité,2015,Banque,Directeur,Banque,8,106000.0,5,125,6.0
+22,Personne_00022,UNIVERSITÉ PARIS-SACLAY,2019,Conseil,Directeur de division,Conseil,5,98000.0,5,16,7.0
+23,Personne_00023,Université PSL,2016,Banque,Directeur de division,Banque,6,130000.0,5,110,5.0
+24,Personne_00024,Université Paris-Saclay,2014,Tech,Directeur,Tech,9,119500.0,5,57,9.0
+25,Personne_00025,Université PSL,2014,Santé,Directeur Technique,Santé,8,104500.0,5,118,5.0
+26,Personne_00026,Université de Bourgogne,2021,Banque,Expert,Banque,3,81500.0,3,386,9.0
+27,Personne_00027,Université Toulouse Capitole,2016,Conseil,Directeur,Conseil,7,124000.0,5,328,5.0
+28,Personne_00028,Université PSL,2007,Tech,Directeur Général,Tech,17,124500.0,6,2535,5.0
+29,Personne_00029,Université Grenoble Alpes,2018,Juridique,Team Lead,Juridique,6,85500.0,4,419,10.0
+30,Personne_00030,École Polytechnique,2017,Tech,Directeur Technique,Tech,5,95500.0,5,34,6.0
+31,,Université Côte d'Azur,2017,Tech,Chef de projet,Tech,7,84000.0,4,144,9.0
+32,Personne_00032,Université de Nantes,2022,Conseil,Analyste Confirmé,Conseil,1,66500.0,2,360,7.0
+33,Personne_00033,École Polytechnique,2007,Marketing,CEO,Marketing,15,125500.0,6,62,7.0
+34,Personne_00034,Université d'Aix-Marseille,2019,Santé,Engineering Manager,Santé,3,72500.0,4,85,3.0
+35,Personne_00035,Université de Bordeaux,2015,Marketing,Directeur Général,Marketing,7,83000.0,6,60,7.0
+36,Personne_00036,Université de Lorraine,2013,Banque,Engineering Manager,Banque,10,88500.0,4,4624,10.0
+37,Personne_00037,Université Paris-Saclay,2015,Industrie,CTO,Industrie,8,91500.0,6,165,9.0
+38,Personne_00038,sorbonne universite,2010,Banque,Directeur Technique,Banque,13,120500.0,5,159,
+39,Personne_00039,Université Paris-Saclay,2015,Industrie,CFO,Industrie,8,106500.0,6,266,7.0
+40,Personne_00040,Université Côte d'Azur,2005,Industrie,CTO,Industrie,18,129000.0,6,3033,8.0
+41,Personne_00041,Université Paris-Saclay,2011,Tech,Directeur,Tech,11,126500.0,5,372,8.0
+42,Personne_00042,Ecole Polytechnique,2020,Marketing,Consultant Senior,Marketing,2,63000.0,3,373,8.0
+43,Personne_00043,Université Toulouse Capitole,2007,Marketing,CFO,Marketing,15,112500.0,6,5,7.0
+44,Personne_00044,Université de Montpellier,2009,Banque,Directeur Technique,Banque,15,123000.0,5,3880,4.0
+45,Personne_00045,Université de Strasbourg,2010,Marketing,Directeur,Marketing,13,83000.0,5,1958,8.0
+46,Personne_00046,Université d'Aix-Marseille,2010,Marketing,CFO,Marketing,13,98000.0,6,920,7.0
+47,Personne_00047,Université de Montpellier,2010,Tech,Directeur de division,Tech,14,114500.0,5,180,9.0
+48,Personne_00048,École Polytechnique,2018,Santé,Senior Developer,Santé,5,77500.0,3,37,7.0
+49,Personne_00049,Université de Lille,2019,Industrie,Consultant,Industrie,3,57500.0,2,34,6.0
+50,Personne_00050,Université de Montpellier,2008,Banque,CFO,Banque,16,98500.0,6,398,7.0
+51,Personne_00051,Université Toulouse Capitole,2013,Industrie,Directeur,Industrie,11,96500.0,5,19,10.0
+52,Personne_00052,Université de Nantes,2012,Marketing,Directeur Général,Marketing,10,99500.0,6,355,7.0
+53,Personne_00053,Université PSL,2011,Marketing,CEO,Marketing,12,104000.0,6,1211,5.0
+54,Personne_00054,Université de Strasbourg,2018,Tech,Chef de projet,Tech,6,91500.0,4,944,7.0
+55,Personne_00055,Université de Bourgogne,2017,Tech,Team Lead,Tech,5,106500.0,4,176,3.0
+56,Personne_00056,Université de Lille,2017,Tech,Directeur Technique,Tech,6,80000.0,5,33,4.0
+57,,Université de Lyon,2010,Tech,Directeur Général,Tech,13,99500.0,6,6,7.0
+58,Personne_00058,Université PSL,2020,Marketing,Engineering Manager,Marketing,4,81500.0,4,353,8.0
+59,Personne_00059,Université PSL,2007,Industrie,Directeur Général,Industrie,15,105500.0,6,563,7.0
+60,Personne_00060,Université Paris-Saclay,2005,Banque,CFO,Banque,17,122000.0,6,5,6.0
+61,Personne_00061,Université Toulouse Capitole,2021,Juridique,Team Lead,Juridique,3,,4,219,10.0
+62,Personne_00062,Université de Montpellier,2020,Tech,Developer,Tech,3,59500.0,2,137,9.0
+63,Personne_00063,Université de Bourgogne,2016,Marketing,Senior Developer,Marketing,7,66000.0,3,198,4.0
+64,Personne_00064,Sorbonne Université,2006,Conseil,CTO,Conseil,16,123000.0,6,485,7.0
+65,Personne_00065,Université de Lille,2007,Industrie,Directeur Général,Industrie,17,87000.0,6,1349,6.0
+66,Personne_00066,Université Paris Cité,2007,Banque,CFO,Banque,16,169000.0,6,6789,7.0
+67,Personne_00067,Université PSL,2010,Tech,CEO,Tech,13,124500.0,6,404,6.0
+68,Personne_00068,Sorbonne Université,2015,Juridique,Directeur Technique,Juridique,8,98000.0,5,5429,9.0
+69,Personne_00069,Université de Lille,2015,Conseil,Chef de projet,Conseil,8,96500.0,4,658,6.0
+70,Personne_00070,Université de Bordeaux,2012,Banque,CFO,Banque,11,130500.0,6,2423,7.0
+71,Personne_00071,Université Paris Cité,2014,Marketing,Chef de projet,Marketing,8,80000.0,4,62,8.0
+72,Personne_00072,Université Côte d'Azur,2006,Marketing,CEO,Marketing,18,94500.0,6,1093,4.0
+73,Personne_00073,UNIVERSITÉ PARIS-SACLAY,2019,Industrie,Directeur de division,Industrie,3,97000.0,5,77,5.0
+74,Personne_00074,Université de Strasbourg,2022,Industrie,Team Lead,Industrie,2,69000.0,4,514,4.0
+75,Personne_00075,Université de Strasbourg,2016,Juridique,Directeur Technique,Juridique,7,100000.0,5,712,6.0
+76,Personne_00076,Université Côte d'Azur,2022,Juridique,Chargé de mission,Juridique,0,71000.0,2,180,10.0
+77,Personne_00077,Université de Strasbourg,2006,Conseil,Directeur Général,Conseil,16,149500.0,6,137,5.0
+78,Personne_00078,Université Paris Cité,2005,Juridique,CTO,Juridique,18,115000.0,6,1535,3.0
+79,Personne_00079,École Polytechnique,2009,Banque,Directeur Général,Banque,13,138000.0,6,163,7.0
+80,Personne_00080,Université Paris-Saclay,2011,Marketing,CFO,Marketing,11,103500.0,6,596,8.0
+81,Personne_00081,Université de Lorraine,2014,Conseil,Team Lead,Conseil,9,83500.0,4,33,5.0
+82,Personne_00082,Université de Strasbourg,2021,Juridique,Chargé de mission,Juridique,2,70500.0,2,798,7.0
+83,Personne_00083,Université Paris Cité,2013,Santé,Manager,Santé,10,88500.0,4,372,6.0
+84,Personne_00084,Université de Montpellier,2022,Santé,Chef de projet,Santé,0,73000.0,4,437,3.0
+85,Personne_00085,Université de Bourgogne,2019,Santé,Team Lead,Santé,4,94500.0,4,37,5.0
+86,Personne_00086,Université de Montpellier,2022,Conseil,Consultant Senior,Conseil,2,94500.0,3,17,5.0
+87,Personne_00087,Université Toulouse Capitole,2013,Juridique,Directeur de division,Juridique,9,79500.0,5,558,6.0
+88,Personne_00088,Ecole Polytechnique,2014,Banque,Directeur Général,Banque,9,146000.0,6,501,4.0
+89,Personne_00089,Université Paris-Saclay,2006,Conseil,CFO,Conseil,16,143500.0,6,67,
+90,Personne_00090,Université Toulouse Capitole,2005,Conseil,CTO,Conseil,17,123000.0,6,257,8.0
+91,Personne_00091,Université de Nantes,2005,Industrie,CEO,Industrie,17,118000.0,6,46,3.0
+92,Personne_00092,Université Grenoble Alpes,2020,Marketing,Analyste Confirmé,Marketing,2,53000.0,2,154,7.0
+93,Personne_00093,Sorbonne Université,2006,Santé,CEO,Santé,16,124500.0,6,6530,
+94,Personne_00094,Université de Lyon,2007,Industrie,CFO,Industrie,17,108500.0,6,131,10.0
+95,Personne_00095,École Polytechnique,2011,Tech,CTO,Tech,13,130500.0,6,60,8.0
+96,Personne_00096,Université Grenoble Alpes,2012,Industrie,Directeur Général,Industrie,10,89500.0,6,141,7.0
+97,,Université PSL,2010,Industrie,Directeur Général,Industrie,12,76500.0,6,858,8.0
+98,Personne_00098,Université Grenoble Alpes,2009,Marketing,CEO,Marketing,15,123500.0,6,479,8.0
+99,Personne_00099,Université Toulouse Capitole,2012,Santé,CEO,Santé,10,,6,121,6.0
+100,Personne_00100,Université de Bordeaux,2006,Conseil,CFO,Conseil,17,132500.0,6,165,9.0
+101,Personne_00101,Université de Bourgogne,2006,Marketing,Directeur Technique,Marketing,18,78000.0,5,56,7.0
+102,Personne_00102,Université Grenoble Alpes,2005,Tech,CTO,Tech,17,138000.0,6,51,
+103,Personne_00103,Université Grenoble Alpes,2012,Industrie,CEO,Industrie,12,109500.0,6,46,7.0
+104,Personne_00104,Université d'Aix-Marseille,2013,Banque,CEO,Banque,11,121500.0,6,47,7.0
+105,Personne_00105,Université Grenoble Alpes,2009,Santé,CEO,Santé,13,127000.0,6,384,9.0
+106,Personne_00106,Université Paris-Saclay,2013,Industrie,CFO,Industrie,9,110000.0,6,181,8.0
+107,Personne_00107,Université Paris-Saclay,2008,Juridique,CTO,Juridique,14,91500.0,6,1215,10.0
+108,Personne_00108,Université de Lille,2020,Santé,Engineering Manager,Santé,3,93500.0,4,558,6.0
+109,Personne_00109,Université de Lorraine,2009,Conseil,Directeur Général,Conseil,15,149500.0,6,4256,9.0
+110,Personne_00110,Université Côte d'Azur,2010,Banque,Directeur Général,Banque,13,146000.0,6,676,8.0
+111,Personne_00111,Ecole Polytechnique,2005,Juridique,CEO,Juridique,17,118500.0,6,31,10.0
+112,Personne_00112,Université de Rennes,2010,Marketing,Directeur Général,Marketing,14,93500.0,6,338,5.0
+113,Personne_00113,sorbonne universite,2014,Marketing,Directeur Général,Marketing,10,94500.0,6,4342,
+114,Personne_00114,Ecole Polytechnique,2021,Santé,Team Lead,Santé,3,75500.0,4,192,6.0
+115,Personne_00115,Université de Lille,2010,Tech,Chef de projet,Tech,13,93000.0,4,1203,9.0
+116,Personne_00116,Université de Lorraine,2009,Marketing,Directeur,Marketing,14,87500.0,5,448,9.0
+117,Personne_00117,Université de Lille,2018,Banque,Consultant Senior,Banque,4,87500.0,3,177,6.0
+118,Personne_00118,Université de Bordeaux,2012,Conseil,CTO,Conseil,10,114000.0,6,361,8.0
+119,Personne_00119,Université de Bourgogne,2008,Banque,Directeur Technique,Banque,14,88500.0,5,12,7.0
+120,Personne_00120,Université de Strasbourg,2014,Conseil,Expert,Conseil,10,92000.0,3,2975,5.0
+121,Personne_00121,Université Paris Cité,2020,Santé,Consultant Senior,Santé,2,84000.0,3,4627,7.0
+122,Personne_00122,Université de Bourgogne,2011,Juridique,Directeur de division,Juridique,11,98000.0,5,439,10.0
+123,Personne_00123,Université de Lille,2012,Conseil,Directeur,Conseil,12,103500.0,5,1047,7.0
+124,,Université de Strasbourg,2007,Marketing,CTO,Marketing,17,77500.0,6,710,5.0
+125,Personne_00125,École Polytechnique,2018,Industrie,Team Lead,Industrie,5,90000.0,4,28,7.0
+126,Personne_00126,Université d'Aix-Marseille,2009,Industrie,CTO,Industrie,15,110000.0,6,270,4.0
+127,Personne_00127,École Polytechnique,2009,Banque,CEO,Banque,15,143000.0,6,351,9.0
+128,,Université de Bourgogne,2022,Conseil,Senior Developer,Conseil,1,87000.0,3,122,2.0
+129,Personne_00129,Université Côte d'Azur,2016,Marketing,Chef de projet,Marketing,7,72000.0,4,148,9.0
+130,Personne_00130,Université de Lille,2018,Industrie,Analyste Confirmé,Industrie,4,60500.0,2,288,7.0
+131,Personne_00131,Sorbonne Université,2021,Santé,Senior Developer,Santé,2,62500.0,3,273,5.0
+132,Personne_00132,sorbonne universite,2012,Santé,CEO,Santé,12,123000.0,6,1559,10.0
+133,Personne_00133,Université de Bordeaux,2009,Marketing,CTO,Marketing,15,87000.0,6,296,6.0
+134,Personne_00134,Université de Bordeaux,2013,Banque,CFO,Banque,10,122500.0,6,276,7.0
+135,Personne_00135,Université Paris Cité,2013,Tech,Directeur Général,Tech,9,123500.0,6,38,7.0
+136,Personne_00136,UNIVERSITÉ PARIS-SACLAY,2007,Conseil,Directeur Général,Conseil,17,145500.0,6,1669,8.0
+137,Personne_00137,Université de Bordeaux,2008,Santé,Directeur Général,Santé,14,65000.0,6,15,8.0
+138,Personne_00138,Université Paris Cité,2011,Santé,CTO,Santé,12,104500.0,6,8854,7.0
+139,,Université Toulouse Capitole,2008,Marketing,Directeur Général,Marketing,16,96500.0,6,231,5.0
+140,Personne_00140,Université PSL,2006,Juridique,CEO,Juridique,17,121000.0,6,206,8.0
+141,Personne_00141,Université Paris Cité,2010,Santé,CFO,Santé,13,106500.0,6,25,
+142,Personne_00142,Université Paris Cité,2011,Industrie,CTO,Industrie,12,108000.0,6,672,5.0
+143,Personne_00143,Université de Lorraine,2018,Marketing,Team Lead,Marketing,6,66000.0,4,985,10.0
+144,Personne_00144,Université de Strasbourg,2018,Marketing,Manager,Marketing,5,77500.0,4,297,7.0
+145,Personne_00145,Université de Lyon,2016,Banque,Manager,Banque,7,108500.0,4,245,8.0
+146,Personne_00146,Université de Nantes,2016,Tech,Chef de projet,Tech,6,75000.0,4,2459,6.0
+147,Personne_00147,Université de Lorraine,2009,Marketing,CFO,Marketing,13,88500.0,6,142,8.0
+148,Personne_00148,Université de Nantes,2021,Juridique,Senior Developer,Juridique,1,54000.0,3,136,3.0
+149,Personne_00149,Université PSL,2016,Conseil,CEO,Conseil,8,128000.0,6,109,8.0
+150,Personne_00150,Université de Strasbourg,2020,Santé,Expert,Santé,2,76500.0,3,723,5.0
+151,,Université de Bordeaux,2013,Santé,Directeur,Santé,10,86000.0,5,103,8.0
+152,Personne_00152,Université Côte d'Azur,2022,Juridique,Expert,Juridique,2,73000.0,3,12236,5.0
+153,Personne_00153,Université PSL,2016,Santé,Directeur Technique,Santé,7,103000.0,5,191,10.0
+154,Personne_00154,Université Côte d'Azur,2020,Conseil,Senior Developer,Conseil,3,,3,506,10.0
+155,Personne_00155,École Polytechnique,2018,Santé,Directeur Technique,Santé,5,80000.0,5,56,8.0
+156,Personne_00156,Université de Lyon,2016,Conseil,Directeur Général,Conseil,6,119000.0,6,192,8.0
+157,Personne_00157,Université PSL,2020,Industrie,Expert,Industrie,4,59500.0,3,695,7.0
+158,Personne_00158,Université de Bordeaux,2014,Banque,CFO,Banque,10,117000.0,6,1740,10.0
+159,Personne_00159,Université de Rennes,2022,Tech,Manager,Tech,2,89000.0,4,637,
+160,Personne_00160,Université de Strasbourg,2019,Conseil,Consultant Senior,Conseil,3,93000.0,3,938,10.0
+161,Personne_00161,Université Toulouse Capitole,2013,Banque,Directeur Général,Banque,11,129500.0,6,1501,7.0
+162,Personne_00162,Université de Bordeaux,2006,Banque,CTO,Banque,17,124000.0,6,167,7.0
+163,Personne_00163,Université de Montpellier,2019,Marketing,Senior Developer,Marketing,4,47500.0,3,58,7.0
+164,Personne_00164,Université Côte d'Azur,2006,Tech,CEO,Tech,17,121000.0,6,259,7.0
+165,Personne_00165,Université Toulouse Capitole,2013,Marketing,Manager,Marketing,11,72000.0,4,250,8.0
+166,Personne_00166,Ecole Polytechnique,2008,Conseil,CTO,Conseil,16,140500.0,6,1141,8.0
+167,Personne_00167,Université de Montpellier,2013,Banque,Directeur,Banque,9,130000.0,5,5,5.0
+168,,Université PSL,2016,Industrie,Manager,Industrie,6,73500.0,4,61,10.0
+169,Personne_00169,Université de Rennes,2005,Industrie,CTO,Industrie,18,82000.0,6,202,5.0
+170,Personne_00170,Université Toulouse Capitole,2019,Tech,Chef de projet,Tech,4,91000.0,4,477,5.0
+171,Personne_00171,Université de Lille,2017,Santé,Engineering Manager,Santé,5,68000.0,4,147,8.0
+172,Personne_00172,Sorbonne Université,2021,Marketing,Directeur,Marketing,3,78000.0,5,812,10.0
+173,Personne_00173,Université de Lille,2008,Industrie,CFO,Industrie,16,90500.0,6,29,6.0
+174,Personne_00174,Sorbonne Université,2007,Tech,Directeur Général,Tech,16,115500.0,6,59,10.0
+175,Personne_00175,Université PSL,2015,Juridique,Directeur Technique,Juridique,8,95500.0,5,5,5.0
+176,Personne_00176,École Polytechnique,2016,Industrie,CTO,Industrie,7,,6,1929,8.0
+177,Personne_00177,Université de Bourgogne,2005,Industrie,CEO,Industrie,19,97000.0,6,599,8.0
+178,Personne_00178,Sorbonne Université,2022,Marketing,Manager,Marketing,2,74000.0,4,68,7.0
+179,Personne_00179,Université Grenoble Alpes,2008,Banque,CTO,Banque,14,119000.0,6,3618,6.0
+180,Personne_00180,Université de Lyon,2016,Marketing,Consultant Senior,Marketing,7,64500.0,3,20,9.0
+181,Personne_00181,Université de Lille,2013,Conseil,Directeur,Conseil,11,101000.0,5,844,7.0
+182,Personne_00182,École Polytechnique,2007,Conseil,CFO,Conseil,16,149500.0,6,119,7.0
+183,Personne_00183,Université PSL,2019,Industrie,Directeur de division,Industrie,3,94000.0,5,2861,10.0
+184,Personne_00184,Université de Strasbourg,2021,Tech,Expert,Tech,1,70000.0,3,3268,8.0
+185,Personne_00185,UNIVERSITÉ PARIS-SACLAY,2018,Conseil,Consultant Senior,Conseil,6,98000.0,3,269,8.0
+186,Personne_00186,Université Grenoble Alpes,2020,Juridique,Manager,Juridique,2,84500.0,4,121,6.0
+187,Personne_00187,Université d'Aix-Marseille,2014,Banque,Team Lead,Banque,10,95000.0,4,38,5.0
+188,Personne_00188,Université de Lorraine,2011,Santé,CTO,Santé,13,113000.0,6,163,3.0
+189,Personne_00189,Université de Lille,2012,Juridique,Directeur,Juridique,10,85000.0,5,886,6.0
+190,Personne_00190,Université PSL,2010,Santé,Directeur Général,Santé,12,118500.0,6,22,10.0
+191,Personne_00191,Sorbonne Université,2017,Santé,Manager,Santé,7,88500.0,4,1150,8.0
+192,Personne_00192,sorbonne universite,2007,Industrie,CTO,Industrie,16,95500.0,6,994,8.0
+193,Personne_00193,Université Côte d'Azur,2022,Conseil,Engineering Manager,Conseil,2,115500.0,4,173,6.0
+194,Personne_00194,Université de Lyon,2005,Conseil,CFO,Conseil,19,166000.0,6,412,6.0
+195,Personne_00195,Université Grenoble Alpes,2021,Industrie,Engineering Manager,Industrie,2,64000.0,4,430,10.0
+196,Personne_00196,sorbonne universite,2014,Marketing,Directeur de division,Marketing,10,84500.0,5,133,9.0
+197,Personne_00197,Université de Bourgogne,2010,Conseil,CTO,Conseil,12,103000.0,6,2050,9.0
+198,Personne_00198,Université de Rennes,2019,Industrie,Team Lead,Industrie,5,61500.0,4,235,8.0
+199,Personne_00199,Université de Bordeaux,2014,Conseil,Directeur Général,Conseil,8,132500.0,6,5,7.0
+200,Personne_00200,Université de Strasbourg,2011,Banque,CEO,Banque,13,,6,419,6.0
+201,Personne_00201,Université Paris Cité,2016,Marketing,CTO,Marketing,8,73500.0,6,4816,8.0
+202,Personne_00202,Université de Bordeaux,2021,Santé,Team Lead,Santé,1,74500.0,4,176,
+203,Personne_00203,Sorbonne Université,2015,Banque,Directeur Général,Banque,8,128500.0,6,556,7.0
+204,Personne_00204,Université de Montpellier,2020,Santé,Team Lead,Santé,3,70500.0,4,8663,9.0
+205,Personne_00205,Université Paris Cité,2011,Marketing,Directeur Général,Marketing,13,102000.0,6,2302,8.0
+206,Personne_00206,Université de Nantes,2012,Banque,CTO,Banque,10,133500.0,6,158,5.0
+207,Personne_00207,Ecole Polytechnique,2013,Santé,CFO,Santé,10,107500.0,6,5,5.0
+208,Personne_00208,Université d'Aix-Marseille,2012,Juridique,Engineering Manager,Juridique,10,102500.0,4,194,8.0
+209,Personne_00209,Université de Bourgogne,2013,Tech,Directeur de division,Tech,10,96000.0,5,553,7.0
+210,Personne_00210,Université Toulouse Capitole,2012,Juridique,CFO,Juridique,11,111500.0,6,4257,8.0
+211,Personne_00211,Université de Nantes,2022,Juridique,Analyste Senior,Juridique,0,77000.0,3,260,5.0
+212,Personne_00212,Université de Lyon,2008,Industrie,CFO,Industrie,15,117000.0,6,239,3.0
+213,Personne_00213,Université Paris Cité,2009,Marketing,CTO,Marketing,14,94500.0,6,3749,8.0
+214,Personne_00214,Université de Bordeaux,2020,Banque,Team Lead,Banque,2,86000.0,4,997,5.0
+215,Personne_00215,École Polytechnique,2009,Conseil,CEO,Conseil,15,127000.0,6,44,7.0
+216,Personne_00216,Université d'Aix-Marseille,2019,Banque,Chef de projet,Banque,4,83500.0,4,98,6.0
+217,Personne_00217,Université de Strasbourg,2008,Banque,CEO,Banque,16,103500.0,6,228,10.0
+218,Personne_00218,Université PSL,2007,Conseil,CEO,Conseil,17,107000.0,6,16,8.0
+219,Personne_00219,Université Paris Cité,2013,Conseil,Chef de projet,Conseil,10,87500.0,4,5,7.0
+220,Personne_00220,Université Paris Cité,2019,Industrie,Directeur,Industrie,4,85000.0,5,8,8.0
+221,Personne_00221,Université de Lyon,2015,Industrie,Chef de projet,Industrie,7,96000.0,4,52,9.0
+222,Personne_00222,Université Côte d'Azur,2022,Marketing,Consultant,Marketing,0,56500.0,2,357,7.0
+223,Personne_00223,Université de Lille,2021,Santé,Analyste Confirmé,Santé,2,64000.0,2,460,4.0
+224,Personne_00224,Université Paris-Saclay,2022,Santé,Analyste Confirmé,Santé,0,60000.0,2,76,9.0
+225,Personne_00225,Université Côte d'Azur,2009,Juridique,Directeur Général,Juridique,13,101000.0,6,39,5.0
+226,Personne_00226,Université PSL,2022,Conseil,Manager,Conseil,1,78500.0,4,254,7.0
+227,Personne_00227,Université Toulouse Capitole,2011,Santé,Directeur de division,Santé,11,97000.0,5,1269,3.0
+228,Personne_00228,Université Paris-Saclay,2008,Banque,CFO,Banque,14,130000.0,6,202,5.0
+229,Personne_00229,Université de Strasbourg,2008,Banque,CTO,Banque,16,114000.0,6,25,7.0
+230,Personne_00230,Université de Nantes,2022,Tech,Analyste Senior,Tech,2,76000.0,3,3054,5.0
+231,Personne_00231,Université Toulouse Capitole,2006,Juridique,CEO,Juridique,17,113500.0,6,2149,8.0
+232,Personne_00232,Université Toulouse Capitole,2021,Banque,Consultant Senior,Banque,2,82500.0,3,228,7.0
+233,Personne_00233,Université Paris Cité,2012,Industrie,Engineering Manager,Industrie,10,86500.0,4,72,8.0
+234,Personne_00234,Université de Montpellier,2019,Industrie,Engineering Manager,Industrie,5,84000.0,4,5,10.0
+235,Personne_00235,Université Paris-Saclay,2020,Juridique,Analyste Senior,Juridique,3,80500.0,3,238,8.0
+236,Personne_00236,Université Paris Cité,2018,Tech,Manager,Tech,4,88000.0,4,23,8.0
+237,Personne_00237,Université Toulouse Capitole,2010,Santé,Directeur Technique,Santé,13,99500.0,5,202,
+238,Personne_00238,Université de Strasbourg,2019,Marketing,Directeur de division,Marketing,3,82000.0,5,132,7.0
+239,Personne_00239,Sorbonne Université,2019,Conseil,Directeur de division,Conseil,4,108000.0,5,11149,5.0
+240,Personne_00240,Université de Montpellier,2013,Santé,Directeur de division,Santé,11,96500.0,5,245,8.0
+241,Personne_00241,Université Toulouse Capitole,2011,Santé,Directeur Général,Santé,12,112500.0,6,170,4.0
+242,Personne_00242,Université de Lille,2016,Conseil,Team Lead,Conseil,6,77500.0,4,47,6.0
+243,Personne_00243,Université d'Aix-Marseille,2005,Industrie,CEO,Industrie,18,108000.0,6,195,9.0
+244,,Université Paris-Saclay,2018,Conseil,Analyste Senior,Conseil,5,84000.0,3,33,8.0
+245,Personne_00245,Université Toulouse Capitole,2009,Marketing,CTO,Marketing,13,83000.0,6,111,7.0
+246,Personne_00246,Université de Rennes,2014,Juridique,Directeur,Juridique,10,100000.0,5,1261,7.0
+247,Personne_00247,Université Côte d'Azur,2011,Tech,Directeur,Tech,11,91500.0,5,299,6.0
+248,Personne_00248,Université Grenoble Alpes,2008,Marketing,CTO,Marketing,16,83500.0,6,84,10.0
+249,Personne_00249,UNIVERSITÉ PARIS-SACLAY,2007,Tech,Directeur Général,Tech,16,130000.0,6,259,7.0
+250,Personne_00250,Université de Montpellier,2014,Industrie,Chef de projet,Industrie,8,85000.0,4,27,7.0
+251,Personne_00251,Université Toulouse Capitole,2009,Marketing,CTO,Marketing,14,101000.0,6,29,8.0
+252,Personne_00252,Université de Lorraine,2006,Juridique,Directeur Général,Juridique,16,123000.0,6,70,6.0
+253,Personne_00253,Université Grenoble Alpes,2015,Juridique,CEO,Juridique,9,130000.0,6,9211,5.0
+254,Personne_00254,École Polytechnique,2017,Conseil,Chef de projet,Conseil,6,90000.0,4,45,7.0
+255,Personne_00255,Ecole Polytechnique,2009,Juridique,CEO,Juridique,15,117500.0,6,274,5.0
+256,Personne_00256,Université d'Aix-Marseille,2016,Tech,Consultant Senior,Tech,6,80500.0,3,40,10.0
+257,Personne_00257,UNIVERSITÉ PARIS-SACLAY,2014,Conseil,Directeur,Conseil,8,123000.0,5,1703,9.0
+258,Personne_00258,Université de Lyon,2008,Santé,Directeur Technique,Santé,15,101000.0,5,379,7.0
+259,Personne_00259,Université de Rennes,2005,Santé,CFO,Santé,19,105000.0,6,120,7.0
+260,Personne_00260,Université Grenoble Alpes,2016,Conseil,Directeur,Conseil,8,85500.0,5,524,7.0
+261,Personne_00261,Université Toulouse Capitole,2020,Industrie,Consultant,Industrie,3,60500.0,2,241,7.0
+262,Personne_00262,Université de Lille,2022,Marketing,Consultant Senior,Marketing,2,58500.0,3,8,8.0
+263,Personne_00263,sorbonne universite,2014,Conseil,Directeur Général,Conseil,8,133500.0,6,2963,6.0
+264,Personne_00264,Université Paris Cité,2019,Santé,Analyste Senior,Santé,3,77000.0,3,617,7.0
+265,Personne_00265,Université de Montpellier,2012,Conseil,Chef de projet,Conseil,10,90500.0,4,249,9.0
+266,Personne_00266,Université Côte d'Azur,2013,Juridique,CTO,Juridique,11,95000.0,6,132,8.0
+267,Personne_00267,Sorbonne Université,2016,Banque,Directeur Technique,Banque,6,120500.0,5,80,7.0
+268,Personne_00268,Université Côte d'Azur,2007,Tech,CFO,Tech,16,104500.0,6,2344,9.0
+269,Personne_00269,Université de Lorraine,2005,Tech,CTO,Tech,18,114000.0,6,356,
+270,Personne_00270,Université de Nantes,2018,Tech,Expert,Tech,6,62000.0,3,786,10.0
+271,Personne_00271,Université de Strasbourg,2009,Marketing,CTO,Marketing,13,90000.0,6,287,4.0
+272,Personne_00272,Université de Montpellier,2015,Banque,Consultant Senior,Banque,8,94000.0,3,1260,6.0
+273,Personne_00273,Université de Lille,2009,Santé,CTO,Santé,15,90000.0,6,505,6.0
+274,Personne_00274,Université Côte d'Azur,2021,Industrie,Engineering Manager,Industrie,2,71500.0,4,658,5.0
+275,Personne_00275,Université Paris-Saclay,2018,Juridique,Directeur de division,Juridique,4,91000.0,5,553,8.0
+276,Personne_00276,Université Côte d'Azur,2016,Tech,Chef de projet,Tech,6,98000.0,4,147,4.0
+277,Personne_00277,Université Paris-Saclay,2018,Santé,Directeur Général,Santé,6,106500.0,6,36,6.0
+278,Personne_00278,Université de Rennes,2011,Tech,Engineering Manager,Tech,11,88000.0,4,61,
+279,Personne_00279,Sorbonne Université,2020,Juridique,Analyste Senior,Juridique,3,71000.0,3,67,5.0
+280,Personne_00280,Université PSL,2017,Tech,Directeur de division,Tech,6,84500.0,5,73,6.0
+281,Personne_00281,Université Paris-Saclay,2013,Conseil,Directeur Général,Conseil,9,102000.0,6,85,8.0
+282,Personne_00282,Université Côte d'Azur,2013,Tech,Directeur de division,Tech,9,,5,318,6.0
+283,Personne_00283,École Polytechnique,2007,Banque,CFO,Banque,17,150500.0,6,212,7.0
+284,Personne_00284,Université de Lyon,2014,Industrie,CEO,Industrie,10,117500.0,6,28,9.0
+285,Personne_00285,Ecole Polytechnique,2005,Conseil,CTO,Conseil,18,143000.0,6,99,8.0
+286,Personne_00286,Université de Bordeaux,2015,Banque,Directeur Technique,Banque,9,104000.0,5,67,5.0
+287,Personne_00287,Université Toulouse Capitole,2021,Marketing,Engineering Manager,Marketing,3,70500.0,4,458,8.0
+288,,Université de Montpellier,2021,Banque,Consultant,Banque,1,67000.0,2,490,8.0
+289,Personne_00289,Université Grenoble Alpes,2022,Tech,Developer,Tech,2,76500.0,2,665,5.0
+290,Personne_00290,Université de Bourgogne,2013,Conseil,Directeur Technique,Conseil,11,106000.0,5,85,
+291,Personne_00291,Université Paris Cité,2014,Marketing,Directeur de division,Marketing,8,84000.0,5,28,5.0
+292,Personne_00292,Université PSL,2020,Conseil,Analyste Senior,Conseil,2,98000.0,3,111,9.0
+293,Personne_00293,UNIVERSITÉ PARIS-SACLAY,2012,Conseil,CTO,Conseil,11,144000.0,6,49,8.0
+294,,Université de Strasbourg,2011,Conseil,CFO,Conseil,13,105000.0,6,49,8.0
+295,Personne_00295,Sorbonne Université,2021,Tech,Manager,Tech,2,76500.0,4,1562,10.0
+296,,Université de Rennes,2007,Conseil,Directeur Général,Conseil,17,101000.0,6,93,5.0
+297,Personne_00297,Université de Bourgogne,2011,Industrie,CTO,Industrie,12,93000.0,6,185,9.0
+298,Personne_00298,UNIVERSITÉ PARIS-SACLAY,2021,Tech,Manager,Tech,2,77000.0,4,10,7.0
+299,Personne_00299,Université Paris-Saclay,2010,Conseil,CTO,Conseil,14,134500.0,6,7,6.0
+300,Personne_00300,École Polytechnique,2005,Santé,CTO,Santé,19,137500.0,6,848,7.0
+301,Personne_00301,Université de Bordeaux,2010,Juridique,Directeur Général,Juridique,14,121000.0,6,302,9.0
+302,Personne_00302,Université Toulouse Capitole,2019,Santé,Analyste Senior,Santé,3,57000.0,3,2891,8.0
+303,Personne_00303,École Polytechnique,2016,Banque,Directeur Technique,Banque,8,114500.0,5,2301,6.0
+304,Personne_00304,Ecole Polytechnique,2009,Marketing,CEO,Marketing,13,112000.0,6,336,8.0
+305,Personne_00305,Université de Lyon,2020,Tech,Manager,Tech,4,95500.0,4,594,7.0
+306,Personne_00306,Université de Lyon,2009,Industrie,CFO,Industrie,14,128000.0,6,105,8.0
+307,Personne_00307,Université Côte d'Azur,2009,Juridique,Directeur Général,Juridique,13,115000.0,6,68,6.0
+308,,Université de Bordeaux,2008,Industrie,Directeur Général,Industrie,16,103000.0,6,143,10.0
+309,Personne_00309,Université de Lille,2017,Conseil,Engineering Manager,Conseil,7,103500.0,4,136,7.0
+310,Personne_00310,Université PSL,2016,Tech,Engineering Manager,Tech,7,98500.0,4,640,8.0
+311,Personne_00311,Université de Lille,2017,Conseil,Manager,Conseil,6,83000.0,4,1962,8.0
+312,Personne_00312,Université Paris Cité,2006,Juridique,CTO,Juridique,16,110000.0,6,91,6.0
+313,Personne_00313,Université de Lyon,2012,Marketing,CTO,Marketing,12,95000.0,6,528,8.0
+314,Personne_00314,Université Paris-Saclay,2016,Tech,CEO,Tech,8,94500.0,6,49,4.0
+315,Personne_00315,Université de Lorraine,2007,Industrie,CEO,Industrie,15,106000.0,6,781,5.0
+316,Personne_00316,Université de Strasbourg,2009,Industrie,Directeur,Industrie,14,91500.0,5,250,7.0
+317,Personne_00317,Université Grenoble Alpes,2014,Santé,Directeur de division,Santé,8,101000.0,5,1379,7.0
+318,Personne_00318,Université Paris Cité,2019,Juridique,Engineering Manager,Juridique,4,,4,1173,10.0
+319,Personne_00319,École Polytechnique,2015,Industrie,CTO,Industrie,9,103500.0,6,86,5.0
+320,Personne_00320,Université de Montpellier,2016,Juridique,Team Lead,Juridique,7,74500.0,4,355,7.0
+321,Personne_00321,Sorbonne Université,2020,Banque,Chef de projet,Banque,2,87000.0,4,31,10.0
+322,Personne_00322,Sorbonne Université,2006,Santé,Directeur Général,Santé,17,105500.0,6,150,10.0
+323,Personne_00323,Université de Rennes,2015,Santé,Directeur Technique,Santé,9,86000.0,5,19,6.0
+324,Personne_00324,Université Paris-Saclay,2018,Juridique,Team Lead,Juridique,4,96500.0,4,5,9.0
+325,Personne_00325,Université Grenoble Alpes,2014,Marketing,CEO,Marketing,9,97500.0,6,5,6.0
+326,Personne_00326,Université de Strasbourg,2008,Tech,CEO,Tech,14,126000.0,6,173,4.0
+327,Personne_00327,Université Paris Cité,2005,Marketing,CTO,Marketing,17,112000.0,6,299,2.0
+328,Personne_00328,Sorbonne Université,2008,Tech,CFO,Tech,16,142500.0,6,249,9.0
+329,Personne_00329,Ecole Polytechnique,2012,Marketing,CFO,Marketing,12,126000.0,6,1157,5.0
+330,Personne_00330,Sorbonne Université,2006,Santé,CFO,Santé,17,132000.0,6,1079,10.0
+331,Personne_00331,Université Côte d'Azur,2006,Tech,CTO,Tech,18,109500.0,6,5,6.0
+332,Personne_00332,Université de Lyon,2019,Banque,Manager,Banque,3,110500.0,4,371,9.0
+333,Personne_00333,Université Paris-Saclay,2013,Conseil,Directeur Général,Conseil,11,135000.0,6,154,8.0
+334,Personne_00334,Université de Strasbourg,2014,Conseil,CEO,Conseil,10,135000.0,6,249,3.0
+335,Personne_00335,Ecole Polytechnique,2020,Marketing,Directeur,Marketing,4,93500.0,5,57,5.0
+336,Personne_00336,École Polytechnique,2005,Industrie,CTO,Industrie,19,151500.0,6,930,9.0
+337,Personne_00337,Université Paris-Saclay,2015,Marketing,Team Lead,Marketing,8,77000.0,4,896,6.0
+338,Personne_00338,Université PSL,2008,Conseil,CTO,Conseil,15,144000.0,6,661,7.0
+339,Personne_00339,Université de Lorraine,2019,Conseil,Engineering Manager,Conseil,5,93500.0,4,1693,10.0
+340,Personne_00340,Université de Nantes,2022,Juridique,Analyste Senior,Juridique,1,90000.0,3,2612,9.0
+341,Personne_00341,Université de Bordeaux,2006,Tech,Directeur Général,Tech,16,117000.0,6,203,10.0
+342,Personne_00342,Université Paris Cité,2018,Juridique,Engineering Manager,Juridique,6,89000.0,4,212,7.0
+343,Personne_00343,Université de Rennes,2015,Juridique,Directeur Technique,Juridique,8,,5,18,8.0
+344,,Université de Lyon,2018,Santé,Directeur de division,Santé,5,74500.0,5,401,6.0
+345,Personne_00345,Université de Lille,2005,Tech,CEO,Tech,18,129000.0,6,119,9.0
+346,Personne_00346,Université de Montpellier,2019,Banque,Chef de projet,Banque,3,85500.0,4,17,8.0
+347,Personne_00347,Université de Bordeaux,2020,Juridique,Expert,Juridique,3,86500.0,3,16,5.0
+348,Personne_00348,Université Côte d'Azur,2015,Conseil,Chef de projet,Conseil,7,100500.0,4,5,4.0
+349,Personne_00349,Université de Bordeaux,2011,Banque,CTO,Banque,13,146000.0,6,7122,6.0
+350,Personne_00350,Université d'Aix-Marseille,2009,Juridique,CTO,Juridique,13,98500.0,6,288,7.0
+351,Personne_00351,Université Toulouse Capitole,2006,Santé,CFO,Santé,16,115000.0,6,1203,7.0
+352,Personne_00352,Université de Lorraine,2014,Santé,Directeur,Santé,8,98500.0,5,15769,6.0
+353,Personne_00353,Université de Nantes,2022,Marketing,Consultant,Marketing,1,49500.0,2,581,6.0
+354,Personne_00354,Université de Bordeaux,2016,Marketing,Manager,Marketing,6,57000.0,4,11,5.0
+355,Personne_00355,Université Côte d'Azur,2007,Conseil,CTO,Conseil,17,116000.0,6,120,9.0
+356,Personne_00356,Université de Strasbourg,2016,Marketing,Team Lead,Marketing,8,76500.0,4,623,6.0
+357,Personne_00357,Université de Montpellier,2016,Industrie,Directeur,Industrie,7,82000.0,5,4475,5.0
+358,Personne_00358,Université Toulouse Capitole,2011,Banque,CTO,Banque,13,132500.0,6,950,10.0
+359,Personne_00359,Université PSL,2014,Tech,CEO,Tech,8,109000.0,6,833,6.0
+360,Personne_00360,Université de Bordeaux,2013,Banque,Chef de projet,Banque,11,98500.0,4,1756,8.0
+361,,Université PSL,2013,Banque,CTO,Banque,9,146500.0,6,2792,8.0
+362,Personne_00362,Université de Lille,2012,Conseil,CTO,Conseil,11,,6,886,7.0
+363,Personne_00363,Université de Bordeaux,2018,Santé,Team Lead,Santé,5,66000.0,4,173,10.0
+364,Personne_00364,École Polytechnique,2021,Tech,Developer,Tech,2,87000.0,2,729,7.0
+365,Personne_00365,Université de Lyon,2011,Juridique,CTO,Juridique,13,120000.0,6,361,7.0
+366,Personne_00366,Université de Montpellier,2007,Juridique,CEO,Juridique,15,92500.0,6,653,8.0
+367,Personne_00367,Université Paris Cité,2012,Industrie,CFO,Industrie,10,101000.0,6,112,7.0
+368,Personne_00368,Université de Montpellier,2009,Marketing,Directeur,Marketing,13,83500.0,5,122,3.0
+369,Personne_00369,Université Toulouse Capitole,2009,Tech,CEO,Tech,15,138500.0,6,2654,8.0
+370,Personne_00370,Université de Lorraine,2022,Juridique,Engineering Manager,Juridique,1,70000.0,4,337,8.0
+371,Personne_00371,Université Grenoble Alpes,2010,Tech,CTO,Tech,12,136500.0,6,327,7.0
+372,Personne_00372,Université de Bordeaux,2012,Banque,CEO,Banque,12,148000.0,6,50,
+373,Personne_00373,Université Toulouse Capitole,2015,Juridique,Directeur Général,Juridique,9,109000.0,6,2336,8.0
+374,Personne_00374,Université de Nantes,2020,Banque,Team Lead,Banque,4,102500.0,4,18,6.0
+375,Personne_00375,Université Paris Cité,2012,Banque,CFO,Banque,11,124500.0,6,2340,7.0
+376,,Université de Strasbourg,2009,Industrie,CEO,Industrie,15,101000.0,6,919,5.0
+377,Personne_00377,Université d'Aix-Marseille,2016,Conseil,Manager,Conseil,7,75000.0,4,82,7.0
+378,Personne_00378,Université d'Aix-Marseille,2019,Marketing,Expert,Marketing,3,56500.0,3,2863,7.0
+379,Personne_00379,Université de Lille,2010,Santé,CFO,Santé,12,95500.0,6,228,7.0
+380,Personne_00380,Université Paris Cité,2011,Conseil,Directeur Général,Conseil,13,145000.0,6,144,7.0
+381,,Université de Lorraine,2017,Marketing,Chef de projet,Marketing,5,61500.0,4,52,10.0
+382,Personne_00382,Université de Lorraine,2009,Conseil,CTO,Conseil,14,152500.0,6,45,4.0
+383,Personne_00383,Université de Lorraine,2009,Juridique,CFO,Juridique,15,114500.0,6,53,7.0
+384,Personne_00384,Université Côte d'Azur,2011,Banque,Directeur,Banque,11,96500.0,5,124,7.0
+385,Personne_00385,Université de Strasbourg,2021,Industrie,Developer,Industrie,1,61500.0,2,2434,6.0
+386,Personne_00386,Université de Lyon,2008,Marketing,CFO,Marketing,16,104000.0,6,14,8.0
+387,Personne_00387,sorbonne universite,2018,Banque,Analyste Senior,Banque,4,75500.0,3,306,4.0
+388,Personne_00388,Université Paris-Saclay,2009,Juridique,CFO,Juridique,15,109000.0,6,221,7.0
+389,Personne_00389,Université de Lorraine,2017,Industrie,Chef de projet,Industrie,6,78000.0,4,61,9.0
+390,Personne_00390,Université Grenoble Alpes,2006,Tech,Directeur Général,Tech,17,121000.0,6,464,2.0
+391,Personne_00391,sorbonne universite,2019,Conseil,Directeur de division,Conseil,5,106500.0,5,39,7.0
+392,Personne_00392,Université de Bordeaux,2009,Tech,CTO,Tech,14,103500.0,6,324,9.0
+393,Personne_00393,Sorbonne Université,2017,Marketing,Directeur de division,Marketing,7,75500.0,5,186,10.0
+394,Personne_00394,Université Paris-Saclay,2018,Industrie,Directeur Général,Industrie,6,95500.0,6,234,7.0
+395,Personne_00395,Université de Nantes,2018,Marketing,Directeur de division,Marketing,5,69500.0,5,689,6.0
+396,Personne_00396,Université PSL,2010,Santé,CFO,Santé,13,109000.0,6,187,9.0
+397,Personne_00397,Université Paris-Saclay,2005,Industrie,CFO,Industrie,18,127500.0,6,36,
+398,,Université PSL,2017,Santé,Engineering Manager,Santé,6,72000.0,4,104,9.0
+399,Personne_00399,Université PSL,2019,Marketing,CFO,Marketing,4,99500.0,6,838,9.0
+400,Personne_00400,Université de Nantes,2016,Conseil,Chef de projet,Conseil,6,118500.0,4,595,6.0
+401,Personne_00401,Université de Lyon,2012,Industrie,Directeur Technique,Industrie,10,95000.0,5,1346,8.0
+402,Personne_00402,Université Toulouse Capitole,2011,Marketing,Directeur,Marketing,12,81500.0,5,2610,7.0
+403,Personne_00403,Université Paris Cité,2016,Industrie,Directeur,Industrie,6,94000.0,5,162,8.0
+404,Personne_00404,École Polytechnique,2012,Conseil,CTO,Conseil,10,115500.0,6,62,8.0
+405,Personne_00405,Université de Montpellier,2013,Juridique,Engineering Manager,Juridique,11,82500.0,4,136,6.0
+406,Personne_00406,Université de Bordeaux,2005,Industrie,CTO,Industrie,19,116500.0,6,816,9.0
+407,Personne_00407,Université PSL,2005,Conseil,Directeur Général,Conseil,18,139000.0,6,203,10.0
+408,Personne_00408,Université de Montpellier,2015,Santé,Team Lead,Santé,8,91500.0,4,1156,5.0
+409,Personne_00409,Université de Lyon,2011,Tech,Directeur Général,Tech,12,132000.0,6,276,7.0
+410,Personne_00410,Université de Bourgogne,2006,Santé,Directeur Général,Santé,17,95500.0,6,98,6.0
+411,Personne_00411,Université de Nantes,2013,Tech,CTO,Tech,11,128500.0,6,361,6.0
+412,Personne_00412,Université de Bourgogne,2005,Industrie,CTO,Industrie,17,91500.0,6,23,8.0
+413,Personne_00413,Université de Lille,2011,Industrie,Directeur de division,Industrie,12,94500.0,5,2826,7.0
+414,Personne_00414,Université de Nantes,2013,Marketing,Manager,Marketing,9,57500.0,4,295,3.0
+415,Personne_00415,Université PSL,2019,Tech,Engineering Manager,Tech,3,95000.0,4,1022,9.0
+416,Personne_00416,Université Paris Cité,2020,Santé,Engineering Manager,Santé,2,82500.0,4,129,7.0
+417,Personne_00417,Université Grenoble Alpes,2007,Santé,CTO,Santé,16,104500.0,6,35,9.0
+418,Personne_00418,Université PSL,2014,Juridique,Directeur Technique,Juridique,9,88500.0,5,1253,6.0
+419,Personne_00419,Université de Montpellier,2007,Banque,Directeur Général,Banque,17,115500.0,6,584,6.0
+420,Personne_00420,Université de Rennes,2020,Santé,Chef de projet,Santé,4,95500.0,4,3045,10.0
+421,Personne_00421,Université PSL,2006,Industrie,CFO,Industrie,16,95500.0,6,87,6.0
+422,Personne_00422,Université Grenoble Alpes,2014,Juridique,Chef de projet,Juridique,8,86000.0,4,74,9.0
+423,Personne_00423,École Polytechnique,2019,Santé,Chargé de mission,Santé,4,55000.0,2,2379,7.0
+424,Personne_00424,Université de Lille,2006,Industrie,CTO,Industrie,18,101500.0,6,198,7.0
+425,Personne_00425,Université de Nantes,2010,Industrie,CFO,Industrie,12,85000.0,6,818,7.0
+426,Personne_00426,Université de Rennes,2013,Santé,CFO,Santé,11,104500.0,6,328,10.0
+427,Personne_00427,Université de Lille,2011,Santé,Directeur de division,Santé,12,96000.0,5,18,10.0
+428,Personne_00428,Université de Rennes,2016,Marketing,Directeur Technique,Marketing,6,77500.0,5,232,6.0
+429,Personne_00429,Université Toulouse Capitole,2013,Industrie,Chef de projet,Industrie,10,74000.0,4,200,6.0
+430,Personne_00430,Université PSL,2020,Banque,Engineering Manager,Banque,3,105500.0,4,29,7.0
+431,Personne_00431,École Polytechnique,2008,Marketing,CEO,Marketing,15,111500.0,6,3307,7.0
+432,Personne_00432,Université de Strasbourg,2013,Tech,Manager,Tech,9,116000.0,4,907,7.0
+433,Personne_00433,Université de Bourgogne,2019,Tech,Chargé de mission,Tech,4,64000.0,2,116,3.0
+434,Personne_00434,Université de Lille,2009,Marketing,CTO,Marketing,15,91000.0,6,124,7.0
+435,Personne_00435,Université Grenoble Alpes,2008,Juridique,CEO,Juridique,15,121000.0,6,9,5.0
+436,Personne_00436,Université d'Aix-Marseille,2005,Juridique,CTO,Juridique,19,118000.0,6,794,5.0
+437,Personne_00437,Université de Bourgogne,2018,Santé,Chef de projet,Santé,6,68500.0,4,433,9.0
+438,Personne_00438,Université Paris Cité,2010,Banque,CEO,Banque,12,132500.0,6,1836,7.0
+439,Personne_00439,Sorbonne Université,2017,Marketing,Manager,Marketing,5,78000.0,4,564,9.0
+440,Personne_00440,Université de Lyon,2008,Tech,CTO,Tech,14,118000.0,6,118,5.0
+441,Personne_00441,Université de Lyon,2021,Banque,Senior Developer,Banque,2,96500.0,3,336,10.0
+442,Personne_00442,UNIVERSITÉ PARIS-SACLAY,2018,Tech,Directeur,Tech,6,111000.0,5,6786,6.0
+443,Personne_00443,Université Côte d'Azur,2016,Conseil,Directeur de division,Conseil,8,120000.0,5,62,7.0
+444,Personne_00444,Université de Lille,2011,Conseil,Directeur Technique,Conseil,11,95000.0,5,353,6.0
+445,Personne_00445,Université Paris Cité,2010,Industrie,Directeur de division,Industrie,12,96000.0,5,1154,10.0
+446,Personne_00446,Université de Nantes,2006,Banque,CTO,Banque,18,117000.0,6,2049,6.0
+447,Personne_00447,Université de Rennes,2022,Industrie,Chargé de mission,Industrie,1,60500.0,2,1318,7.0
+448,Personne_00448,Université d'Aix-Marseille,2021,Santé,Analyste Confirmé,Santé,1,55000.0,2,356,9.0
+449,Personne_00449,Université de Rennes,2020,Banque,Engineering Manager,Banque,4,88000.0,4,191,6.0
+450,Personne_00450,Université de Nantes,2016,Banque,Directeur,Banque,6,114000.0,5,360,8.0
+451,Personne_00451,Université Toulouse Capitole,2021,Conseil,Consultant Senior,Conseil,1,85500.0,3,83,7.0
+452,Personne_00452,Université Paris-Saclay,2006,Banque,CTO,Banque,16,161000.0,6,578,10.0
+453,Personne_00453,École Polytechnique,2018,Marketing,Directeur,Marketing,6,88500.0,5,129,8.0
+454,Personne_00454,Université Côte d'Azur,2018,Tech,Chef de projet,Tech,6,90500.0,4,57,8.0
+455,Personne_00455,Université de Montpellier,2013,Conseil,CEO,Conseil,11,115500.0,6,23,6.0
+456,Personne_00456,École Polytechnique,2022,Industrie,Directeur Technique,Industrie,2,82000.0,5,421,6.0
+457,Personne_00457,Université Paris Cité,2010,Marketing,CTO,Marketing,14,,6,1167,7.0
+458,Personne_00458,Université d'Aix-Marseille,2022,Tech,Expert,Tech,1,79500.0,3,449,5.0
+459,Personne_00459,Ecole Polytechnique,2010,Marketing,CFO,Marketing,14,87500.0,6,50,6.0
+460,Personne_00460,Université d'Aix-Marseille,2011,Marketing,Directeur Technique,Marketing,13,86000.0,5,37,7.0
+461,Personne_00461,Université de Bourgogne,2015,Conseil,CFO,Conseil,9,109000.0,6,97,9.0
+462,Personne_00462,Université de Bordeaux,2010,Tech,CTO,Tech,12,121500.0,6,408,9.0
+463,Personne_00463,Sorbonne Université,2016,Marketing,CFO,Marketing,8,82500.0,6,1245,8.0
+464,Personne_00464,Université de Rennes,2015,Marketing,CEO,Marketing,8,101500.0,6,280,4.0
+465,Personne_00465,Université d'Aix-Marseille,2005,Tech,Directeur Général,Tech,19,122000.0,6,655,
+466,Personne_00466,UNIVERSITÉ PARIS-SACLAY,2015,Industrie,CTO,Industrie,9,98500.0,6,585,9.0
+467,Personne_00467,Université PSL,2006,Industrie,CFO,Industrie,18,103000.0,6,370,8.0
+468,Personne_00468,Université de Lyon,2017,Marketing,Consultant Senior,Marketing,7,72000.0,3,329,9.0
+469,Personne_00469,Université d'Aix-Marseille,2009,Santé,Directeur Général,Santé,15,113000.0,6,86,10.0
+470,Personne_00470,Université Grenoble Alpes,2014,Conseil,Team Lead,Conseil,9,102500.0,4,3226,6.0
+471,Personne_00471,Sorbonne Université,2006,Banque,CFO,Banque,16,127500.0,6,1380,7.0
+472,Personne_00472,Université de Strasbourg,2005,Juridique,CTO,Juridique,18,131000.0,6,8,6.0
+473,Personne_00473,Université de Bordeaux,2013,Juridique,Directeur de division,Juridique,10,113000.0,5,74,9.0
+474,Personne_00474,Université de Lille,2010,Tech,Directeur Technique,Tech,12,101000.0,5,381,6.0
+475,Personne_00475,Université de Lorraine,2005,Industrie,Directeur Général,Industrie,17,101500.0,6,120,7.0
+476,Personne_00476,Université Paris Cité,2013,Industrie,Directeur Général,Industrie,11,137500.0,6,558,8.0
+477,Personne_00477,Sorbonne Université,2017,Industrie,Chef de projet,Industrie,5,85000.0,4,185,8.0
+478,Personne_00478,Université de Nantes,2022,Banque,Developer,Banque,1,80500.0,2,844,4.0
+479,Personne_00479,Université de Nantes,2016,Industrie,Directeur Technique,Industrie,6,86000.0,5,624,7.0
+480,Personne_00480,Université Côte d'Azur,2014,Conseil,Directeur Technique,Conseil,9,84500.0,5,129,7.0
+481,Personne_00481,Université de Bordeaux,2005,Industrie,CEO,Industrie,18,87000.0,6,140,9.0
+482,Personne_00482,Université Côte d'Azur,2020,Banque,Analyste Senior,Banque,3,87000.0,3,325,8.0
+483,Personne_00483,École Polytechnique,2020,Juridique,Directeur de division,Juridique,2,89000.0,5,140,3.0
+484,Personne_00484,Université PSL,2006,Marketing,CFO,Marketing,18,108000.0,6,223,3.0
+485,Personne_00485,Université PSL,2008,Marketing,CTO,Marketing,16,104000.0,6,155,8.0
+486,Personne_00486,Université Toulouse Capitole,2010,Banque,Directeur de division,Banque,12,110500.0,5,241,6.0
+487,Personne_00487,Université de Bourgogne,2019,Santé,Consultant Senior,Santé,5,71500.0,3,411,10.0
+488,Personne_00488,Université Toulouse Capitole,2005,Conseil,CEO,Conseil,18,,6,20,6.0
+489,Personne_00489,Université Grenoble Alpes,2022,Marketing,Analyste Confirmé,Marketing,0,57000.0,2,640,6.0
+490,Personne_00490,Université de Lyon,2019,Marketing,Team Lead,Marketing,4,77500.0,4,78,9.0
+491,Personne_00491,Université Côte d'Azur,2015,Juridique,CFO,Juridique,8,111000.0,6,229,3.0
+492,Personne_00492,Université de Lille,2007,Conseil,Directeur Général,Conseil,16,126500.0,6,294,9.0
+493,Personne_00493,Université de Lyon,2015,Juridique,Directeur Technique,Juridique,8,109500.0,5,51,10.0
+494,Personne_00494,Université Côte d'Azur,2017,Santé,CEO,Santé,6,107500.0,6,18,10.0
+495,Personne_00495,Université Paris Cité,2018,Juridique,Directeur,Juridique,4,89000.0,5,287,7.0
+496,Personne_00496,Université de Lorraine,2006,Marketing,CEO,Marketing,17,91500.0,6,1435,6.0
+497,Personne_00497,Université Côte d'Azur,2013,Juridique,Directeur Technique,Juridique,10,81000.0,5,754,10.0
+498,Personne_00498,Université Toulouse Capitole,2009,Santé,CFO,Santé,13,97000.0,6,169,9.0
+499,Personne_00499,Université de Lorraine,2009,Industrie,Directeur Technique,Industrie,15,96000.0,5,6649,9.0
+500,Personne_00500,Université de Lorraine,2020,Industrie,Chargé de mission,Industrie,3,54500.0,2,1412,8.0
+501,Personne_00501,Université d'Aix-Marseille,2021,Industrie,Expert,Industrie,2,73000.0,3,252,6.0
+502,Personne_00502,Sorbonne Université,2022,Conseil,Team Lead,Conseil,2,105000.0,4,790,8.0
+503,Personne_00503,Université Toulouse Capitole,2007,Juridique,CEO,Juridique,17,114000.0,6,360,10.0
+504,Personne_00504,Université PSL,2018,Marketing,Directeur Technique,Marketing,6,90500.0,5,165,10.0
+505,Personne_00505,Université Paris Cité,2019,Juridique,Directeur,Juridique,3,93000.0,5,500,8.0
+506,Personne_00506,Université Grenoble Alpes,2019,Banque,Senior Developer,Banque,4,98500.0,3,433,7.0
+507,,Université PSL,2007,Banque,CFO,Banque,17,133000.0,6,261,7.0
+508,Personne_00508,Université PSL,2008,Santé,CTO,Santé,16,101500.0,6,20,7.0
+509,Personne_00509,Université de Lille,2017,Santé,Manager,Santé,6,85000.0,4,28,9.0
+510,Personne_00510,Université PSL,2013,Marketing,Directeur Général,Marketing,11,102500.0,6,191,8.0
+511,Personne_00511,Université de Montpellier,2008,Banque,CTO,Banque,16,121000.0,6,607,6.0
+512,Personne_00512,UNIVERSITÉ PARIS-SACLAY,2019,Industrie,CTO,Industrie,5,96500.0,6,174,8.0
+513,Personne_00513,Université Côte d'Azur,2008,Santé,CTO,Santé,15,93500.0,6,186,10.0
+514,Personne_00514,Université de Lorraine,2010,Marketing,CTO,Marketing,12,99000.0,6,781,
+515,Personne_00515,Sorbonne Université,2012,Juridique,Directeur de division,Juridique,10,81500.0,5,421,8.0
+516,Personne_00516,Université de Nantes,2009,Conseil,CEO,Conseil,15,124000.0,6,221,8.0
+517,Personne_00517,Université de Strasbourg,2015,Marketing,Manager,Marketing,7,68500.0,4,226,10.0
+518,Personne_00518,Université de Lille,2010,Conseil,CTO,Conseil,12,114500.0,6,98,
+519,Personne_00519,Sorbonne Université,2006,Marketing,CEO,Marketing,17,118500.0,6,273,9.0
+520,Personne_00520,Université de Lille,2006,Santé,CFO,Santé,16,117000.0,6,71,6.0
+521,Personne_00521,UNIVERSITÉ PARIS-SACLAY,2012,Tech,Team Lead,Tech,10,109000.0,4,1646,6.0
+522,Personne_00522,École Polytechnique,2010,Santé,CFO,Santé,14,106000.0,6,1317,7.0
+523,Personne_00523,Université de Bourgogne,2018,Santé,Team Lead,Santé,4,83000.0,4,782,9.0
+524,Personne_00524,Université d'Aix-Marseille,2016,Banque,Expert,Banque,7,86000.0,3,2076,8.0
+525,Personne_00525,Université de Bourgogne,2009,Santé,CFO,Santé,14,97500.0,6,157,4.0
+526,Personne_00526,Université de Lille,2008,Juridique,Directeur Général,Juridique,14,129000.0,6,368,
+527,Personne_00527,Sorbonne Université,2008,Industrie,Directeur Général,Industrie,16,131500.0,6,57,7.0
+528,Personne_00528,Université de Lorraine,2010,Marketing,CTO,Marketing,13,89500.0,6,19,7.0
+529,Personne_00529,Université d'Aix-Marseille,2011,Conseil,CEO,Conseil,12,128000.0,6,606,4.0
+530,Personne_00530,Université Grenoble Alpes,2006,Conseil,CTO,Conseil,18,122000.0,6,277,6.0
+531,Personne_00531,Université de Nantes,2016,Conseil,Consultant Senior,Conseil,7,85500.0,3,35,8.0
+532,Personne_00532,Université d'Aix-Marseille,2017,Industrie,Engineering Manager,Industrie,6,60000.0,4,29,9.0
+533,Personne_00533,Université Paris Cité,2009,Conseil,CFO,Conseil,14,112000.0,6,225,6.0
+534,Personne_00534,Université de Nantes,2008,Tech,CEO,Tech,14,113000.0,6,635,7.0
+535,Personne_00535,Université de Montpellier,2019,Industrie,Analyste Senior,Industrie,4,66500.0,3,70,6.0
+536,Personne_00536,Sorbonne Université,2005,Banque,CTO,Banque,19,145000.0,6,745,9.0
+537,Personne_00537,Université de Lille,2007,Marketing,CFO,Marketing,15,101500.0,6,384,
+538,Personne_00538,Université PSL,2017,Banque,Team Lead,Banque,5,105500.0,4,119,7.0
+539,Personne_00539,Université de Rennes,2014,Conseil,Manager,Conseil,10,88500.0,4,15,8.0
+540,Personne_00540,Université de Montpellier,2012,Marketing,CEO,Marketing,11,83500.0,6,1956,7.0
+541,Personne_00541,Université Toulouse Capitole,2010,Industrie,CFO,Industrie,13,96000.0,6,178,5.0
+542,Personne_00542,Université de Rennes,2009,Industrie,CEO,Industrie,15,104500.0,6,629,7.0
+543,Personne_00543,Université de Lille,2008,Banque,Directeur Général,Banque,15,141500.0,6,121,5.0
+544,Personne_00544,Université Paris-Saclay,2017,Juridique,Manager,Juridique,7,83500.0,4,510,7.0
+545,Personne_00545,Université de Montpellier,2013,Santé,Directeur,Santé,11,108500.0,5,4536,5.0
+546,Personne_00546,Université de Lyon,2005,Banque,Directeur Général,Banque,19,132500.0,6,2915,7.0
+547,Personne_00547,Université de Rennes,2013,Juridique,Directeur Général,Juridique,11,88000.0,6,45,9.0
+548,Personne_00548,Université PSL,2007,Industrie,CFO,Industrie,15,114000.0,6,1179,3.0
+549,Personne_00549,Université Grenoble Alpes,2012,Tech,CTO,Tech,10,118500.0,6,150,6.0
+550,Personne_00550,Université de Bordeaux,2011,Tech,Directeur de division,Tech,12,104500.0,5,328,10.0
+551,Personne_00551,Université de Bordeaux,2013,Tech,Directeur de division,Tech,9,99500.0,5,144,7.0
+552,Personne_00552,Université de Bordeaux,2016,Conseil,Analyste Senior,Conseil,6,75000.0,3,7551,
+553,,sorbonne universite,2015,Conseil,CFO,Conseil,9,121500.0,6,146,7.0
+554,Personne_00554,Université de Lille,2014,Banque,CTO,Banque,8,122500.0,6,5,7.0
+555,Personne_00555,Université d'Aix-Marseille,2006,Marketing,CTO,Marketing,17,89500.0,6,28,6.0
+556,Personne_00556,Université de Lorraine,2008,Conseil,CTO,Conseil,14,115500.0,6,460,5.0
+557,Personne_00557,Université Paris Cité,2017,Marketing,Senior Developer,Marketing,7,59000.0,3,477,10.0
+558,Personne_00558,Université de Strasbourg,2010,Conseil,Directeur Technique,Conseil,13,106500.0,5,35,5.0
+559,Personne_00559,Université d'Aix-Marseille,2007,Santé,CEO,Santé,17,95000.0,6,393,6.0
+560,Personne_00560,Sorbonne Université,2006,Santé,CTO,Santé,17,117500.0,6,50,7.0
+561,Personne_00561,Ecole Polytechnique,2012,Santé,Directeur,Santé,12,78000.0,5,45,9.0
+562,Personne_00562,Université d'Aix-Marseille,2022,Tech,Consultant,Tech,1,67500.0,2,683,8.0
+563,Personne_00563,Université PSL,2005,Banque,CTO,Banque,17,119500.0,6,45,6.0
+564,Personne_00564,Université de Strasbourg,2020,Juridique,Senior Developer,Juridique,3,63000.0,3,6,7.0
+565,Personne_00565,Sorbonne Université,2016,Banque,CEO,Banque,8,133000.0,6,147,5.0
+566,Personne_00566,Université de Bordeaux,2009,Santé,CEO,Santé,13,90500.0,6,24,6.0
+567,Personne_00567,Université Grenoble Alpes,2021,Conseil,Team Lead,Conseil,1,94000.0,4,341,
+568,Personne_00568,Université Paris Cité,2014,Conseil,CEO,Conseil,10,120000.0,6,64,9.0
+569,Personne_00569,Université Côte d'Azur,2011,Industrie,Team Lead,Industrie,13,81500.0,4,229,6.0
+570,Personne_00570,Université d'Aix-Marseille,2009,Industrie,CTO,Industrie,14,79000.0,6,72,9.0
+571,Personne_00571,Université de Bordeaux,2013,Industrie,Directeur Général,Industrie,10,103000.0,6,118,7.0
+572,Personne_00572,Université Toulouse Capitole,2022,Industrie,Chargé de mission,Industrie,0,50000.0,2,20,8.0
+573,Personne_00573,Université PSL,2017,Marketing,Directeur de division,Marketing,5,87000.0,5,163,9.0
+574,Personne_00574,sorbonne universite,2005,Tech,CEO,Tech,17,107500.0,6,67,6.0
+575,Personne_00575,Université de Strasbourg,2009,Conseil,CFO,Conseil,15,130500.0,6,46,7.0
+576,Personne_00576,Université de Montpellier,2006,Banque,CTO,Banque,16,128500.0,6,86,5.0
+577,Personne_00577,Sorbonne Université,2010,Banque,CFO,Banque,14,158500.0,6,149,7.0
+578,Personne_00578,Université de Nantes,2015,Industrie,Directeur Technique,Industrie,8,87500.0,5,734,10.0
+579,Personne_00579,Université Paris Cité,2014,Industrie,CEO,Industrie,10,98000.0,6,246,8.0
+580,Personne_00580,Université PSL,2015,Juridique,Directeur de division,Juridique,8,92500.0,5,87,9.0
+581,Personne_00581,Université de Lorraine,2011,Conseil,Directeur de division,Conseil,12,115000.0,5,633,6.0
+582,Personne_00582,Université Paris Cité,2018,Santé,Expert,Santé,4,73000.0,3,283,7.0
+583,Personne_00583,Université d'Aix-Marseille,2020,Tech,Expert,Tech,2,73500.0,3,98,7.0
+584,Personne_00584,Université de Strasbourg,2013,Industrie,CEO,Industrie,10,92500.0,6,611,8.0
+585,Personne_00585,Université PSL,2014,Industrie,CEO,Industrie,10,111500.0,6,209,8.0
+586,Personne_00586,UNIVERSITÉ PARIS-SACLAY,2013,Santé,CTO,Santé,11,118500.0,6,65,7.0
+587,Personne_00587,Université de Montpellier,2009,Tech,CTO,Tech,13,112500.0,6,2357,5.0
+588,Personne_00588,Université de Rennes,2022,Conseil,Analyste Senior,Conseil,2,74000.0,3,1439,9.0
+589,Personne_00589,Université de Montpellier,2021,Santé,Expert,Santé,3,63500.0,3,15,6.0
+590,Personne_00590,Université Côte d'Azur,2006,Santé,CTO,Santé,16,,6,591,4.0
+591,Personne_00591,Université de Bordeaux,2020,Santé,Analyste Senior,Santé,2,74000.0,3,321,6.0
+592,Personne_00592,Ecole Polytechnique,2008,Santé,Directeur Général,Santé,16,137000.0,6,2565,8.0
+593,,sorbonne universite,2006,Santé,CEO,Santé,17,106500.0,6,92,9.0
+594,Personne_00594,École Polytechnique,2015,Industrie,Directeur Technique,Industrie,9,103000.0,5,49,8.0
+595,Personne_00595,sorbonne universite,2005,Conseil,CEO,Conseil,17,131000.0,6,51,9.0
+596,Personne_00596,sorbonne universite,2015,Juridique,Manager,Juridique,8,85000.0,4,2236,8.0
+597,Personne_00597,UNIVERSITÉ PARIS-SACLAY,2008,Industrie,CEO,Industrie,15,,6,133,10.0
+598,Personne_00598,Université d'Aix-Marseille,2014,Industrie,Directeur de division,Industrie,9,70500.0,5,129,10.0
+599,Personne_00599,Université Toulouse Capitole,2011,Banque,CTO,Banque,13,136000.0,6,2082,9.0
+600,Personne_00600,Université Paris-Saclay,2013,Industrie,Directeur Général,Industrie,10,89500.0,6,170,8.0
+601,Personne_00601,Université Côte d'Azur,2017,Juridique,Chef de projet,Juridique,5,93500.0,4,646,7.0
+602,Personne_00602,Université de Bourgogne,2013,Industrie,Team Lead,Industrie,11,74000.0,4,471,8.0
+603,Personne_00603,Université de Lorraine,2010,Juridique,CFO,Juridique,13,92000.0,6,10607,7.0
+604,Personne_00604,Université Paris Cité,2007,Juridique,Directeur Général,Juridique,15,146500.0,6,1218,9.0
+605,Personne_00605,Université Paris-Saclay,2006,Banque,CFO,Banque,16,148500.0,6,17,4.0
+606,Personne_00606,Université de Bordeaux,2017,Conseil,Manager,Conseil,5,114500.0,4,2260,7.0
+607,Personne_00607,École Polytechnique,2014,Conseil,CEO,Conseil,10,130000.0,6,395,8.0
+608,Personne_00608,Université PSL,2019,Marketing,CTO,Marketing,5,104500.0,6,525,10.0
+609,Personne_00609,Université de Strasbourg,2019,Santé,CFO,Santé,3,84000.0,6,81,8.0
+610,Personne_00610,UNIVERSITÉ PARIS-SACLAY,2018,Tech,Directeur Général,Tech,5,,6,755,6.0
+611,Personne_00611,Université d'Aix-Marseille,2020,Tech,Senior Developer,Tech,2,77000.0,3,215,8.0
+612,Personne_00612,Ecole Polytechnique,2007,Tech,CFO,Tech,15,114000.0,6,73,8.0
+613,Personne_00613,Université de Lorraine,2014,Marketing,Team Lead,Marketing,9,83500.0,4,159,6.0
+614,Personne_00614,Université de Lorraine,2017,Banque,Directeur de division,Banque,5,85500.0,5,1462,10.0
+615,Personne_00615,Université de Bordeaux,2016,Juridique,Team Lead,Juridique,6,93500.0,4,83,6.0
+616,Personne_00616,Université de Lyon,2010,Tech,CTO,Tech,12,100500.0,6,43,8.0
+617,Personne_00617,Université de Rennes,2008,Marketing,Directeur Général,Marketing,14,91000.0,6,133,5.0
+618,Personne_00618,Université d'Aix-Marseille,2020,Tech,Consultant Senior,Tech,3,72500.0,3,3669,6.0
+619,Personne_00619,sorbonne universite,2018,Tech,Chef de projet,Tech,6,,4,61,10.0
+620,Personne_00620,Université Toulouse Capitole,2007,Conseil,Directeur Général,Conseil,15,150000.0,6,181,6.0
+621,Personne_00621,Université d'Aix-Marseille,2015,Juridique,Directeur de division,Juridique,8,96000.0,5,370,10.0
+622,Personne_00622,Université Paris-Saclay,2018,Santé,Directeur Technique,Santé,6,98000.0,5,362,7.0
+623,Personne_00623,Université d'Aix-Marseille,2010,Conseil,Directeur Technique,Conseil,13,148500.0,5,77,7.0
+624,Personne_00624,sorbonne universite,2007,Industrie,CTO,Industrie,17,,6,520,8.0
+625,Personne_00625,Université de Strasbourg,2015,Marketing,CFO,Marketing,9,101000.0,6,616,6.0
+626,Personne_00626,UNIVERSITÉ PARIS-SACLAY,2010,Banque,Directeur Général,Banque,14,109500.0,6,1472,7.0
+627,Personne_00627,Université d'Aix-Marseille,2014,Banque,Engineering Manager,Banque,8,,4,469,8.0
+628,Personne_00628,Université de Bordeaux,2011,Banque,Engineering Manager,Banque,11,93000.0,4,73,9.0
+629,Personne_00629,Université de Lyon,2010,Conseil,Directeur Général,Conseil,14,131000.0,6,135,6.0
+630,Personne_00630,Université de Bourgogne,2009,Juridique,Directeur Général,Juridique,15,109000.0,6,794,4.0
+631,Personne_00631,Université de Montpellier,2014,Conseil,Directeur Technique,Conseil,8,79500.0,5,21,7.0
+632,Personne_00632,Université Toulouse Capitole,2009,Santé,Directeur Général,Santé,14,115000.0,6,80,8.0
+633,Personne_00633,Université de Bordeaux,2014,Juridique,Consultant Senior,Juridique,8,91500.0,3,327,9.0
+634,Personne_00634,Université d'Aix-Marseille,2013,Tech,Directeur Général,Tech,11,114000.0,6,116,5.0
+635,Personne_00635,Université de Lyon,2007,Tech,CEO,Tech,16,142500.0,6,214,9.0
+636,Personne_00636,Université de Lille,2014,Marketing,Consultant Senior,Marketing,8,74500.0,3,197,8.0
+637,Personne_00637,Université Grenoble Alpes,2018,Santé,Directeur Technique,Santé,4,93500.0,5,440,10.0
+638,Personne_00638,Université de Rennes,2015,Tech,Chef de projet,Tech,9,80000.0,4,783,7.0
+639,Personne_00639,Université Grenoble Alpes,2016,Santé,Manager,Santé,6,68500.0,4,570,
+640,Personne_00640,Université de Strasbourg,2005,Juridique,CTO,Juridique,19,101000.0,6,52,8.0
+641,Personne_00641,Université de Bourgogne,2009,Banque,CFO,Banque,15,113000.0,6,482,7.0
+642,Personne_00642,Université de Nantes,2009,Conseil,CFO,Conseil,15,105000.0,6,468,8.0
+643,Personne_00643,Université de Bourgogne,2009,Juridique,CEO,Juridique,15,113000.0,6,450,7.0
+644,,UNIVERSITÉ PARIS-SACLAY,2014,Santé,CFO,Santé,8,109500.0,6,147,10.0
+645,Personne_00645,Université Côte d'Azur,2008,Marketing,Directeur Général,Marketing,16,105500.0,6,82,8.0
+646,Personne_00646,Université Toulouse Capitole,2020,Juridique,Team Lead,Juridique,2,84000.0,4,228,8.0
+647,Personne_00647,Université de Montpellier,2020,Banque,Directeur Technique,Banque,2,91500.0,5,485,6.0
+648,,Université de Bourgogne,2012,Juridique,Directeur Technique,Juridique,12,101000.0,5,27,6.0
+649,Personne_00649,Université de Bourgogne,2016,Conseil,Expert,Conseil,7,91500.0,3,30,8.0
+650,Personne_00650,Université de Bourgogne,2020,Banque,Analyste Confirmé,Banque,3,65000.0,2,644,7.0
+651,Personne_00651,École Polytechnique,2014,Industrie,CEO,Industrie,9,115500.0,6,893,7.0
+652,Personne_00652,Université Paris Cité,2006,Industrie,CFO,Industrie,17,96500.0,6,407,7.0
+653,Personne_00653,Université PSL,2013,Banque,CEO,Banque,10,137500.0,6,79,10.0
+654,Personne_00654,Université de Nantes,2008,Banque,Directeur Technique,Banque,14,117000.0,5,439,5.0
+655,Personne_00655,Université PSL,2022,Industrie,Team Lead,Industrie,0,79000.0,4,12,6.0
+656,Personne_00656,Université Toulouse Capitole,2007,Industrie,CTO,Industrie,15,118000.0,6,304,6.0
+657,Personne_00657,Université de Lille,2007,Industrie,CFO,Industrie,17,124000.0,6,3287,8.0
+658,Personne_00658,Université de Lyon,2019,Santé,Manager,Santé,3,74000.0,4,407,7.0
+659,Personne_00659,Université de Nantes,2007,Santé,CTO,Santé,17,117500.0,6,499,7.0
+660,Personne_00660,Université de Rennes,2022,Marketing,Analyste Senior,Marketing,2,63000.0,3,1301,8.0
+661,Personne_00661,Université d'Aix-Marseille,2009,Marketing,CFO,Marketing,14,90500.0,6,881,7.0
+662,Personne_00662,Université d'Aix-Marseille,2014,Banque,Directeur de division,Banque,8,129500.0,5,15,6.0
+663,Personne_00663,Université Grenoble Alpes,2006,Marketing,CEO,Marketing,17,108000.0,6,982,7.0
+664,,Université de Lille,2008,Tech,CEO,Tech,14,116500.0,6,224,8.0
+665,Personne_00665,Université de Bordeaux,2009,Marketing,CFO,Marketing,13,82500.0,6,122,7.0
+666,Personne_00666,Université de Lille,2012,Marketing,Directeur Technique,Marketing,12,99000.0,5,5,5.0
+667,Personne_00667,Université de Rennes,2017,Marketing,Engineering Manager,Marketing,7,71500.0,4,947,10.0
+668,,Université Toulouse Capitole,2010,Conseil,CTO,Conseil,13,110000.0,6,14,4.0
+669,Personne_00669,École Polytechnique,2008,Juridique,CFO,Juridique,16,82000.0,6,46,7.0
+670,Personne_00670,Université de Lyon,2022,Santé,Engineering Manager,Santé,1,78000.0,4,228,6.0
+671,Personne_00671,Université d'Aix-Marseille,2012,Banque,Directeur Technique,Banque,10,102000.0,5,1196,8.0
+672,Personne_00672,Université de Montpellier,2012,Banque,Directeur Technique,Banque,11,115000.0,5,90,5.0
+673,Personne_00673,Ecole Polytechnique,2009,Marketing,CFO,Marketing,13,130000.0,6,1009,10.0
+674,Personne_00674,Université de Bourgogne,2020,Juridique,Analyste Junior,Juridique,4,52000.0,1,597,7.0
+675,Personne_00675,Université PSL,2022,Juridique,Manager,Juridique,1,77500.0,4,42,10.0
+676,Personne_00676,Université Toulouse Capitole,2012,Industrie,Directeur Technique,Industrie,12,84500.0,5,31,4.0
+677,Personne_00677,Université de Lyon,2015,Marketing,Directeur,Marketing,8,84500.0,5,74,7.0
+678,Personne_00678,Université Paris Cité,2012,Santé,CTO,Santé,12,110500.0,6,870,6.0
+679,Personne_00679,Université de Rennes,2009,Industrie,CFO,Industrie,14,104500.0,6,140,
+680,Personne_00680,Université de Lyon,2019,Marketing,Directeur de division,Marketing,3,70500.0,5,96,10.0
+681,Personne_00681,Université Grenoble Alpes,2019,Santé,Engineering Manager,Santé,3,56500.0,4,57,7.0
+682,Personne_00682,Université de Lyon,2009,Santé,CEO,Santé,13,96000.0,6,411,7.0
+683,,École Polytechnique,2018,Marketing,Senior Developer,Marketing,6,66500.0,3,243,6.0
+684,Personne_00684,Université Paris Cité,2013,Industrie,Directeur,Industrie,9,90500.0,5,206,7.0
+685,Personne_00685,Université PSL,2018,Juridique,Expert,Juridique,4,70500.0,3,14,9.0
+686,Personne_00686,Université de Montpellier,2012,Conseil,CTO,Conseil,11,111000.0,6,320,9.0
+687,Personne_00687,Université PSL,2017,Santé,CEO,Santé,7,111500.0,6,3197,10.0
+688,Personne_00688,Université Grenoble Alpes,2020,Santé,Consultant Senior,Santé,4,85500.0,3,336,
+689,Personne_00689,Université PSL,2012,Industrie,CEO,Industrie,11,96000.0,6,30,7.0
+690,Personne_00690,Université de Lorraine,2019,Santé,Analyste Confirmé,Santé,3,62500.0,2,272,4.0
+691,Personne_00691,Université de Lille,2020,Conseil,Engineering Manager,Conseil,3,72500.0,4,5,8.0
+692,Personne_00692,Université de Strasbourg,2021,Juridique,Analyste Senior,Juridique,1,79000.0,3,119,6.0
+693,Personne_00693,Université de Strasbourg,2007,Santé,CEO,Santé,15,122000.0,6,116,5.0
+694,Personne_00694,Université d'Aix-Marseille,2017,Conseil,Manager,Conseil,6,94000.0,4,131,7.0
+695,Personne_00695,Université de Montpellier,2007,Santé,CEO,Santé,15,106500.0,6,619,5.0
+696,Personne_00696,Université Paris-Saclay,2015,Banque,Directeur de division,Banque,8,130500.0,5,86,7.0
+697,Personne_00697,Université de Montpellier,2017,Santé,Senior Developer,Santé,6,56500.0,3,42,6.0
+698,Personne_00698,Université PSL,2020,Industrie,Senior Developer,Industrie,3,80500.0,3,466,
+699,Personne_00699,Université d'Aix-Marseille,2009,Industrie,CTO,Industrie,15,112000.0,6,1036,8.0
+700,Personne_00700,Université de Montpellier,2016,Santé,Engineering Manager,Santé,6,99000.0,4,14,7.0
+701,Personne_00701,Université d'Aix-Marseille,2008,Industrie,Directeur Général,Industrie,14,98500.0,6,19,8.0
+702,Personne_00702,Sorbonne Université,2010,Banque,CEO,Banque,14,123500.0,6,143,10.0
+703,,UNIVERSITÉ PARIS-SACLAY,2020,Conseil,Expert,Conseil,4,76500.0,3,46,7.0
+704,Personne_00704,Université d'Aix-Marseille,2011,Juridique,Directeur,Juridique,12,94000.0,5,378,6.0
+705,Personne_00705,Université Paris-Saclay,2012,Santé,Directeur Général,Santé,11,133000.0,6,185,10.0
+706,Personne_00706,Université de Bordeaux,2008,Tech,CFO,Tech,14,106500.0,6,211,
+707,Personne_00707,Université de Lille,2012,Juridique,Team Lead,Juridique,11,89500.0,4,254,7.0
+708,Personne_00708,Université de Lille,2012,Marketing,Directeur Technique,Marketing,11,78000.0,5,210,6.0
+709,Personne_00709,Université Paris-Saclay,2014,Marketing,CFO,Marketing,10,99000.0,6,15,7.0
+710,Personne_00710,Université Toulouse Capitole,2009,Tech,CTO,Tech,15,122500.0,6,29,5.0
+711,Personne_00711,Université PSL,2019,Marketing,Directeur Technique,Marketing,3,92000.0,5,730,6.0
+712,Personne_00712,École Polytechnique,2019,Industrie,Manager,Industrie,4,83500.0,4,16,9.0
+713,Personne_00713,Sorbonne Université,2007,Marketing,CEO,Marketing,15,92000.0,6,189,10.0
+714,Personne_00714,Université de Strasbourg,2009,Conseil,CFO,Conseil,15,142000.0,6,64,7.0
+715,Personne_00715,Université de Bourgogne,2009,Santé,CEO,Santé,14,80500.0,6,648,5.0
+716,Personne_00716,Université de Lille,2012,Industrie,Directeur Technique,Industrie,11,82500.0,5,299,6.0
+717,Personne_00717,Université Paris Cité,2010,Marketing,CEO,Marketing,12,,6,1190,2.0
+718,Personne_00718,Université de Bordeaux,2017,Tech,Chef de projet,Tech,5,98500.0,4,78,8.0
+719,,UNIVERSITÉ PARIS-SACLAY,2016,Juridique,Team Lead,Juridique,6,96000.0,4,456,8.0
+720,Personne_00720,Université Côte d'Azur,2008,Conseil,CFO,Conseil,15,116500.0,6,82,8.0
+721,Personne_00721,Université de Lille,2018,Marketing,Engineering Manager,Marketing,4,,4,161,7.0
+722,Personne_00722,Université de Bordeaux,2014,Marketing,Engineering Manager,Marketing,9,60500.0,4,482,6.0
+723,Personne_00723,Université Grenoble Alpes,2008,Juridique,CTO,Juridique,15,138000.0,6,429,
+724,Personne_00724,Université PSL,2020,Conseil,Directeur,Conseil,2,97500.0,5,1407,7.0
+725,Personne_00725,Université Côte d'Azur,2021,Tech,Analyste Senior,Tech,1,72500.0,3,915,4.0
+726,Personne_00726,Université d'Aix-Marseille,2008,Santé,CTO,Santé,16,122500.0,6,23,8.0
+727,,Université Grenoble Alpes,2022,Juridique,Consultant Senior,Juridique,1,66500.0,3,446,4.0
+728,Personne_00728,Université de Strasbourg,2018,Conseil,Senior Developer,Conseil,6,74500.0,3,243,9.0
+729,Personne_00729,Université Paris-Saclay,2008,Marketing,CTO,Marketing,14,102500.0,6,237,7.0
+730,Personne_00730,Université de Nantes,2011,Industrie,Directeur Technique,Industrie,12,97000.0,5,51,7.0
+731,Personne_00731,Université de Bordeaux,2021,Industrie,Chef de projet,Industrie,3,68500.0,4,1723,6.0
+732,Personne_00732,Université de Lorraine,2022,Tech,Analyste Senior,Tech,0,72000.0,3,475,7.0
+733,Personne_00733,Sorbonne Université,2008,Marketing,CEO,Marketing,16,102500.0,6,171,9.0
+734,Personne_00734,UNIVERSITÉ PARIS-SACLAY,2006,Marketing,CEO,Marketing,16,127500.0,6,398,8.0
+735,Personne_00735,Université de Lyon,2011,Banque,CTO,Banque,12,145500.0,6,9886,5.0
+736,Personne_00736,Ecole Polytechnique,2006,Industrie,CEO,Industrie,17,112000.0,6,259,6.0
+737,Personne_00737,Université PSL,2019,Juridique,Directeur de division,Juridique,5,98000.0,5,168,7.0
+738,Personne_00738,Sorbonne Université,2006,Conseil,CEO,Conseil,16,129500.0,6,78,8.0
+739,Personne_00739,Université PSL,2013,Juridique,CFO,Juridique,9,108500.0,6,2619,8.0
+740,Personne_00740,Université d'Aix-Marseille,2006,Santé,CEO,Santé,17,111000.0,6,249,5.0
+741,Personne_00741,Université de Lyon,2012,Marketing,CTO,Marketing,11,87500.0,6,518,7.0
+742,Personne_00742,Université de Strasbourg,2005,Banque,CEO,Banque,17,137500.0,6,3091,6.0
+743,,Université de Lorraine,2019,Santé,Consultant Senior,Santé,3,69000.0,3,2136,8.0
+744,Personne_00744,sorbonne universite,2018,Industrie,Team Lead,Industrie,4,60000.0,4,224,5.0
+745,Personne_00745,École Polytechnique,2019,Banque,Chef de projet,Banque,4,83000.0,4,42,9.0
+746,Personne_00746,Université de Lorraine,2017,Conseil,Consultant Senior,Conseil,5,72000.0,3,6605,7.0
+747,Personne_00747,École Polytechnique,2014,Marketing,CFO,Marketing,10,91500.0,6,215,7.0
+748,Personne_00748,Université de Bourgogne,2010,Santé,CTO,Santé,12,110000.0,6,244,7.0
+749,Personne_00749,Université Grenoble Alpes,2012,Tech,CTO,Tech,11,123500.0,6,2345,9.0
+750,Personne_00750,Université de Montpellier,2020,Marketing,Senior Developer,Marketing,3,62500.0,3,113,5.0
+751,Personne_00751,Université de Lyon,2011,Banque,Directeur de division,Banque,12,105500.0,5,130,5.0
+752,Personne_00752,Université Toulouse Capitole,2017,Conseil,Chef de projet,Conseil,5,99000.0,4,78,6.0
+753,Personne_00753,Université de Lorraine,2015,Santé,Directeur Technique,Santé,7,70000.0,5,2134,8.0
+754,Personne_00754,Sorbonne Université,2021,Industrie,Consultant Senior,Industrie,2,71000.0,3,148,9.0
+755,Personne_00755,Université de Lille,2012,Conseil,Directeur,Conseil,11,105500.0,5,59,8.0
+756,Personne_00756,Université Paris Cité,2020,Industrie,Consultant Senior,Industrie,3,75000.0,3,911,9.0
+757,Personne_00757,Ecole Polytechnique,2022,Industrie,Engineering Manager,Industrie,0,80500.0,4,60,7.0
+758,Personne_00758,Université de Rennes,2008,Banque,Directeur Général,Banque,15,112000.0,6,533,5.0
+759,Personne_00759,Université PSL,2019,Tech,Directeur Technique,Tech,4,108500.0,5,572,6.0
+760,Personne_00760,Université de Strasbourg,2022,Marketing,Manager,Marketing,2,63000.0,4,988,9.0
+761,Personne_00761,Université de Nantes,2005,Tech,CFO,Tech,18,121500.0,6,115,6.0
+762,Personne_00762,Université de Rennes,2011,Industrie,Directeur Technique,Industrie,13,99000.0,5,394,8.0
+763,Personne_00763,Université Grenoble Alpes,2008,Santé,CFO,Santé,14,116500.0,6,58,8.0
+764,Personne_00764,Université de Strasbourg,2011,Juridique,Directeur,Juridique,11,100000.0,5,659,8.0
+765,Personne_00765,Université Paris Cité,2019,Conseil,Directeur de division,Conseil,4,123500.0,5,4386,8.0
+766,Personne_00766,Université de Lyon,2018,Conseil,Senior Developer,Conseil,6,75000.0,3,537,7.0
+767,Personne_00767,École Polytechnique,2019,Conseil,Directeur Général,Conseil,5,96500.0,6,367,9.0
+768,Personne_00768,Université de Strasbourg,2014,Marketing,Directeur,Marketing,9,97500.0,5,6223,6.0
+769,Personne_00769,Université Paris Cité,2014,Santé,CTO,Santé,10,112000.0,6,3641,9.0
+770,Personne_00770,École Polytechnique,2006,Tech,CFO,Tech,16,146500.0,6,330,8.0
+771,Personne_00771,Université de Bordeaux,2006,Santé,CFO,Santé,17,97500.0,6,2427,8.0
+772,Personne_00772,École Polytechnique,2008,Juridique,CEO,Juridique,16,113500.0,6,242,9.0
+773,Personne_00773,Université de Strasbourg,2020,Tech,Team Lead,Tech,4,82500.0,4,304,10.0
+774,Personne_00774,Université Grenoble Alpes,2016,Juridique,Engineering Manager,Juridique,6,104500.0,4,246,10.0
+775,Personne_00775,Université Grenoble Alpes,2005,Banque,CEO,Banque,18,140500.0,6,1028,7.0
+776,Personne_00776,Université de Lorraine,2011,Industrie,CTO,Industrie,13,108500.0,6,1737,6.0
+777,Personne_00777,Université de Bordeaux,2013,Tech,CEO,Tech,9,96500.0,6,160,5.0
+778,Personne_00778,Ecole Polytechnique,2015,Santé,Manager,Santé,8,82500.0,4,387,9.0
+779,Personne_00779,Université Grenoble Alpes,2008,Tech,Directeur Général,Tech,16,98500.0,6,1638,7.0
+780,,Université Grenoble Alpes,2020,Conseil,Team Lead,Conseil,3,104000.0,4,19,7.0
+781,Personne_00781,Université de Bourgogne,2014,Santé,CFO,Santé,10,94500.0,6,1078,9.0
+782,Personne_00782,Université de Montpellier,2017,Marketing,Manager,Marketing,7,,4,1106,5.0
+783,Personne_00783,Université de Nantes,2020,Banque,Analyste Confirmé,Banque,2,67000.0,2,286,9.0
+784,Personne_00784,Université de Strasbourg,2006,Santé,CTO,Santé,18,126500.0,6,54,6.0
+785,Personne_00785,sorbonne universite,2020,Industrie,Directeur Technique,Industrie,4,87000.0,5,29,9.0
+786,Personne_00786,Ecole Polytechnique,2022,Tech,Chargé de mission,Tech,1,71000.0,2,1945,8.0
+787,Personne_00787,Université Grenoble Alpes,2017,Juridique,Expert,Juridique,5,70500.0,3,609,4.0
+788,Personne_00788,Université de Montpellier,2012,Conseil,Directeur Général,Conseil,11,116500.0,6,44,7.0
+789,Personne_00789,Université Paris Cité,2012,Tech,CFO,Tech,12,124500.0,6,1074,7.0
+790,Personne_00790,Université Paris Cité,2014,Industrie,CFO,Industrie,9,88500.0,6,59,8.0
+791,Personne_00791,UNIVERSITÉ PARIS-SACLAY,2017,Industrie,Manager,Industrie,5,82000.0,4,2361,9.0
+792,Personne_00792,Université Côte d'Azur,2015,Juridique,Engineering Manager,Juridique,7,78500.0,4,162,3.0
+793,Personne_00793,Université Paris-Saclay,2015,Juridique,CFO,Juridique,8,106500.0,6,628,9.0
+794,Personne_00794,sorbonne universite,2012,Juridique,Directeur Technique,Juridique,12,97000.0,5,275,6.0
+795,Personne_00795,UNIVERSITÉ PARIS-SACLAY,2015,Banque,CEO,Banque,9,140000.0,6,249,5.0
+796,Personne_00796,École Polytechnique,2012,Juridique,CTO,Juridique,12,139000.0,6,897,6.0
+797,Personne_00797,Université PSL,2008,Juridique,Directeur Général,Juridique,14,119000.0,6,25,8.0
+798,Personne_00798,UNIVERSITÉ PARIS-SACLAY,2014,Conseil,Directeur Technique,Conseil,10,125000.0,5,228,8.0
+799,Personne_00799,Université de Montpellier,2019,Santé,Assistant,Santé,3,56000.0,1,35,7.0
+800,Personne_00800,Université Paris Cité,2007,Santé,CFO,Santé,15,135000.0,6,3800,9.0
+801,Personne_00801,sorbonne universite,2015,Marketing,Directeur,Marketing,7,89000.0,5,88,7.0
+802,Personne_00802,Université de Lorraine,2014,Banque,Directeur Technique,Banque,10,95000.0,5,3293,
+803,Personne_00803,Université Paris Cité,2020,Santé,Engineering Manager,Santé,3,94500.0,4,35,7.0
+804,Personne_00804,Université de Bordeaux,2012,Tech,Team Lead,Tech,10,99000.0,4,1479,7.0
+805,Personne_00805,Université de Bordeaux,2022,Conseil,Expert,Conseil,0,81500.0,3,536,10.0
+806,Personne_00806,École Polytechnique,2006,Juridique,Directeur Général,Juridique,16,136000.0,6,181,6.0
+807,Personne_00807,Université de Lorraine,2016,Marketing,Manager,Marketing,6,73000.0,4,408,7.0
+808,Personne_00808,Université de Nantes,2021,Marketing,Engineering Manager,Marketing,1,76000.0,4,673,8.0
+809,Personne_00809,Université de Strasbourg,2017,Banque,Directeur,Banque,7,114500.0,5,518,9.0
+810,Personne_00810,Sorbonne Université,2022,Juridique,Team Lead,Juridique,1,80500.0,4,206,7.0
+811,Personne_00811,Université Toulouse Capitole,2006,Banque,CFO,Banque,18,148000.0,6,16,6.0
+812,Personne_00812,École Polytechnique,2021,Banque,Directeur de division,Banque,2,91500.0,5,719,10.0
+813,Personne_00813,Université de Montpellier,2011,Santé,CFO,Santé,11,103500.0,6,5,8.0
+814,Personne_00814,Université PSL,2005,Conseil,CFO,Conseil,17,109000.0,6,740,10.0
+815,Personne_00815,Université de Bourgogne,2013,Banque,Directeur de division,Banque,11,92500.0,5,262,8.0
+816,Personne_00816,Université Côte d'Azur,2013,Juridique,Directeur de division,Juridique,9,95000.0,5,10,
+817,Personne_00817,Université de Montpellier,2014,Santé,Directeur de division,Santé,9,89500.0,5,386,9.0
+818,Personne_00818,Université Toulouse Capitole,2015,Marketing,Chef de projet,Marketing,8,78000.0,4,100,8.0
+819,Personne_00819,Université Toulouse Capitole,2014,Marketing,Engineering Manager,Marketing,8,60500.0,4,451,8.0
+820,Personne_00820,Université Grenoble Alpes,2008,Conseil,CEO,Conseil,15,115500.0,6,49,4.0
+821,Personne_00821,Sorbonne Université,2011,Industrie,CTO,Industrie,12,125000.0,6,139,7.0
+822,Personne_00822,Université de Nantes,2010,Juridique,CEO,Juridique,12,104000.0,6,91,4.0
+823,Personne_00823,Université de Bordeaux,2013,Juridique,CTO,Juridique,11,97500.0,6,351,9.0
+824,Personne_00824,Université d'Aix-Marseille,2021,Tech,Team Lead,Tech,1,54500.0,4,451,10.0
+825,Personne_00825,Université de Lorraine,2005,Tech,CEO,Tech,17,131500.0,6,521,7.0
+826,Personne_00826,Université de Bordeaux,2009,Juridique,CFO,Juridique,14,115500.0,6,15,
+827,Personne_00827,Université Grenoble Alpes,2019,Conseil,Chef de projet,Conseil,4,107500.0,4,261,7.0
+828,Personne_00828,Ecole Polytechnique,2007,Industrie,CTO,Industrie,17,128000.0,6,833,9.0
+829,Personne_00829,Université PSL,2010,Banque,CTO,Banque,14,112500.0,6,22,6.0
+830,Personne_00830,Université PSL,2007,Industrie,Directeur Général,Industrie,15,124000.0,6,60,
+831,Personne_00831,Université Côte d'Azur,2005,Industrie,Team Lead,Industrie,17,108000.0,4,605,6.0
+832,Personne_00832,Université Côte d'Azur,2005,Industrie,CTO,Industrie,17,123000.0,6,206,7.0
+833,Personne_00833,Université de Montpellier,2010,Santé,CTO,Santé,12,134000.0,6,406,7.0
+834,Personne_00834,Université PSL,2015,Industrie,Directeur de division,Industrie,8,77500.0,5,36,6.0
+835,Personne_00835,Université Paris-Saclay,2018,Tech,Manager,Tech,4,86000.0,4,2207,9.0
+836,Personne_00836,Université de Lorraine,2005,Banque,Directeur Général,Banque,19,140000.0,6,9285,7.0
+837,Personne_00837,Université PSL,2012,Industrie,Directeur,Industrie,11,103500.0,5,1463,7.0
+838,Personne_00838,Université Côte d'Azur,2005,Juridique,CEO,Juridique,18,103500.0,6,5051,8.0
+839,Personne_00839,Université Grenoble Alpes,2013,Banque,Directeur,Banque,10,120500.0,5,159,8.0
+840,Personne_00840,Université Paris-Saclay,2017,Conseil,Directeur Technique,Conseil,7,110500.0,5,11,8.0
+841,Personne_00841,Université de Nantes,2009,Banque,Directeur Général,Banque,15,114000.0,6,341,7.0
+842,Personne_00842,Université Paris-Saclay,2014,Marketing,Directeur Général,Marketing,9,,6,231,5.0
+843,Personne_00843,Sorbonne Université,2016,Tech,Directeur,Tech,6,119000.0,5,790,
+844,Personne_00844,Université de Strasbourg,2005,Industrie,CEO,Industrie,18,119000.0,6,690,5.0
+845,,Université de Bourgogne,2021,Industrie,Expert,Industrie,1,70500.0,3,2006,9.0
+846,Personne_00846,Université Côte d'Azur,2013,Industrie,Directeur Technique,Industrie,11,93500.0,5,92,
+847,Personne_00847,Université de Montpellier,2020,Juridique,Directeur de division,Juridique,3,92000.0,5,12289,7.0
+848,Personne_00848,Université de Montpellier,2007,Industrie,CTO,Industrie,15,94000.0,6,1900,9.0
+849,Personne_00849,Université de Bourgogne,2021,Industrie,Developer,Industrie,1,59500.0,2,2938,8.0
+850,Personne_00850,École Polytechnique,2021,Industrie,Directeur Technique,Industrie,3,106000.0,5,5986,10.0
+851,Personne_00851,Université de Lorraine,2021,Industrie,Directeur Technique,Industrie,3,84000.0,5,506,7.0
+852,Personne_00852,Université Toulouse Capitole,2022,Marketing,Expert,Marketing,0,61000.0,3,3823,7.0
+853,Personne_00853,Université d'Aix-Marseille,2012,Marketing,CFO,Marketing,12,109000.0,6,338,8.0
+854,Personne_00854,École Polytechnique,2015,Santé,Directeur Général,Santé,9,113500.0,6,504,7.0
+855,Personne_00855,Université de Strasbourg,2010,Marketing,Directeur de division,Marketing,12,73500.0,5,52,7.0
+856,Personne_00856,Université Paris Cité,2005,Tech,CTO,Tech,18,117500.0,6,165,7.0
+857,Personne_00857,Université de Strasbourg,2006,Juridique,Directeur Général,Juridique,18,121500.0,6,650,4.0
+858,,École Polytechnique,2019,Santé,CEO,Santé,4,84500.0,6,943,6.0
+859,Personne_00859,Ecole Polytechnique,2016,Tech,CFO,Tech,8,96000.0,6,484,7.0
+860,Personne_00860,École Polytechnique,2014,Industrie,Engineering Manager,Industrie,8,96500.0,4,127,5.0
+861,Personne_00861,Université de Bourgogne,2007,Tech,CEO,Tech,17,107000.0,6,213,7.0
+862,Personne_00862,Université Paris Cité,2012,Industrie,Directeur Général,Industrie,12,103000.0,6,1973,
+863,Personne_00863,UNIVERSITÉ PARIS-SACLAY,2011,Industrie,CFO,Industrie,13,99500.0,6,2690,
+864,Personne_00864,Université de Bordeaux,2007,Tech,CEO,Tech,17,115000.0,6,326,6.0
+865,Personne_00865,Université PSL,2022,Banque,Senior Developer,Banque,1,80000.0,3,23,8.0
+866,Personne_00866,École Polytechnique,2016,Industrie,CFO,Industrie,8,103000.0,6,975,9.0
+867,Personne_00867,Université de Rennes,2019,Marketing,Expert,Marketing,5,61000.0,3,472,
+868,Personne_00868,Université de Lyon,2005,Industrie,CTO,Industrie,19,97000.0,6,1263,4.0
+869,Personne_00869,Université de Lille,2021,Banque,Assistant,Banque,1,61500.0,1,653,5.0
+870,Personne_00870,Université de Lyon,2012,Industrie,CEO,Industrie,10,75000.0,6,426,10.0
+871,Personne_00871,Université de Strasbourg,2012,Juridique,Directeur Technique,Juridique,12,98000.0,5,584,6.0
+872,Personne_00872,Université de Rennes,2017,Tech,Analyste Senior,Tech,7,67000.0,3,847,7.0
+873,Personne_00873,Sorbonne Université,2013,Industrie,Directeur Technique,Industrie,9,84500.0,5,128,5.0
+874,Personne_00874,Université de Bourgogne,2014,Tech,Directeur,Tech,9,105000.0,5,103,5.0
+875,Personne_00875,Université de Strasbourg,2010,Tech,Directeur Technique,Tech,12,107500.0,5,543,10.0
+876,Personne_00876,Sorbonne Université,2014,Santé,Chef de projet,Santé,9,79000.0,4,43,5.0
+877,Personne_00877,Université de Lille,2007,Tech,Directeur,Tech,16,132500.0,5,58,10.0
+878,Personne_00878,Université de Lyon,2021,Industrie,Analyste Senior,Industrie,1,57500.0,3,43,
+879,Personne_00879,Université de Lyon,2017,Marketing,Team Lead,Marketing,7,75000.0,4,31,7.0
+880,Personne_00880,Université Toulouse Capitole,2008,Tech,CTO,Tech,15,108500.0,6,1208,7.0
+881,Personne_00881,Université Côte d'Azur,2008,Banque,CEO,Banque,15,135500.0,6,323,7.0
+882,Personne_00882,Ecole Polytechnique,2013,Juridique,CTO,Juridique,9,113500.0,6,309,6.0
+883,Personne_00883,Université de Lyon,2020,Conseil,Senior Developer,Conseil,4,78500.0,3,121,10.0
+884,Personne_00884,Université PSL,2015,Santé,Directeur Technique,Santé,7,82500.0,5,854,8.0
+885,Personne_00885,Université Toulouse Capitole,2006,Conseil,Directeur Général,Conseil,17,131500.0,6,1019,5.0
+886,Personne_00886,Université de Bordeaux,2014,Marketing,Consultant Senior,Marketing,10,66000.0,3,2480,10.0
+887,Personne_00887,Université Paris Cité,2022,Juridique,Engineering Manager,Juridique,1,79500.0,4,107,6.0
+888,Personne_00888,Université de Bourgogne,2008,Marketing,CEO,Marketing,14,85500.0,6,67,5.0
+889,Personne_00889,Université de Nantes,2020,Industrie,Analyste Confirmé,Industrie,4,55500.0,2,46,9.0
+890,Personne_00890,École Polytechnique,2017,Tech,Directeur,Tech,7,127000.0,5,587,9.0
+891,Personne_00891,Université PSL,2011,Banque,Directeur Général,Banque,11,108500.0,6,148,5.0
+892,Personne_00892,Université de Lille,2012,Banque,CTO,Banque,12,116000.0,6,258,2.0
+893,Personne_00893,Université de Rennes,2011,Juridique,Manager,Juridique,13,86500.0,4,1230,4.0
+894,Personne_00894,Université Paris Cité,2020,Tech,Manager,Tech,3,87500.0,4,960,
+895,Personne_00895,Université d'Aix-Marseille,2017,Marketing,Consultant Senior,Marketing,5,62000.0,3,950,8.0
+896,Personne_00896,Université d'Aix-Marseille,2010,Conseil,Directeur Général,Conseil,13,142500.0,6,64,7.0
+897,Personne_00897,Université de Bordeaux,2007,Industrie,Directeur Général,Industrie,15,94000.0,6,1263,6.0
+898,Personne_00898,Université de Nantes,2020,Industrie,Directeur Technique,Industrie,4,90500.0,5,341,8.0
+899,Personne_00899,Université Grenoble Alpes,2020,Santé,Directeur Technique,Santé,4,83500.0,5,2633,7.0
+900,Personne_00900,Université Toulouse Capitole,2008,Santé,Directeur Général,Santé,16,111500.0,6,1022,6.0
+901,,École Polytechnique,2016,Industrie,Directeur Technique,Industrie,6,110500.0,5,190,7.0
+902,Personne_00902,sorbonne universite,2015,Tech,Directeur de division,Tech,8,118000.0,5,232,
+903,Personne_00903,sorbonne universite,2018,Tech,Team Lead,Tech,5,86500.0,4,4455,8.0
+904,Personne_00904,Université Toulouse Capitole,2012,Industrie,Directeur de division,Industrie,11,93000.0,5,1077,5.0
+905,,Université de Lorraine,2017,Santé,Manager,Santé,7,84500.0,4,146,6.0
+906,Personne_00906,Université Paris-Saclay,2007,Banque,CEO,Banque,17,144000.0,6,176,8.0
+907,Personne_00907,Ecole Polytechnique,2021,Santé,Chef de projet,Santé,2,83500.0,4,804,10.0
+908,Personne_00908,Université de Lille,2013,Marketing,Directeur Général,Marketing,9,95000.0,6,38,8.0
+909,Personne_00909,Université de Nantes,2013,Industrie,CFO,Industrie,11,87500.0,6,102,10.0
+910,Personne_00910,Université PSL,2017,Banque,Expert,Banque,5,80500.0,3,292,9.0
+911,Personne_00911,Université PSL,2018,Banque,Directeur de division,Banque,6,103500.0,5,1194,10.0
+912,Personne_00912,Université de Lorraine,2012,Marketing,Chef de projet,Marketing,12,79000.0,4,1727,
+913,Personne_00913,Université de Lyon,2009,Industrie,CEO,Industrie,14,97000.0,6,56,9.0
+914,Personne_00914,Université de Bourgogne,2020,Marketing,Analyste Confirmé,Marketing,2,53500.0,2,14812,7.0
+915,Personne_00915,Université de Nantes,2020,Conseil,Directeur Technique,Conseil,3,100500.0,5,164,4.0
+916,Personne_00916,Université de Strasbourg,2015,Banque,Consultant Senior,Banque,7,102000.0,3,256,7.0
+917,Personne_00917,Université Paris-Saclay,2021,Juridique,Senior Developer,Juridique,3,89500.0,3,431,7.0
+918,Personne_00918,Sorbonne Université,2018,Banque,Engineering Manager,Banque,6,127000.0,4,96,10.0
+919,Personne_00919,Université Grenoble Alpes,2022,Tech,Manager,Tech,2,78500.0,4,1367,10.0
+920,Personne_00920,UNIVERSITÉ PARIS-SACLAY,2014,Tech,CTO,Tech,10,,6,49,6.0
+921,Personne_00921,Université de Lyon,2008,Industrie,CTO,Industrie,15,105500.0,6,85,7.0
+922,Personne_00922,Université PSL,2021,Banque,Expert,Banque,1,85500.0,3,58,9.0
+923,Personne_00923,Université de Rennes,2010,Juridique,Directeur Général,Juridique,14,92500.0,6,103,8.0
+924,Personne_00924,Université de Strasbourg,2020,Industrie,Senior Developer,Industrie,2,79500.0,3,163,9.0
+925,Personne_00925,École Polytechnique,2021,Industrie,Directeur,Industrie,2,79000.0,5,254,5.0
+926,Personne_00926,Université Paris Cité,2017,Conseil,Directeur,Conseil,7,96000.0,5,86,10.0
+927,,Université Toulouse Capitole,2022,Conseil,Consultant,Conseil,2,63000.0,2,2157,7.0
+928,Personne_00928,Université d'Aix-Marseille,2009,Marketing,CTO,Marketing,14,66500.0,6,339,7.0
+929,Personne_00929,Université de Nantes,2012,Conseil,Directeur Général,Conseil,12,116000.0,6,57,7.0
+930,Personne_00930,UNIVERSITÉ PARIS-SACLAY,2007,Marketing,CEO,Marketing,15,113500.0,6,1406,9.0
+931,Personne_00931,Université PSL,2006,Industrie,CTO,Industrie,18,112500.0,6,258,10.0
+932,Personne_00932,Université de Bourgogne,2007,Marketing,CEO,Marketing,17,103000.0,6,405,6.0
+933,Personne_00933,Université PSL,2005,Banque,CEO,Banque,19,152000.0,6,134,9.0
+934,Personne_00934,sorbonne universite,2017,Conseil,Directeur de division,Conseil,6,109500.0,5,33,9.0
+935,Personne_00935,Université PSL,2007,Industrie,CFO,Industrie,15,113000.0,6,317,6.0
+936,,Sorbonne Université,2011,Marketing,Chef de projet,Marketing,11,74500.0,4,164,7.0
+937,Personne_00937,Université Grenoble Alpes,2016,Marketing,Directeur de division,Marketing,7,77000.0,5,219,7.0
+938,Personne_00938,Université de Lille,2022,Marketing,Consultant,Marketing,1,46000.0,2,228,7.0
+939,Personne_00939,Université Côte d'Azur,2009,Juridique,CFO,Juridique,13,138000.0,6,1811,10.0
+940,Personne_00940,Université de Strasbourg,2010,Banque,CFO,Banque,13,122500.0,6,290,6.0
+941,Personne_00941,Université de Lorraine,2005,Santé,CEO,Santé,19,109500.0,6,11,4.0
+942,Personne_00942,Université PSL,2011,Conseil,Directeur Général,Conseil,13,147500.0,6,816,9.0
+943,Personne_00943,UNIVERSITÉ PARIS-SACLAY,2021,Banque,Team Lead,Banque,1,104500.0,4,1870,3.0
+944,Personne_00944,Université de Rennes,2015,Santé,CTO,Santé,7,83000.0,6,2339,5.0
+945,,Université d'Aix-Marseille,2008,Industrie,Directeur,Industrie,15,99500.0,5,725,9.0
+946,Personne_00946,Université Grenoble Alpes,2016,Tech,CFO,Tech,8,77500.0,6,52,7.0
+947,Personne_00947,Université de Lyon,2012,Marketing,Directeur,Marketing,12,86500.0,5,668,7.0
+948,Personne_00948,Université Paris-Saclay,2009,Banque,Directeur Général,Banque,15,150000.0,6,118,10.0
+949,Personne_00949,Université Toulouse Capitole,2006,Industrie,Directeur Général,Industrie,17,91500.0,6,79,9.0
+950,Personne_00950,Université de Lille,2011,Tech,CTO,Tech,13,122500.0,6,14,4.0
+951,Personne_00951,Université de Bordeaux,2013,Marketing,CFO,Marketing,11,96500.0,6,195,6.0
+952,Personne_00952,Université de Lyon,2006,Marketing,Directeur Général,Marketing,17,103500.0,6,3824,9.0
+953,Personne_00953,Université de Lille,2021,Santé,Expert,Santé,1,67000.0,3,48,9.0
+954,Personne_00954,Université Côte d'Azur,2012,Banque,CEO,Banque,12,137500.0,6,28,7.0
+955,Personne_00955,Université de Strasbourg,2012,Marketing,Chef de projet,Marketing,12,68000.0,4,221,7.0
+956,Personne_00956,Université de Montpellier,2006,Conseil,CFO,Conseil,17,141500.0,6,95,7.0
+957,Personne_00957,Université Côte d'Azur,2011,Conseil,CEO,Conseil,11,110000.0,6,203,8.0
+958,Personne_00958,Université Toulouse Capitole,2008,Juridique,CFO,Juridique,16,112000.0,6,118,5.0
+959,Personne_00959,Université de Strasbourg,2020,Tech,Team Lead,Tech,4,94500.0,4,751,8.0
+960,Personne_00960,Sorbonne Université,2010,Santé,CEO,Santé,14,113500.0,6,69,7.0
+961,Personne_00961,sorbonne universite,2007,Tech,Directeur Général,Tech,17,115000.0,6,42,8.0
+962,Personne_00962,Université de Lille,2015,Conseil,Directeur Technique,Conseil,7,83000.0,5,5692,10.0
+963,Personne_00963,Université de Montpellier,2009,Tech,Directeur Général,Tech,13,109500.0,6,896,7.0
+964,Personne_00964,Université de Bourgogne,2021,Juridique,Assistant,Juridique,1,43000.0,1,5933,6.0
+965,Personne_00965,École Polytechnique,2008,Santé,CEO,Santé,16,143500.0,6,618,5.0
+966,Personne_00966,Université de Rennes,2012,Industrie,Engineering Manager,Industrie,12,88000.0,4,43,10.0
+967,Personne_00967,École Polytechnique,2008,Conseil,Directeur Général,Conseil,14,144000.0,6,110,5.0
+968,Personne_00968,Université de Bordeaux,2005,Santé,CFO,Santé,18,103500.0,6,3928,5.0
+969,Personne_00969,Université Grenoble Alpes,2009,Tech,CFO,Tech,14,115500.0,6,881,10.0
+970,Personne_00970,UNIVERSITÉ PARIS-SACLAY,2016,Juridique,Directeur,Juridique,7,91500.0,5,39,7.0
+971,,Université PSL,2015,Marketing,CFO,Marketing,8,107000.0,6,95,5.0
+972,Personne_00972,Sorbonne Université,2007,Tech,Directeur Général,Tech,15,149000.0,6,15,9.0
+973,Personne_00973,Université de Bordeaux,2017,Marketing,Directeur Technique,Marketing,5,84500.0,5,4256,9.0
+974,Personne_00974,Université de Bourgogne,2011,Santé,CFO,Santé,12,94000.0,6,2613,8.0
+975,Personne_00975,Université de Montpellier,2010,Tech,CFO,Tech,12,109000.0,6,745,7.0
+976,Personne_00976,Université Grenoble Alpes,2008,Banque,CEO,Banque,15,128500.0,6,35,10.0
+977,Personne_00977,Université de Rennes,2015,Juridique,Directeur de division,Juridique,9,110500.0,5,138,6.0
+978,Personne_00978,Université Paris-Saclay,2009,Juridique,CFO,Juridique,15,130000.0,6,6725,7.0
+979,Personne_00979,Université Toulouse Capitole,2018,Marketing,Expert,Marketing,4,62500.0,3,33,10.0
+980,Personne_00980,École Polytechnique,2016,Juridique,CFO,Juridique,7,109000.0,6,41,
+981,Personne_00981,Université Paris Cité,2011,Conseil,CTO,Conseil,12,,6,432,6.0
+982,Personne_00982,Université de Bordeaux,2008,Marketing,CFO,Marketing,15,100000.0,6,19,10.0
+983,Personne_00983,Université Paris Cité,2015,Conseil,Directeur Technique,Conseil,7,117500.0,5,118,9.0
+984,Personne_00984,Université de Bourgogne,2022,Tech,Analyste Senior,Tech,1,68500.0,3,265,5.0
+985,Personne_00985,Université Paris-Saclay,2005,Tech,CTO,Tech,18,133500.0,6,91,7.0
+986,Personne_00986,Université Toulouse Capitole,2020,Banque,Expert,Banque,2,96000.0,3,10,3.0
+987,Personne_00987,Université Paris Cité,2015,Industrie,CFO,Industrie,9,110500.0,6,39,8.0
+988,Personne_00988,Université Paris-Saclay,2014,Santé,CTO,Santé,9,109500.0,6,4182,6.0
+989,Personne_00989,Université de Bourgogne,2011,Industrie,CTO,Industrie,12,93000.0,6,5,1.0
+990,Personne_00990,Université Grenoble Alpes,2013,Juridique,Directeur Technique,Juridique,10,121500.0,5,237,5.0
+991,Personne_00991,Université Paris Cité,2005,Marketing,CTO,Marketing,18,128000.0,6,525,7.0
+992,Personne_00992,Ecole Polytechnique,2018,Marketing,Directeur de division,Marketing,6,90500.0,5,95,8.0
+993,Personne_00993,Université de Bourgogne,2022,Juridique,Manager,Juridique,2,77000.0,4,196,5.0
+994,Personne_00994,Université PSL,2011,Industrie,CEO,Industrie,11,107000.0,6,15,7.0
+995,Personne_00995,Université de Lille,2012,Conseil,CTO,Conseil,11,117500.0,6,47,7.0
+996,Personne_00996,Université Côte d'Azur,2017,Juridique,Consultant Senior,Juridique,6,83000.0,3,211,6.0
+997,Personne_00997,Université Grenoble Alpes,2014,Conseil,Directeur de division,Conseil,10,93000.0,5,44,10.0
+998,Personne_00998,Université Paris Cité,2019,Marketing,Directeur de division,Marketing,5,72500.0,5,260,7.0
+999,Personne_00999,Université de Rennes,2009,Banque,CTO,Banque,15,161000.0,6,18,6.0
+1000,Personne_01000,Université Toulouse Capitole,2017,Juridique,Analyste Senior,Juridique,7,89500.0,3,25,7.0
+1001,Personne_01001,Université Grenoble Alpes,2009,Marketing,Directeur,Marketing,13,85000.0,5,72,8.0
+1002,Personne_01002,Université de Lille,2011,Banque,CTO,Banque,12,147000.0,6,121,6.0
+1003,Personne_01003,Université Côte d'Azur,2021,Santé,Analyste Confirmé,Santé,2,47000.0,2,99,8.0
+1004,Personne_01004,UNIVERSITÉ PARIS-SACLAY,2022,Conseil,Team Lead,Conseil,1,110000.0,4,834,10.0
+1005,Personne_01005,Université Côte d'Azur,2010,Industrie,CEO,Industrie,12,98500.0,6,142,8.0
+1006,Personne_01006,Université de Nantes,2007,Industrie,CTO,Industrie,16,99500.0,6,507,10.0
+1007,Personne_01007,Université Toulouse Capitole,2006,Conseil,Directeur Général,Conseil,16,143500.0,6,341,10.0
+1008,Personne_01008,Université de Lille,2015,Banque,Expert,Banque,9,95500.0,3,573,10.0
+1009,Personne_01009,Université de Lorraine,2022,Juridique,Developer,Juridique,1,53000.0,2,42,8.0
+1010,Personne_01010,Université Toulouse Capitole,2021,Tech,Analyste Confirmé,Tech,3,64000.0,2,419,7.0
+1011,Personne_01011,Université d'Aix-Marseille,2014,Banque,Directeur de division,Banque,10,100500.0,5,276,8.0
+1012,,Université de Bourgogne,2021,Juridique,Analyste Senior,Juridique,2,64500.0,3,758,4.0
+1013,Personne_01013,Université Paris-Saclay,2012,Tech,Directeur Technique,Tech,10,103000.0,5,128,7.0
+1014,Personne_01014,Université PSL,2014,Santé,CEO,Santé,10,101500.0,6,284,8.0
+1015,Personne_01015,Université de Rennes,2017,Marketing,Analyste Senior,Marketing,7,64000.0,3,2661,9.0
+1016,,Université de Strasbourg,2014,Santé,Directeur Technique,Santé,10,113000.0,5,277,6.0
+1017,Personne_01017,Université de Nantes,2015,Juridique,Team Lead,Juridique,8,96000.0,4,30,7.0
+1018,Personne_01018,Sorbonne Université,2008,Banque,CTO,Banque,15,140500.0,6,610,9.0
+1019,Personne_01019,Université Paris-Saclay,2010,Banque,CTO,Banque,12,146000.0,6,5672,9.0
+1020,Personne_01020,Université de Strasbourg,2015,Marketing,Directeur Général,Marketing,8,90000.0,6,1336,6.0
+1021,Personne_01021,Université de Lille,2010,Tech,CFO,Tech,13,127000.0,6,7,7.0
+1022,Personne_01022,sorbonne universite,2019,Marketing,Chef de projet,Marketing,3,73000.0,4,1619,3.0
+1023,Personne_01023,Université de Bordeaux,2005,Santé,CEO,Santé,19,129500.0,6,1290,7.0
+1024,Personne_01024,Université Côte d'Azur,2014,Juridique,Directeur Technique,Juridique,10,91000.0,5,935,7.0
+1025,Personne_01025,Université Paris Cité,2011,Santé,Directeur Général,Santé,13,116000.0,6,1778,5.0
+1026,Personne_01026,Université Toulouse Capitole,2012,Tech,CFO,Tech,11,98000.0,6,608,9.0
+1027,Personne_01027,Sorbonne Université,2007,Marketing,Directeur Général,Marketing,17,109000.0,6,600,6.0
+1028,Personne_01028,sorbonne universite,2011,Banque,Directeur Technique,Banque,13,122000.0,5,333,5.0
+1029,Personne_01029,Université de Nantes,2006,Tech,Directeur Général,Tech,17,97500.0,6,429,7.0
+1030,,Université d'Aix-Marseille,2014,Conseil,Manager,Conseil,8,89500.0,4,252,7.0
+1031,,Université de Strasbourg,2010,Industrie,CEO,Industrie,14,93500.0,6,100,10.0
+1032,Personne_01032,Université de Bourgogne,2013,Tech,Manager,Tech,9,97500.0,4,174,6.0
+1033,Personne_01033,Université de Rennes,2011,Industrie,Directeur Général,Industrie,13,94000.0,6,650,9.0
+1034,Personne_01034,Université de Lorraine,2011,Industrie,CFO,Industrie,13,100500.0,6,304,5.0
+1035,Personne_01035,École Polytechnique,2021,Santé,Directeur,Santé,3,,5,843,9.0
+1036,Personne_01036,Université de Bordeaux,2011,Tech,CEO,Tech,11,113000.0,6,141,6.0
+1037,Personne_01037,Université Paris Cité,2015,Santé,Directeur,Santé,9,104000.0,5,275,7.0
+1038,Personne_01038,Université de Montpellier,2013,Santé,Directeur de division,Santé,9,98500.0,5,90,8.0
+1039,Personne_01039,Sorbonne Université,2019,Marketing,Consultant Senior,Marketing,4,72500.0,3,51,6.0
+1040,Personne_01040,Université Côte d'Azur,2014,Conseil,Engineering Manager,Conseil,9,105000.0,4,948,8.0
+1041,Personne_01041,Université de Strasbourg,2011,Santé,Directeur de division,Santé,12,111500.0,5,831,6.0
+1042,Personne_01042,Ecole Polytechnique,2005,Industrie,CTO,Industrie,18,109500.0,6,53,5.0
+1043,Personne_01043,Université de Lorraine,2021,Juridique,Analyste Confirmé,Juridique,2,66500.0,2,220,8.0
+1044,Personne_01044,Université de Bordeaux,2014,Banque,Engineering Manager,Banque,8,107500.0,4,54,9.0
+1045,Personne_01045,Université Toulouse Capitole,2018,Conseil,Senior Developer,Conseil,4,86000.0,3,1592,
+1046,Personne_01046,Université de Lorraine,2013,Santé,CTO,Santé,11,91500.0,6,479,3.0
+1047,Personne_01047,Université de Rennes,2008,Industrie,Directeur Général,Industrie,14,110000.0,6,109,5.0
+1048,Personne_01048,Université de Montpellier,2017,Marketing,Engineering Manager,Marketing,6,68000.0,4,3565,6.0
+1049,Personne_01049,Université PSL,2021,Conseil,Directeur de division,Conseil,2,119500.0,5,124,8.0
+1050,Personne_01050,Université de Montpellier,2016,Marketing,Manager,Marketing,7,76000.0,4,4817,8.0
+1051,Personne_01051,Université de Lyon,2015,Tech,Directeur de division,Tech,7,89500.0,5,95,10.0
+1052,Personne_01052,Université de Montpellier,2013,Industrie,Directeur,Industrie,11,84000.0,5,1805,7.0
+1053,Personne_01053,Sorbonne Université,2008,Tech,Directeur Général,Tech,14,114500.0,6,1315,10.0
+1054,Personne_01054,Université de Lyon,2011,Conseil,Directeur,Conseil,12,116000.0,5,170,7.0
+1055,Personne_01055,Université d'Aix-Marseille,2021,Banque,Expert,Banque,3,79000.0,3,100,7.0
+1056,Personne_01056,Université Paris-Saclay,2007,Industrie,CTO,Industrie,17,104000.0,6,156,6.0
+1057,Personne_01057,Université Grenoble Alpes,2014,Marketing,Directeur,Marketing,9,83500.0,5,35,7.0
+1058,Personne_01058,Université de Lyon,2014,Juridique,Chef de projet,Juridique,9,104000.0,4,923,10.0
+1059,Personne_01059,Université de Lille,2014,Santé,Engineering Manager,Santé,10,95000.0,4,271,10.0
+1060,Personne_01060,Université de Nantes,2011,Juridique,CTO,Juridique,12,129000.0,6,47,6.0
+1061,Personne_01061,Sorbonne Université,2009,Tech,Directeur Général,Tech,14,123500.0,6,595,4.0
+1062,Personne_01062,École Polytechnique,2012,Banque,CTO,Banque,10,157000.0,6,206,4.0
+1063,Personne_01063,École Polytechnique,2009,Banque,Directeur Général,Banque,14,136500.0,6,28,9.0
+1064,Personne_01064,Université Grenoble Alpes,2014,Industrie,CTO,Industrie,10,99000.0,6,277,6.0
+1065,Personne_01065,Université Grenoble Alpes,2008,Santé,CFO,Santé,15,119000.0,6,26,6.0
+1066,Personne_01066,Université de Lorraine,2021,Juridique,Analyste Junior,Juridique,3,46000.0,1,162,7.0
+1067,Personne_01067,Université Paris-Saclay,2016,Santé,Directeur Général,Santé,8,107500.0,6,745,8.0
+1068,Personne_01068,Université de Strasbourg,2005,Tech,Directeur Général,Tech,17,112000.0,6,450,5.0
+1069,,Université PSL,2020,Santé,Directeur Technique,Santé,3,86000.0,5,251,8.0
+1070,Personne_01070,Université de Bourgogne,2016,Marketing,CEO,Marketing,8,83500.0,6,11,6.0
+1071,Personne_01071,Université de Montpellier,2020,Juridique,Analyste Confirmé,Juridique,3,60500.0,2,1072,4.0
+1072,,Université de Bourgogne,2014,Tech,Directeur,Tech,9,84500.0,5,344,7.0
+1073,Personne_01073,Université Grenoble Alpes,2021,Marketing,Consultant,Marketing,2,57500.0,2,144,7.0
+1074,Personne_01074,Université Côte d'Azur,2010,Conseil,CFO,Conseil,13,,6,50,3.0
+1075,Personne_01075,École Polytechnique,2007,Santé,CEO,Santé,15,107500.0,6,124,8.0
+1076,Personne_01076,Université Côte d'Azur,2014,Industrie,Directeur de division,Industrie,9,99000.0,5,1500,7.0
+1077,Personne_01077,Université d'Aix-Marseille,2022,Marketing,Assistant,Marketing,1,44000.0,1,420,10.0
+1078,Personne_01078,Université de Rennes,2017,Marketing,Directeur Technique,Marketing,7,77500.0,5,1311,6.0
+1079,Personne_01079,Université Côte d'Azur,2009,Marketing,CFO,Marketing,14,102500.0,6,310,9.0
+1080,Personne_01080,Université Toulouse Capitole,2007,Banque,CFO,Banque,16,153000.0,6,676,5.0
+1081,Personne_01081,École Polytechnique,2013,Santé,Directeur Général,Santé,9,110000.0,6,295,2.0
+1082,Personne_01082,sorbonne universite,2021,Marketing,Manager,Marketing,2,70000.0,4,187,5.0
+1083,Personne_01083,Université Paris Cité,2022,Industrie,Consultant,Industrie,1,69000.0,2,158,8.0
+1084,Personne_01084,Université Côte d'Azur,2013,Marketing,Expert,Marketing,10,62000.0,3,224,8.0
+1085,Personne_01085,Université PSL,2009,Conseil,CFO,Conseil,15,123000.0,6,1155,5.0
+1086,Personne_01086,sorbonne universite,2014,Tech,Directeur,Tech,8,114000.0,5,185,8.0
+1087,Personne_01087,Université d'Aix-Marseille,2011,Santé,CFO,Santé,12,111000.0,6,105,10.0
+1088,Personne_01088,Université PSL,2005,Marketing,CFO,Marketing,19,103000.0,6,86,5.0
+1089,Personne_01089,Université de Lorraine,2006,Banque,CEO,Banque,17,136000.0,6,30,7.0
+1090,Personne_01090,Université de Lille,2007,Conseil,CFO,Conseil,15,105000.0,6,3127,8.0
+1091,Personne_01091,Université de Strasbourg,2018,Industrie,Directeur,Industrie,6,92000.0,5,303,8.0
+1092,Personne_01092,Université Côte d'Azur,2021,Santé,Directeur de division,Santé,3,82500.0,5,457,8.0
+1093,Personne_01093,Université Côte d'Azur,2020,Industrie,Analyste Senior,Industrie,2,54500.0,3,86,8.0
+1094,Personne_01094,École Polytechnique,2005,Industrie,CEO,Industrie,19,109000.0,6,505,7.0
+1095,Personne_01095,Université PSL,2016,Industrie,CTO,Industrie,8,102000.0,6,1389,
+1096,Personne_01096,UNIVERSITÉ PARIS-SACLAY,2006,Banque,CTO,Banque,16,155500.0,6,51,5.0
+1097,Personne_01097,Université de Lorraine,2008,Santé,CFO,Santé,15,101500.0,6,227,5.0
+1098,Personne_01098,Université de Strasbourg,2022,Juridique,Chef de projet,Juridique,1,83500.0,4,22,9.0
+1099,Personne_01099,Université d'Aix-Marseille,2008,Marketing,CEO,Marketing,14,82000.0,6,4705,7.0
+1100,Personne_01100,Université de Strasbourg,2009,Tech,CTO,Tech,13,97000.0,6,82,10.0
+1101,Personne_01101,Université de Nantes,2019,Industrie,Manager,Industrie,3,70500.0,4,187,8.0
+1102,Personne_01102,Université de Nantes,2009,Santé,Chef de projet,Santé,13,85000.0,4,150,9.0
+1103,Personne_01103,Université de Lyon,2016,Santé,CFO,Santé,7,101500.0,6,4331,8.0
+1104,Personne_01104,Université Toulouse Capitole,2007,Industrie,Directeur Général,Industrie,16,89500.0,6,65,8.0
+1105,Personne_01105,Université de Nantes,2015,Conseil,Manager,Conseil,8,74500.0,4,5,4.0
+1106,Personne_01106,Université de Lorraine,2009,Conseil,Directeur Technique,Conseil,13,95500.0,5,126,7.0
+1107,Personne_01107,Université PSL,2008,Industrie,CFO,Industrie,16,100500.0,6,102,9.0
+1108,Personne_01108,Université PSL,2019,Marketing,CTO,Marketing,5,94500.0,6,1761,9.0
+1109,Personne_01109,Université Paris-Saclay,2007,Santé,CEO,Santé,15,101500.0,6,176,6.0
+1110,Personne_01110,Université de Lille,2017,Santé,Engineering Manager,Santé,5,79000.0,4,12,6.0
+1111,Personne_01111,École Polytechnique,2016,Tech,Directeur Général,Tech,8,109500.0,6,363,7.0
+1112,Personne_01112,Université Grenoble Alpes,2017,Marketing,CTO,Marketing,7,84000.0,6,1614,6.0
+1113,Personne_01113,Université de Nantes,2014,Tech,Consultant Senior,Tech,9,77500.0,3,283,6.0
+1114,Personne_01114,Université de Lille,2006,Banque,Directeur Général,Banque,16,124000.0,6,1274,10.0
+1115,Personne_01115,Université de Nantes,2022,Industrie,Engineering Manager,Industrie,1,80000.0,4,206,5.0
+1116,Personne_01116,Université de Bourgogne,2007,Banque,Directeur,Banque,15,112500.0,5,3259,7.0
+1117,Personne_01117,Université Paris-Saclay,2021,Marketing,Manager,Marketing,3,73500.0,4,53,6.0
+1118,Personne_01118,Université Côte d'Azur,2008,Tech,CTO,Tech,16,118500.0,6,601,6.0
+1119,Personne_01119,Université de Bordeaux,2006,Marketing,Directeur Technique,Marketing,16,86000.0,5,959,8.0
+1120,Personne_01120,Sorbonne Université,2016,Tech,Directeur Technique,Tech,6,80000.0,5,239,8.0
+1121,Personne_01121,Université de Lyon,2010,Juridique,Directeur Général,Juridique,13,89500.0,6,302,5.0
+1122,,Université Côte d'Azur,2017,Marketing,Manager,Marketing,6,75500.0,4,24,8.0
+1123,Personne_01123,Université PSL,2017,Banque,Chef de projet,Banque,5,117000.0,4,211,5.0
+1124,Personne_01124,École Polytechnique,2005,Conseil,CFO,Conseil,18,144500.0,6,180,7.0
+1125,Personne_01125,Université Paris Cité,2020,Marketing,Team Lead,Marketing,3,77000.0,4,143,7.0
+1126,,Université Paris Cité,2022,Conseil,Consultant Senior,Conseil,1,93000.0,3,36,6.0
+1127,Personne_01127,Université de Lorraine,2015,Banque,Directeur Général,Banque,7,107000.0,6,601,9.0
+1128,Personne_01128,Ecole Polytechnique,2013,Industrie,CTO,Industrie,11,92000.0,6,458,8.0
+1129,,Université Paris-Saclay,2018,Marketing,Chef de projet,Marketing,6,83000.0,4,89,2.0
+1130,Personne_01130,Université de Bourgogne,2017,Industrie,Directeur de division,Industrie,7,83500.0,5,1203,7.0
+1131,Personne_01131,Université de Rennes,2010,Conseil,CFO,Conseil,13,118500.0,6,1546,6.0
+1132,Personne_01132,Université PSL,2013,Marketing,CEO,Marketing,9,109000.0,6,36,5.0
+1133,Personne_01133,Université de Strasbourg,2015,Banque,Directeur Technique,Banque,7,82500.0,5,180,6.0
+1134,Personne_01134,École Polytechnique,2020,Banque,Directeur Technique,Banque,3,96000.0,5,629,9.0
+1135,Personne_01135,sorbonne universite,2017,Santé,Directeur de division,Santé,7,88000.0,5,322,7.0
+1136,Personne_01136,Université Paris Cité,2017,Marketing,Consultant Senior,Marketing,5,58500.0,3,137,5.0
+1137,Personne_01137,Université de Lorraine,2016,Tech,Directeur Technique,Tech,8,97000.0,5,1339,7.0
+1138,Personne_01138,Ecole Polytechnique,2012,Industrie,CTO,Industrie,10,101000.0,6,560,6.0
+1139,Personne_01139,Université de Lyon,2022,Marketing,Analyste Senior,Marketing,2,72500.0,3,38,
+1140,Personne_01140,Sorbonne Université,2016,Santé,CTO,Santé,8,106500.0,6,113,7.0
+1141,Personne_01141,Sorbonne Université,2013,Santé,Directeur Technique,Santé,11,109000.0,5,173,10.0
+1142,Personne_01142,UNIVERSITÉ PARIS-SACLAY,2020,Tech,Engineering Manager,Tech,3,85000.0,4,801,8.0
+1143,Personne_01143,Sorbonne Université,2018,Industrie,Directeur de division,Industrie,6,86500.0,5,188,4.0
+1144,Personne_01144,Université de Lille,2015,Conseil,Directeur Technique,Conseil,8,112000.0,5,9240,7.0
+1145,Personne_01145,Université Paris Cité,2015,Banque,Directeur,Banque,7,95000.0,5,250,6.0
+1146,Personne_01146,Université de Rennes,2008,Juridique,Directeur de division,Juridique,14,111000.0,5,76,
+1147,Personne_01147,Université de Lyon,2016,Juridique,Directeur de division,Juridique,6,104000.0,5,211,
+1148,Personne_01148,Université de Bordeaux,2005,Tech,Directeur Général,Tech,18,130500.0,6,261,6.0
+1149,Personne_01149,Université Grenoble Alpes,2015,Marketing,Directeur,Marketing,8,85500.0,5,130,4.0
+1150,Personne_01150,Université de Bordeaux,2014,Banque,Directeur,Banque,8,,5,20,10.0
+1151,Personne_01151,sorbonne universite,2009,Marketing,CEO,Marketing,15,107000.0,6,65,
+1152,,Université de Strasbourg,2017,Conseil,Directeur de division,Conseil,5,121500.0,5,198,10.0
+1153,Personne_01153,Université de Nantes,2015,Banque,Chef de projet,Banque,9,102500.0,4,247,6.0
+1154,Personne_01154,Université de Bordeaux,2012,Banque,Directeur Technique,Banque,10,113500.0,5,135,7.0
+1155,Personne_01155,Université Paris Cité,2011,Juridique,Directeur,Juridique,11,97000.0,5,108,10.0
+1156,Personne_01156,Ecole Polytechnique,2021,Santé,Team Lead,Santé,1,95000.0,4,1711,
+1157,Personne_01157,Université Paris-Saclay,2022,Banque,Analyste Senior,Banque,0,87000.0,3,16,8.0
+1158,Personne_01158,Université Grenoble Alpes,2016,Marketing,Team Lead,Marketing,8,84000.0,4,626,9.0
+1159,Personne_01159,Université PSL,2006,Tech,Directeur Général,Tech,16,139000.0,6,111,6.0
+1160,Personne_01160,Université Toulouse Capitole,2010,Conseil,Directeur Général,Conseil,14,127500.0,6,568,8.0
+1161,Personne_01161,Université Paris Cité,2016,Industrie,Engineering Manager,Industrie,8,80500.0,4,26,8.0
+1162,Personne_01162,Ecole Polytechnique,2021,Juridique,Directeur,Juridique,3,76500.0,5,106,8.0
+1163,Personne_01163,Université de Bourgogne,2011,Conseil,Directeur Général,Conseil,13,124000.0,6,1003,7.0
+1164,Personne_01164,Université Paris-Saclay,2012,Industrie,CTO,Industrie,12,122000.0,6,2791,10.0
+1165,,Université Toulouse Capitole,2009,Santé,Directeur Général,Santé,14,125000.0,6,584,8.0
+1166,Personne_01166,Université Paris Cité,2016,Juridique,Directeur de division,Juridique,7,114500.0,5,3326,9.0
+1167,Personne_01167,Université d'Aix-Marseille,2007,Conseil,Directeur Général,Conseil,17,126500.0,6,2348,8.0
+1168,Personne_01168,Université de Rennes,2021,Marketing,Manager,Marketing,1,57500.0,4,178,7.0
+1169,Personne_01169,Ecole Polytechnique,2008,Santé,CEO,Santé,16,136000.0,6,153478,9.0
+1170,Personne_01170,Université Paris-Saclay,2017,Industrie,Directeur,Industrie,5,85000.0,5,238,10.0
+1171,Personne_01171,Université de Rennes,2012,Banque,CTO,Banque,10,123000.0,6,15,8.0
+1172,Personne_01172,Université de Nantes,2011,Santé,Directeur Général,Santé,13,114000.0,6,107,6.0
+1173,Personne_01173,Sorbonne Université,2014,Industrie,Directeur de division,Industrie,9,78000.0,5,819,8.0
+1174,Personne_01174,Université de Bordeaux,2006,Juridique,Directeur Général,Juridique,16,96000.0,6,1812,10.0
+1175,Personne_01175,Université Toulouse Capitole,2013,Marketing,CTO,Marketing,11,79500.0,6,52,8.0
+1176,Personne_01176,Université de Nantes,2019,Conseil,Engineering Manager,Conseil,4,105000.0,4,608,9.0
+1177,Personne_01177,Université de Nantes,2011,Juridique,Directeur Général,Juridique,12,108000.0,6,165,8.0
+1178,Personne_01178,UNIVERSITÉ PARIS-SACLAY,2021,Santé,Consultant Senior,Santé,2,,3,428,6.0
+1179,Personne_01179,Université de Nantes,2007,Marketing,Directeur Général,Marketing,16,93000.0,6,97,10.0
+1180,Personne_01180,Université de Strasbourg,2014,Conseil,Directeur Général,Conseil,8,,6,39,5.0
+1181,Personne_01181,Université de Lyon,2014,Conseil,Directeur Technique,Conseil,10,109000.0,5,531,5.0
+1182,Personne_01182,Université Côte d'Azur,2012,Conseil,CEO,Conseil,11,122500.0,6,18,8.0
+1183,,Sorbonne Université,2011,Conseil,Directeur Général,Conseil,13,113500.0,6,704,8.0
+1184,Personne_01184,Université de Lyon,2013,Conseil,Directeur de division,Conseil,11,,5,89,7.0
+1185,Personne_01185,Université de Bourgogne,2019,Juridique,Chef de projet,Juridique,4,65500.0,4,542,6.0
+1186,Personne_01186,Université Côte d'Azur,2008,Conseil,CFO,Conseil,16,113000.0,6,1863,7.0
+1187,Personne_01187,Université de Montpellier,2010,Santé,Directeur Technique,Santé,14,102000.0,5,42,5.0
+1188,Personne_01188,École Polytechnique,2010,Banque,Directeur Général,Banque,14,128000.0,6,4196,9.0
+1189,Personne_01189,Université Toulouse Capitole,2009,Industrie,Directeur Général,Industrie,14,104000.0,6,504,
+1190,,Université de Montpellier,2018,Marketing,Team Lead,Marketing,5,66500.0,4,354,8.0
+1191,Personne_01191,Université Toulouse Capitole,2010,Santé,CEO,Santé,14,127000.0,6,312,6.0
+1192,,Université de Nantes,2006,Conseil,Directeur Général,Conseil,18,145000.0,6,329,6.0
+1193,Personne_01193,sorbonne universite,2006,Industrie,Directeur Général,Industrie,18,112500.0,6,612,6.0
+1194,Personne_01194,Université de Montpellier,2016,Industrie,Directeur de division,Industrie,7,84500.0,5,301,7.0
+1195,Personne_01195,Université de Bordeaux,2011,Marketing,CEO,Marketing,13,101000.0,6,528,8.0
+1196,Personne_01196,Université PSL,2019,Industrie,Manager,Industrie,4,71500.0,4,147,9.0
+1197,Personne_01197,Université Côte d'Azur,2014,Marketing,Directeur de division,Marketing,9,79500.0,5,779,9.0
+1198,Personne_01198,Université de Rennes,2008,Conseil,Directeur Général,Conseil,15,121000.0,6,2996,6.0
+1199,Personne_01199,Sorbonne Université,2021,Banque,Chef de projet,Banque,3,97000.0,4,107,7.0
+1200,Personne_01200,Université de Lille,2017,Conseil,Manager,Conseil,6,78500.0,4,561,5.0
+1201,Personne_01201,Université PSL,2014,Banque,Chef de projet,Banque,8,110000.0,4,1078,6.0
+1202,Personne_01202,sorbonne universite,2014,Juridique,Engineering Manager,Juridique,10,114000.0,4,570,9.0
+1203,Personne_01203,Ecole Polytechnique,2020,Tech,Team Lead,Tech,4,99500.0,4,172,8.0
+1204,Personne_01204,Sorbonne Université,2021,Juridique,CFO,Juridique,3,130500.0,6,3335,10.0
+1205,Personne_01205,Université PSL,2008,Tech,CTO,Tech,15,148500.0,6,1489,7.0
+1206,Personne_01206,Université de Rennes,2014,Juridique,Directeur de division,Juridique,8,78000.0,5,387,6.0
+1207,Personne_01207,Université de Rennes,2019,Banque,Engineering Manager,Banque,3,81000.0,4,72,3.0
+1208,Personne_01208,Université PSL,2020,Juridique,Engineering Manager,Juridique,4,81000.0,4,151,9.0
+1209,Personne_01209,Université de Nantes,2019,Banque,Expert,Banque,4,79500.0,3,391,5.0
+1210,,Université de Bordeaux,2005,Santé,CEO,Santé,18,111000.0,6,1066,
+1211,Personne_01211,Université de Bordeaux,2005,Conseil,Directeur Général,Conseil,18,128000.0,6,2516,6.0
+1212,Personne_01212,Université de Montpellier,2014,Tech,CTO,Tech,9,115500.0,6,2047,6.0
+1213,Personne_01213,Université de Nantes,2016,Marketing,Directeur,Marketing,7,75500.0,5,83,8.0
+1214,Personne_01214,Université de Bourgogne,2016,Industrie,Directeur,Industrie,7,79500.0,5,672,7.0
+1215,Personne_01215,Université de Rennes,2016,Santé,Directeur Technique,Santé,6,88500.0,5,865,8.0
+1216,Personne_01216,sorbonne universite,2018,Juridique,Team Lead,Juridique,6,98500.0,4,183,9.0
+1217,Personne_01217,Université Paris-Saclay,2010,Marketing,Directeur Général,Marketing,13,114500.0,6,224,8.0
+1218,Personne_01218,Université Paris-Saclay,2016,Juridique,CTO,Juridique,7,114000.0,6,344,6.0
+1219,Personne_01219,Université Paris-Saclay,2010,Tech,Directeur Général,Tech,13,110000.0,6,1168,7.0
+1220,Personne_01220,Université de Nantes,2009,Tech,CEO,Tech,14,124000.0,6,835,10.0
+1221,Personne_01221,Ecole Polytechnique,2011,Banque,CTO,Banque,13,133000.0,6,47,8.0
+1222,Personne_01222,Université PSL,2010,Conseil,Directeur Général,Conseil,12,114500.0,6,453,6.0
+1223,Personne_01223,Université de Nantes,2015,Conseil,Directeur Général,Conseil,9,123500.0,6,69,5.0
+1224,Personne_01224,Ecole Polytechnique,2018,Industrie,Directeur de division,Industrie,6,95500.0,5,2707,8.0
+1225,Personne_01225,Université de Lille,2018,Santé,Consultant Senior,Santé,6,72500.0,3,170,7.0
+1226,Personne_01226,Université Paris-Saclay,2019,Tech,Directeur,Tech,3,101000.0,5,139,6.0
+1227,Personne_01227,Université d'Aix-Marseille,2007,Banque,CEO,Banque,16,143000.0,6,126,7.0
+1228,Personne_01228,sorbonne universite,2011,Santé,CEO,Santé,12,111500.0,6,342,6.0
+1229,Personne_01229,Université Grenoble Alpes,2017,Santé,Engineering Manager,Santé,6,70000.0,4,230,7.0
+1230,Personne_01230,Sorbonne Université,2006,Santé,CFO,Santé,18,130000.0,6,11,4.0
+1231,Personne_01231,Université Toulouse Capitole,2014,Santé,Directeur de division,Santé,9,85000.0,5,241,6.0
+1232,,Université PSL,2014,Tech,CEO,Tech,9,117000.0,6,595,9.0
+1233,Personne_01233,Université Grenoble Alpes,2019,Tech,Chef de projet,Tech,3,82000.0,4,411,10.0
+1234,Personne_01234,Université de Lille,2012,Marketing,Chef de projet,Marketing,10,72000.0,4,1114,10.0
+1235,Personne_01235,Université de Lyon,2019,Marketing,Team Lead,Marketing,5,86500.0,4,340,8.0
+1236,Personne_01236,Université de Strasbourg,2008,Banque,CFO,Banque,14,127000.0,6,1057,7.0
+1237,Personne_01237,Université de Lyon,2019,Tech,Consultant Senior,Tech,3,79500.0,3,35,6.0
+1238,Personne_01238,Université de Nantes,2018,Industrie,Expert,Industrie,6,,3,506,4.0
+1239,Personne_01239,Université PSL,2015,Conseil,Engineering Manager,Conseil,8,103000.0,4,3371,10.0
+1240,Personne_01240,Université de Montpellier,2016,Tech,Analyste Senior,Tech,7,78000.0,3,1746,8.0
+1241,,Université de Rennes,2015,Santé,Chef de projet,Santé,8,75000.0,4,277,
+1242,Personne_01242,Sorbonne Université,2010,Juridique,CTO,Juridique,12,117500.0,6,155,8.0
+1243,,Université Toulouse Capitole,2021,Banque,Team Lead,Banque,1,83000.0,4,4391,5.0
+1244,Personne_01244,Université Paris Cité,2010,Conseil,Directeur Général,Conseil,13,121000.0,6,135,
+1245,Personne_01245,Université de Strasbourg,2016,Marketing,Chef de projet,Marketing,6,72000.0,4,1289,10.0
+1246,Personne_01246,Sorbonne Université,2022,Marketing,Engineering Manager,Marketing,2,67000.0,4,36,7.0
+1247,Personne_01247,École Polytechnique,2016,Industrie,Directeur de division,Industrie,8,105000.0,5,86,8.0
+1248,Personne_01248,Ecole Polytechnique,2015,Juridique,Directeur de division,Juridique,9,116000.0,5,3907,
+1249,Personne_01249,Université de Bourgogne,2012,Banque,Directeur Technique,Banque,12,120000.0,5,117,
+1250,Personne_01250,Université de Lorraine,2022,Tech,Analyste Junior,Tech,0,47000.0,1,305,5.0
+1251,Personne_01251,Université de Lille,2006,Tech,CEO,Tech,17,,6,330,8.0
+1252,Personne_01252,Université de Bordeaux,2020,Banque,Senior Developer,Banque,4,91500.0,3,126,7.0
+1253,Personne_01253,Université de Nantes,2008,Santé,CEO,Santé,15,121000.0,6,202,7.0
+1254,,Université d'Aix-Marseille,2007,Marketing,Directeur Technique,Marketing,15,89000.0,5,312,8.0
+1255,Personne_01255,Université de Rennes,2018,Santé,Engineering Manager,Santé,6,69000.0,4,99,6.0
+1256,Personne_01256,Université Grenoble Alpes,2008,Juridique,CTO,Juridique,16,112000.0,6,896,8.0
+1257,Personne_01257,Université PSL,2012,Juridique,Directeur de division,Juridique,12,91500.0,5,35,7.0
+1258,Personne_01258,Université de Montpellier,2012,Marketing,Directeur,Marketing,10,87000.0,5,113,6.0
+1259,Personne_01259,Université de Rennes,2012,Industrie,CFO,Industrie,11,89000.0,6,1768,6.0
+1260,Personne_01260,Université de Rennes,2022,Marketing,Analyste Junior,Marketing,0,55500.0,1,454,
+1261,Personne_01261,Université de Bourgogne,2019,Santé,Consultant Senior,Santé,4,71500.0,3,36,8.0
+1262,Personne_01262,Ecole Polytechnique,2007,Tech,CTO,Tech,17,128000.0,6,60,9.0
+1263,Personne_01263,Université de Rennes,2013,Conseil,CTO,Conseil,10,117500.0,6,21,5.0
+1264,Personne_01264,Université d'Aix-Marseille,2011,Marketing,CFO,Marketing,13,93000.0,6,7,4.0
+1265,Personne_01265,Université de Strasbourg,2017,Banque,Directeur,Banque,6,104500.0,5,267,
+1266,Personne_01266,Université Paris Cité,2014,Marketing,Directeur Général,Marketing,9,105000.0,6,81,10.0
+1267,Personne_01267,École Polytechnique,2005,Tech,Directeur Général,Tech,19,134000.0,6,120,9.0
+1268,Personne_01268,Université de Montpellier,2019,Juridique,Chargé de mission,Juridique,4,69000.0,2,38,8.0
+1269,Personne_01269,Université de Strasbourg,2020,Banque,Senior Developer,Banque,2,59500.0,3,145,8.0
+1270,Personne_01270,Université Côte d'Azur,2013,Conseil,Directeur de division,Conseil,11,90000.0,5,2784,9.0
+1271,Personne_01271,Université Paris-Saclay,2005,Santé,CFO,Santé,17,136000.0,6,508,7.0
+1272,Personne_01272,Université de Lyon,2017,Marketing,Team Lead,Marketing,7,82500.0,4,3507,6.0
+1273,Personne_01273,Université de Strasbourg,2017,Santé,Team Lead,Santé,5,98500.0,4,480,8.0
+1274,Personne_01274,Université de Rennes,2014,Banque,Team Lead,Banque,10,99500.0,4,22,8.0
+1275,Personne_01275,Université Paris Cité,2012,Industrie,Directeur Général,Industrie,12,90500.0,6,339,9.0
+1276,Personne_01276,Université de Strasbourg,2005,Conseil,CTO,Conseil,17,112500.0,6,2416,5.0
+1277,Personne_01277,Université Paris-Saclay,2009,Industrie,CEO,Industrie,15,117000.0,6,10,6.0
+1278,Personne_01278,Université Paris Cité,2019,Industrie,Directeur de division,Industrie,5,86000.0,5,5,8.0
+1279,Personne_01279,Université Côte d'Azur,2020,Juridique,Consultant,Juridique,3,60500.0,2,5399,5.0
+1280,Personne_01280,Université de Strasbourg,2015,Conseil,Chef de projet,Conseil,7,111500.0,4,511,6.0
+1281,Personne_01281,Université de Nantes,2018,Banque,Directeur Technique,Banque,5,116500.0,5,106,6.0
+1282,Personne_01282,Université d'Aix-Marseille,2011,Santé,CTO,Santé,11,103000.0,6,46,8.0
+1283,Personne_01283,Université Côte d'Azur,2014,Tech,Manager,Tech,8,89000.0,4,48,10.0
+1284,Personne_01284,Université de Lille,2013,Marketing,Directeur,Marketing,11,99000.0,5,97,7.0
+1285,Personne_01285,Université d'Aix-Marseille,2017,Banque,Directeur de division,Banque,6,124000.0,5,1016,9.0
+1286,Personne_01286,Université de Strasbourg,2022,Santé,Analyste Confirmé,Santé,2,52000.0,2,604,10.0
+1287,Personne_01287,sorbonne universite,2015,Tech,Directeur,Tech,7,82500.0,5,852,5.0
+1288,Personne_01288,Université Grenoble Alpes,2020,Banque,Consultant Senior,Banque,3,92500.0,3,578,7.0
+1289,Personne_01289,École Polytechnique,2018,Tech,CEO,Tech,6,121000.0,6,37,9.0
+1290,Personne_01290,Université de Montpellier,2010,Marketing,Directeur Technique,Marketing,12,91500.0,5,25,5.0
+1291,Personne_01291,UNIVERSITÉ PARIS-SACLAY,2017,Juridique,Engineering Manager,Juridique,6,105500.0,4,2119,5.0
+1292,Personne_01292,Université Grenoble Alpes,2014,Santé,Directeur Général,Santé,10,96000.0,6,4036,3.0
+1293,Personne_01293,Université PSL,2012,Banque,CEO,Banque,12,152000.0,6,28,9.0
+1294,Personne_01294,Université de Strasbourg,2016,Juridique,Engineering Manager,Juridique,7,96500.0,4,183,5.0
+1295,Personne_01295,Université Paris-Saclay,2007,Banque,Directeur Général,Banque,16,174000.0,6,1220,7.0
+1296,Personne_01296,UNIVERSITÉ PARIS-SACLAY,2012,Industrie,CTO,Industrie,11,90500.0,6,218,5.0
+1297,Personne_01297,Université de Rennes,2015,Marketing,Directeur de division,Marketing,8,62000.0,5,94,8.0
+1298,Personne_01298,Université PSL,2013,Santé,CTO,Santé,11,128500.0,6,85,3.0
+1299,Personne_01299,Sorbonne Université,2022,Industrie,Analyste Junior,Industrie,0,48000.0,1,2395,7.0
+1300,Personne_01300,Université de Lyon,2009,Banque,CFO,Banque,15,136000.0,6,288,5.0
+1301,Personne_01301,Université Paris-Saclay,2018,Marketing,Directeur Général,Marketing,4,96500.0,6,88,3.0
+1302,Personne_01302,Université Grenoble Alpes,2011,Tech,CFO,Tech,13,127000.0,6,2621,7.0
+1303,Personne_01303,Université Toulouse Capitole,2012,Banque,Directeur Technique,Banque,10,121000.0,5,329,10.0
+1304,Personne_01304,Université Grenoble Alpes,2011,Conseil,CFO,Conseil,13,115500.0,6,460,8.0
+1305,Personne_01305,Université Paris-Saclay,2009,Marketing,CEO,Marketing,13,114500.0,6,831,10.0
+1306,Personne_01306,Université Côte d'Azur,2009,Banque,CEO,Banque,15,139500.0,6,1760,5.0
+1307,Personne_01307,Université de Bordeaux,2021,Banque,Manager,Banque,3,132000.0,4,478,6.0
+1308,Personne_01308,Université Côte d'Azur,2007,Conseil,CFO,Conseil,17,133500.0,6,116,10.0
+1309,Personne_01309,Université Paris-Saclay,2018,Marketing,Directeur de division,Marketing,4,95500.0,5,485,9.0
+1310,Personne_01310,UNIVERSITÉ PARIS-SACLAY,2010,Conseil,Directeur Général,Conseil,12,107000.0,6,57,9.0
+1311,Personne_01311,Université d'Aix-Marseille,2006,Banque,Directeur Général,Banque,17,128000.0,6,43,6.0
+1312,Personne_01312,Université de Lorraine,2017,Marketing,Engineering Manager,Marketing,7,68500.0,4,4907,6.0
+1313,Personne_01313,Université de Montpellier,2006,Industrie,Directeur Général,Industrie,18,86500.0,6,35,7.0
+1314,Personne_01314,Université d'Aix-Marseille,2020,Industrie,Consultant,Industrie,3,56000.0,2,1368,6.0
+1315,Personne_01315,Université PSL,2015,Juridique,Directeur Technique,Juridique,7,104000.0,5,65,8.0
+1316,Personne_01316,École Polytechnique,2018,Tech,Directeur Technique,Tech,6,113000.0,5,925,8.0
+1317,Personne_01317,Université de Bordeaux,2006,Juridique,CTO,Juridique,17,,6,218,6.0
+1318,Personne_01318,Université de Montpellier,2019,Banque,Manager,Banque,4,84500.0,4,470,6.0
+1319,Personne_01319,Université Paris-Saclay,2020,Santé,Engineering Manager,Santé,3,77500.0,4,117,9.0
+1320,Personne_01320,Université de Nantes,2005,Marketing,Directeur Général,Marketing,19,87000.0,6,12,8.0
+1321,Personne_01321,Université Grenoble Alpes,2022,Marketing,Chef de projet,Marketing,2,74500.0,4,125,6.0
+1322,Personne_01322,Université de Montpellier,2014,Industrie,Directeur de division,Industrie,10,77000.0,5,481,8.0
+1323,Personne_01323,Université Toulouse Capitole,2020,Banque,Senior Developer,Banque,2,97000.0,3,75,9.0
+1324,Personne_01324,Université de Bourgogne,2008,Tech,CEO,Tech,16,105000.0,6,134,9.0
+1325,Personne_01325,Université Paris Cité,2013,Tech,CFO,Tech,9,109500.0,6,10641,8.0
+1326,Personne_01326,Université de Montpellier,2020,Conseil,Chef de projet,Conseil,4,74000.0,4,118,9.0
+1327,Personne_01327,Université de Lorraine,2019,Tech,Chef de projet,Tech,3,77500.0,4,159,9.0
+1328,Personne_01328,Université de Rennes,2015,Conseil,Manager,Conseil,7,74000.0,4,152,5.0
+1329,Personne_01329,Université de Strasbourg,2009,Tech,Directeur Général,Tech,14,104500.0,6,369,5.0
+1330,Personne_01330,Université de Bordeaux,2022,Industrie,Senior Developer,Industrie,2,58500.0,3,1531,1.0
+1331,Personne_01331,Université Toulouse Capitole,2007,Industrie,CEO,Industrie,17,120000.0,6,25,10.0
+1332,Personne_01332,Université de Lille,2013,Santé,Directeur de division,Santé,9,88500.0,5,231,7.0
+1333,Personne_01333,Sorbonne Université,2015,Banque,Team Lead,Banque,9,97500.0,4,38,7.0
+1334,Personne_01334,Université de Bordeaux,2014,Santé,Senior Developer,Santé,10,80500.0,3,247,9.0
+1335,Personne_01335,Université de Nantes,2014,Tech,Directeur Technique,Tech,10,107500.0,5,12,8.0
+1336,Personne_01336,Université de Lorraine,2005,Conseil,CEO,Conseil,19,145500.0,6,43199,9.0
+1337,Personne_01337,Université de Montpellier,2015,Juridique,Engineering Manager,Juridique,8,74000.0,4,221,9.0
+1338,Personne_01338,Université de Strasbourg,2022,Conseil,Expert,Conseil,0,91000.0,3,25,10.0
+1339,Personne_01339,Université de Strasbourg,2022,Juridique,Chargé de mission,Juridique,2,64000.0,2,217,7.0
+1340,Personne_01340,Université Paris Cité,2021,Marketing,Directeur,Marketing,2,77500.0,5,52,4.0
+1341,Personne_01341,Sorbonne Université,2006,Marketing,CTO,Marketing,17,82500.0,6,2343,8.0
+1342,Personne_01342,Université de Montpellier,2008,Banque,CFO,Banque,14,119500.0,6,336,4.0
+1343,Personne_01343,Université Paris-Saclay,2015,Banque,CEO,Banque,9,149500.0,6,56,8.0
+1344,Personne_01344,Université de Lorraine,2011,Conseil,CEO,Conseil,13,111500.0,6,261,7.0
+1345,Personne_01345,Université de Bordeaux,2006,Juridique,CFO,Juridique,16,105500.0,6,47,7.0
+1346,Personne_01346,Université de Bordeaux,2016,Tech,Team Lead,Tech,7,96000.0,4,5,9.0
+1347,Personne_01347,Université PSL,2017,Banque,CTO,Banque,7,154500.0,6,757,8.0
+1348,Personne_01348,Université de Lille,2009,Tech,CFO,Tech,15,119500.0,6,115,9.0
+1349,Personne_01349,Ecole Polytechnique,2016,Banque,Directeur Technique,Banque,8,125500.0,5,40,8.0
+1350,Personne_01350,Université de Bordeaux,2017,Industrie,Chef de projet,Industrie,6,70500.0,4,247,7.0
+1351,Personne_01351,Université de Bordeaux,2009,Industrie,Directeur Général,Industrie,13,102500.0,6,47,6.0
+1352,Personne_01352,Université de Lyon,2017,Banque,Engineering Manager,Banque,5,95500.0,4,98,10.0
+1353,Personne_01353,Université Paris-Saclay,2017,Banque,CTO,Banque,7,150500.0,6,82,10.0
+1354,Personne_01354,Université Grenoble Alpes,2014,Banque,Directeur de division,Banque,8,125500.0,5,462,6.0
+1355,Personne_01355,Université de Montpellier,2013,Juridique,Manager,Juridique,11,97000.0,4,580,8.0
+1356,Personne_01356,Université de Bordeaux,2008,Marketing,CFO,Marketing,16,89500.0,6,453,7.0
+1357,Personne_01357,Université de Bordeaux,2022,Santé,Manager,Santé,2,71000.0,4,301,10.0
+1358,Personne_01358,Université Paris-Saclay,2012,Banque,CTO,Banque,12,125500.0,6,1006,6.0
+1359,Personne_01359,Université de Rennes,2022,Conseil,Chargé de mission,Conseil,0,56000.0,2,2777,4.0
+1360,Personne_01360,Université Paris Cité,2016,Industrie,Consultant Senior,Industrie,6,87000.0,3,49,7.0
+1361,Personne_01361,Université Paris-Saclay,2015,Juridique,Directeur Général,Juridique,7,118500.0,6,65,7.0
+1362,Personne_01362,Université Paris Cité,2006,Juridique,Directeur Général,Juridique,16,110000.0,6,241,5.0
+1363,Personne_01363,Université de Lyon,2020,Tech,Consultant Senior,Tech,2,68500.0,3,744,6.0
+1364,Personne_01364,Université Paris Cité,2012,Industrie,CEO,Industrie,11,101500.0,6,24,5.0
+1365,Personne_01365,Université de Rennes,2022,Banque,Consultant Senior,Banque,0,73000.0,3,99,6.0
+1366,Personne_01366,Université Paris Cité,2014,Industrie,CEO,Industrie,10,115500.0,6,1988,8.0
+1367,Personne_01367,Université de Lyon,2015,Industrie,CTO,Industrie,9,102000.0,6,372,7.0
+1368,Personne_01368,Université de Lorraine,2020,Marketing,Senior Developer,Marketing,3,51000.0,3,73,4.0
+1369,Personne_01369,Université Paris-Saclay,2014,Juridique,CEO,Juridique,9,107000.0,6,159,5.0
+1370,Personne_01370,Université Paris-Saclay,2007,Santé,Directeur Général,Santé,17,112500.0,6,228,8.0
+1371,Personne_01371,Université Paris Cité,2019,Santé,Expert,Santé,4,77500.0,3,37,9.0
+1372,Personne_01372,Université Paris-Saclay,2013,Santé,Directeur Technique,Santé,11,111000.0,5,164,10.0
+1373,Personne_01373,Université de Bourgogne,2013,Tech,Directeur,Tech,11,87000.0,5,4542,7.0
+1374,Personne_01374,Université de Lille,2021,Marketing,Analyste Senior,Marketing,1,67000.0,3,402,5.0
+1375,Personne_01375,Université de Lille,2005,Santé,Directeur Technique,Santé,18,109000.0,5,287,7.0
+1376,Personne_01376,Université de Lille,2016,Juridique,Directeur de division,Juridique,6,100000.0,5,169,9.0
+1377,Personne_01377,École Polytechnique,2022,Banque,Consultant,Banque,0,80500.0,2,20,6.0
+1378,Personne_01378,Université Toulouse Capitole,2014,Tech,CTO,Tech,8,110000.0,6,685,10.0
+1379,Personne_01379,Université PSL,2013,Juridique,CFO,Juridique,11,109000.0,6,100,9.0
+1380,Personne_01380,Université de Strasbourg,2018,Industrie,Chef de projet,Industrie,6,82500.0,4,1523,10.0
+1381,Personne_01381,Université de Nantes,2017,Marketing,Team Lead,Marketing,7,70000.0,4,125,2.0
+1382,Personne_01382,Université de Bordeaux,2016,Tech,Directeur Technique,Tech,7,86000.0,5,161,3.0
+1383,Personne_01383,École Polytechnique,2005,Conseil,CTO,Conseil,17,109000.0,6,166,7.0
+1384,Personne_01384,UNIVERSITÉ PARIS-SACLAY,2012,Banque,CTO,Banque,12,132500.0,6,2071,6.0
+1385,Personne_01385,Université de Lorraine,2017,Industrie,Directeur Technique,Industrie,7,84500.0,5,1359,7.0
+1386,Personne_01386,Université de Montpellier,2005,Santé,Directeur Général,Santé,18,117000.0,6,233,6.0
+1387,Personne_01387,Université de Lorraine,2019,Marketing,Consultant Senior,Marketing,3,49000.0,3,228,8.0
+1388,Personne_01388,Université Paris Cité,2013,Conseil,CEO,Conseil,9,135500.0,6,788,9.0
+1389,Personne_01389,Université de Rennes,2020,Tech,Developer,Tech,3,71000.0,2,853,10.0
+1390,Personne_01390,Université de Lille,2008,Marketing,CTO,Marketing,14,79500.0,6,400,6.0
+1391,Personne_01391,Université de Strasbourg,2011,Conseil,CTO,Conseil,13,136500.0,6,5,7.0
+1392,Personne_01392,École Polytechnique,2006,Industrie,CFO,Industrie,16,114500.0,6,245,8.0
+1393,Personne_01393,Université d'Aix-Marseille,2006,Conseil,Directeur Général,Conseil,17,134500.0,6,249,6.0
+1394,Personne_01394,Sorbonne Université,2021,Tech,Engineering Manager,Tech,1,95000.0,4,40,
+1395,Personne_01395,Université Côte d'Azur,2020,Santé,Directeur Technique,Santé,3,102500.0,5,796,8.0
+1396,Personne_01396,Université de Lorraine,2018,Banque,Team Lead,Banque,5,91500.0,4,1778,7.0
+1397,Personne_01397,Université Paris-Saclay,2021,Santé,Expert,Santé,2,77500.0,3,70,9.0
+1398,Personne_01398,Université Paris Cité,2009,Tech,Directeur Technique,Tech,14,111500.0,5,25287,10.0
+1399,Personne_01399,Université de Bordeaux,2019,Juridique,Analyste Confirmé,Juridique,4,75500.0,2,187,7.0
+1400,Personne_01400,Université PSL,2010,Juridique,Directeur Technique,Juridique,13,113000.0,5,9,7.0
+1401,Personne_01401,Sorbonne Université,2014,Santé,CFO,Santé,9,136000.0,6,95,8.0
+1402,Personne_01402,Université Paris-Saclay,2019,Banque,CFO,Banque,4,119500.0,6,2324,8.0
+1403,Personne_01403,Université de Lorraine,2010,Tech,CEO,Tech,14,111500.0,6,79,6.0
+1404,Personne_01404,Université PSL,2019,Santé,Chef de projet,Santé,5,93000.0,4,937,4.0
+1405,Personne_01405,Université de Montpellier,2014,Banque,CTO,Banque,8,110500.0,6,9,9.0
+1406,Personne_01406,Université d'Aix-Marseille,2018,Banque,Directeur Technique,Banque,6,,5,10276,6.0
+1407,Personne_01407,Ecole Polytechnique,2022,Tech,Engineering Manager,Tech,1,76000.0,4,22501,7.0
+1408,Personne_01408,Université de Bordeaux,2018,Juridique,Directeur Technique,Juridique,4,80500.0,5,344,4.0
+1409,Personne_01409,Université de Rennes,2020,Conseil,Engineering Manager,Conseil,4,94500.0,4,161,10.0
+1410,Personne_01410,Université de Lille,2015,Juridique,Directeur Général,Juridique,7,94500.0,6,3944,10.0
+1411,Personne_01411,Université PSL,2011,Industrie,CEO,Industrie,12,119500.0,6,1074,5.0
+1412,Personne_01412,Sorbonne Université,2011,Banque,Directeur,Banque,12,137500.0,5,1623,6.0
+1413,Personne_01413,Université Grenoble Alpes,2007,Conseil,CEO,Conseil,16,138000.0,6,17,4.0
+1414,Personne_01414,Université d'Aix-Marseille,2005,Tech,CTO,Tech,19,148000.0,6,316,8.0
+1415,Personne_01415,Université PSL,2018,Industrie,Directeur Technique,Industrie,4,96500.0,5,13,4.0
+1416,Personne_01416,École Polytechnique,2021,Banque,Engineering Manager,Banque,3,110500.0,4,33,7.0
+1417,Personne_01417,Université de Rennes,2006,Juridique,Directeur Général,Juridique,17,119000.0,6,23,6.0
+1418,Personne_01418,Université de Bordeaux,2005,Juridique,CEO,Juridique,19,97000.0,6,295,8.0
+1419,Personne_01419,Université de Bourgogne,2017,Tech,Engineering Manager,Tech,6,75500.0,4,121,5.0
+1420,Personne_01420,Sorbonne Université,2005,Santé,CEO,Santé,17,99500.0,6,200,5.0
+1421,Personne_01421,Université Côte d'Azur,2006,Industrie,CFO,Industrie,18,102500.0,6,122,5.0
+1422,Personne_01422,Ecole Polytechnique,2014,Santé,Directeur Général,Santé,9,108500.0,6,163,4.0
+1423,Personne_01423,Université de Bordeaux,2008,Industrie,CFO,Industrie,16,102000.0,6,47,7.0
+1424,Personne_01424,Université Paris Cité,2016,Tech,Directeur de division,Tech,7,109000.0,5,140,4.0
+1425,Personne_01425,Université de Nantes,2006,Marketing,CTO,Marketing,18,77000.0,6,278,8.0
+1426,Personne_01426,Université de Bourgogne,2007,Juridique,CTO,Juridique,16,116500.0,6,35,6.0
+1427,Personne_01427,Université de Montpellier,2010,Tech,CEO,Tech,12,91000.0,6,46,3.0
+1428,Personne_01428,Université Grenoble Alpes,2010,Marketing,Directeur Général,Marketing,13,89000.0,6,171,8.0
+1429,Personne_01429,Université de Lyon,2010,Industrie,CTO,Industrie,14,94500.0,6,249,8.0
+1430,Personne_01430,Université Grenoble Alpes,2005,Conseil,Directeur Général,Conseil,19,131500.0,6,229,10.0
+1431,,Université d'Aix-Marseille,2020,Santé,Directeur,Santé,4,91500.0,5,209,4.0
+1432,Personne_01432,UNIVERSITÉ PARIS-SACLAY,2019,Conseil,Manager,Conseil,3,93500.0,4,80,8.0
+1433,Personne_01433,Université Paris-Saclay,2012,Conseil,Directeur de division,Conseil,10,120500.0,5,108,10.0
+1434,Personne_01434,Université Grenoble Alpes,2011,Tech,CEO,Tech,13,130000.0,6,823,7.0
+1435,Personne_01435,Université de Bordeaux,2011,Conseil,Directeur,Conseil,12,119000.0,5,161,8.0
+1436,Personne_01436,Université de Lorraine,2007,Banque,CFO,Banque,16,127500.0,6,23,8.0
+1437,Personne_01437,Université de Nantes,2006,Conseil,CFO,Conseil,17,124500.0,6,8,6.0
+1438,Personne_01438,Sorbonne Université,2005,Banque,CTO,Banque,18,155000.0,6,1254,2.0
+1439,Personne_01439,Sorbonne Université,2022,Tech,Developer,Tech,0,54500.0,2,247,7.0
+1440,Personne_01440,École Polytechnique,2017,Industrie,Directeur,Industrie,5,96500.0,5,162,7.0
+1441,Personne_01441,Université d'Aix-Marseille,2017,Santé,Chef de projet,Santé,7,,4,193,6.0
+1442,Personne_01442,Université Paris-Saclay,2012,Industrie,Directeur Technique,Industrie,10,82000.0,5,1730,6.0
+1443,Personne_01443,Université Paris-Saclay,2006,Banque,CFO,Banque,18,152000.0,6,779,10.0
+1444,Personne_01444,Université de Rennes,2018,Industrie,Chef de projet,Industrie,4,68500.0,4,3268,
+1445,Personne_01445,Université Toulouse Capitole,2011,Conseil,CEO,Conseil,11,133500.0,6,23,7.0
+1446,Personne_01446,Université Grenoble Alpes,2005,Conseil,CTO,Conseil,19,108500.0,6,838,9.0
+1447,Personne_01447,Université de Strasbourg,2005,Marketing,Directeur Général,Marketing,18,91500.0,6,331,9.0
+1448,Personne_01448,Université de Nantes,2010,Banque,Directeur Général,Banque,14,128500.0,6,102,9.0
+1449,Personne_01449,Université de Bourgogne,2006,Tech,CTO,Tech,18,125000.0,6,408,8.0
+1450,Personne_01450,Université Toulouse Capitole,2009,Santé,Directeur de division,Santé,13,87500.0,5,79,5.0
+1451,Personne_01451,École Polytechnique,2018,Banque,CEO,Banque,6,161000.0,6,138,5.0
+1452,Personne_01452,Université de Lyon,2022,Santé,Senior Developer,Santé,1,69000.0,3,180,5.0
+1453,Personne_01453,École Polytechnique,2010,Banque,Directeur Général,Banque,14,122500.0,6,66,8.0
+1454,Personne_01454,Université de Rennes,2012,Juridique,Chef de projet,Juridique,12,93500.0,4,58,8.0
+1455,Personne_01455,Université de Lorraine,2015,Industrie,CFO,Industrie,9,101500.0,6,304,8.0
+1456,Personne_01456,Université d'Aix-Marseille,2015,Santé,Directeur Général,Santé,8,118000.0,6,458,7.0
+1457,Personne_01457,Université de Bourgogne,2012,Banque,Directeur de division,Banque,10,104000.0,5,14,9.0
+1458,Personne_01458,UNIVERSITÉ PARIS-SACLAY,2009,Marketing,CTO,Marketing,14,100500.0,6,340,7.0
+1459,Personne_01459,Université de Bordeaux,2005,Santé,CTO,Santé,18,151000.0,6,99,6.0
+1460,Personne_01460,Université de Rennes,2018,Industrie,Team Lead,Industrie,5,59000.0,4,316,5.0
+1461,,Université de Bordeaux,2015,Tech,Manager,Tech,8,89500.0,4,76,6.0
+1462,Personne_01462,Université de Rennes,2013,Banque,CFO,Banque,10,129000.0,6,48,6.0
+1463,Personne_01463,Sorbonne Université,2017,Marketing,Senior Developer,Marketing,6,62500.0,3,729,10.0
+1464,Personne_01464,Université de Bourgogne,2009,Santé,CTO,Santé,13,91000.0,6,12,8.0
+1465,Personne_01465,Université de Lille,2009,Conseil,CFO,Conseil,13,134000.0,6,926,7.0
+1466,Personne_01466,Université Côte d'Azur,2018,Conseil,Manager,Conseil,6,119500.0,4,327,8.0
+1467,Personne_01467,Université de Nantes,2021,Marketing,Chef de projet,Marketing,2,68500.0,4,1280,9.0
+1468,Personne_01468,Université de Strasbourg,2021,Santé,Consultant,Santé,1,56000.0,2,224,4.0
+1469,Personne_01469,sorbonne universite,2008,Tech,Directeur Général,Tech,16,119000.0,6,173,7.0
+1470,Personne_01470,Université Paris-Saclay,2007,Banque,CFO,Banque,15,130500.0,6,1380,4.0
+1471,Personne_01471,UNIVERSITÉ PARIS-SACLAY,2018,Conseil,Senior Developer,Conseil,4,83000.0,3,207,9.0
+1472,Personne_01472,Université d'Aix-Marseille,2007,Industrie,Directeur Général,Industrie,16,89500.0,6,215,7.0
+1473,Personne_01473,Université PSL,2013,Banque,CEO,Banque,9,122000.0,6,569,9.0
+1474,Personne_01474,Université Grenoble Alpes,2011,Industrie,Directeur de division,Industrie,13,,5,100,3.0
+1475,Personne_01475,Ecole Polytechnique,2005,Banque,CEO,Banque,17,144500.0,6,188,5.0
+1476,Personne_01476,Université de Strasbourg,2019,Industrie,Chef de projet,Industrie,3,70500.0,4,252,4.0
+1477,,Université de Nantes,2005,Tech,CFO,Tech,18,107500.0,6,225,6.0
+1478,Personne_01478,Université d'Aix-Marseille,2009,Santé,Directeur Technique,Santé,13,100000.0,5,2237,7.0
+1479,Personne_01479,UNIVERSITÉ PARIS-SACLAY,2013,Industrie,Directeur,Industrie,10,97500.0,5,1688,8.0
+1480,Personne_01480,Université Toulouse Capitole,2016,Marketing,Manager,Marketing,6,72000.0,4,1585,
+1481,Personne_01481,Université de Montpellier,2009,Juridique,CEO,Juridique,13,101500.0,6,138,10.0
+1482,Personne_01482,Université Grenoble Alpes,2017,Banque,Chef de projet,Banque,5,121500.0,4,883,6.0
+1483,Personne_01483,Université de Montpellier,2018,Marketing,Consultant Senior,Marketing,5,65000.0,3,159,8.0
+1484,Personne_01484,Université de Bordeaux,2019,Conseil,Engineering Manager,Conseil,5,88500.0,4,104,9.0
+1485,Personne_01485,Université de Montpellier,2015,Banque,Team Lead,Banque,8,67500.0,4,1301,6.0
+1486,Personne_01486,Université de Lyon,2022,Marketing,Chef de projet,Marketing,0,69000.0,4,1907,8.0
+1487,Personne_01487,Université Grenoble Alpes,2017,Conseil,Directeur Technique,Conseil,7,119000.0,5,161,8.0
+1488,Personne_01488,Université Paris Cité,2021,Industrie,Analyste Senior,Industrie,3,67000.0,3,705,10.0
+1489,,Université de Lille,2012,Tech,CFO,Tech,12,107000.0,6,123,5.0
+1490,Personne_01490,UNIVERSITÉ PARIS-SACLAY,2018,Banque,Team Lead,Banque,5,118500.0,4,49,6.0
+1491,Personne_01491,Université Grenoble Alpes,2014,Juridique,Directeur Général,Juridique,10,110000.0,6,140,9.0
+1492,Personne_01492,Université Côte d'Azur,2010,Juridique,Directeur Général,Juridique,14,107500.0,6,73,7.0
+1493,Personne_01493,Université Côte d'Azur,2017,Industrie,Directeur de division,Industrie,6,85500.0,5,97,6.0
+1494,Personne_01494,Université de Lyon,2014,Conseil,CEO,Conseil,8,112000.0,6,3125,5.0
+1495,,École Polytechnique,2015,Juridique,Directeur Technique,Juridique,8,125000.0,5,307,6.0
+1496,Personne_01496,Université de Lyon,2009,Marketing,CEO,Marketing,15,95000.0,6,6,7.0
+1497,Personne_01497,Université de Lorraine,2019,Conseil,Directeur,Conseil,3,77500.0,5,67,5.0
+1498,Personne_01498,Université Toulouse Capitole,2008,Santé,CTO,Santé,14,108000.0,6,3128,7.0
+1499,Personne_01499,Université Grenoble Alpes,2017,Banque,Team Lead,Banque,6,125000.0,4,673,8.0
+1500,Personne_01500,Université de Lille,2013,Juridique,Chef de projet,Juridique,11,83500.0,4,5581,10.0
+577,Personne_00577,Sorbonne Université,2010,Banque,CFO,Banque,14,158500.0,6,149,7.0
+1159,Personne_01159,Université PSL,2006,Tech,Directeur Général,Tech,16,139000.0,6,111,6.0
+329,Personne_00329,Ecole Polytechnique,2012,Marketing,CFO,Marketing,12,126000.0,6,1157,5.0
+993,Personne_00993,Université de Bourgogne,2022,Juridique,Manager,Juridique,2,77000.0,4,196,5.0
+559,Personne_00559,Université d'Aix-Marseille,2007,Santé,CEO,Santé,17,95000.0,6,393,6.0
+946,Personne_00946,Université Grenoble Alpes,2016,Tech,CFO,Tech,8,77500.0,6,52,7.0
+1008,Personne_01008,Université de Lille,2015,Banque,Expert,Banque,9,95500.0,3,573,10.0
+967,Personne_00967,École Polytechnique,2008,Conseil,Directeur Général,Conseil,14,144000.0,6,110,5.0
+184,Personne_00184,Université de Strasbourg,2021,Tech,Expert,Tech,1,70000.0,3,3268,8.0
+1244,Personne_01244,Université Paris Cité,2010,Conseil,Directeur Général,Conseil,13,121000.0,6,135,
+110,Personne_00110,Université Côte d'Azur,2010,Banque,Directeur Général,Banque,13,146000.0,6,676,8.0
+1342,Personne_01342,Université de Montpellier,2008,Banque,CFO,Banque,14,119500.0,6,336,4.0
+317,Personne_00317,Université Grenoble Alpes,2014,Santé,Directeur de division,Santé,8,101000.0,5,1379,7.0
+862,Personne_00862,Université Paris Cité,2012,Industrie,Directeur Général,Industrie,12,103000.0,6,1973,
+1038,Personne_01038,Université de Montpellier,2013,Santé,Directeur de division,Santé,9,98500.0,5,90,8.0
